@@ -1,0 +1,77 @@
+{
+  "id": 890424365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.6,9.9,139.6,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":139.6,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":773,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ulithi"
+    ],
+    "qs:name":"Ulithi Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Ulithi",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.UL",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":2367,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626955,
+        "hasc:id":"FM.YA.UL",
+        "qs:id":694181,
+        "wd:id":"Q1350219",
+        "wk:page":"Ulithi"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051541,
+    "wof:geomhash":"659c88c639c41caad317fe1e2b3f5189",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424365
+        }
+    ],
+    "wof:id":890424365,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Ulithi Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":773,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"UL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.6,
+    9.9,
+    139.6,
+    9.9
+],
+  "geometry": {"coordinates":[139.59999999999999,9.9],"type":"Point"}
+}

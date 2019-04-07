@@ -1,0 +1,62 @@
+{
+  "id": 1226155973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70035,6.22578,160.70035,6.22578",
+    "geom:latitude":6.22578,
+    "geom:longitude":160.70035,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"PI",
+    "gn:asciiname":"Pingelap Inhabitants Refuge WW2",
+    "gn:country_code":"FM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7627165,
+    "gn:latitude":6.22578,
+    "gn:longitude":160.70035,
+    "gn:modification_date":"2010-12-23",
+    "gn:name":"Pingelap Inhabitants Refuge WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627165
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"53d656633df9e9b53d33cd23e9b76a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226155973,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226155973,
+    "wof:lastmodified":1537060230,
+    "wof:name":"Pingelap Inhabitants Refuge WW2",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70035,
+    6.22578,
+    160.70035,
+    6.22578
+],
+  "geometry": {"coordinates":[160.70034999999999,6.22578],"type":"Point"}
+}

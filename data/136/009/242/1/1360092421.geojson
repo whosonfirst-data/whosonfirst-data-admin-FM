@@ -1,0 +1,73 @@
+{
+  "id": 1360092421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.6364,7.35355,151.6364,7.35355",
+    "geom:latitude":7.35355,
+    "geom:longitude":151.6364,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TL",
+    "gn:asciiname":"Amachang",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044170,
+    "gn:latitude":7.35355,
+    "gn:longitude":151.6364,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Amachang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unun En Amachang",
+        "Amadjang",
+        "Amatang",
+        "Amwachang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044170
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"ed8cef21179f6fbb1f6e3aedb6ab6d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1360092421,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1360092421,
+    "wof:lastmodified":1537622470,
+    "wof:name":"Amachang",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.6364,
+    7.35355,
+    151.6364,
+    7.35355
+],
+  "geometry": {"coordinates":[151.63640000000001,7.35355],"type":"Point"}
+}

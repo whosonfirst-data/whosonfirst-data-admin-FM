@@ -1,0 +1,66 @@
+{
+  "id": 1193151313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.02093,5.35594,163.02093,5.35594",
+    "geom:latitude":5.35594,
+    "geom:longitude":163.02093,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LE",
+    "gn:asciiname":"Pukusruk Te",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041767,
+    "gn:latitude":5.35594,
+    "gn:longitude":163.02093,
+    "gn:modification_date":"2011-01-31",
+    "gn:name":"Pukusruk Te",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041767
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"24b107d45ebba4912bb9f0bccf501c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1193151313,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1193151313,
+    "wof:lastmodified":1536377924,
+    "wof:name":"Pukusruk Te",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.02093,
+    5.35594,
+    163.02093,
+    5.35594
+],
+  "geometry": {"coordinates":[163.02092999999999,5.35594],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 890446195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8798,7.486,151.8798,7.486",
+    "geom:latitude":7.486,
+    "geom:longitude":151.8798,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":397,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Northern Nomoneas Islands - Fono Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667941,
+        "gp:id":29389680,
+        "qs:id":696651
+    },
+    "wof:country":"FM",
+    "wof:created":1469052542,
+    "wof:geomhash":"ec1d114732bd692cb278fc24d8b5f286",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890446195
+        }
+    ],
+    "wof:id":890446195,
+    "wof:lastmodified":1505343609,
+    "wof:name":"Northern Nomoneas Islands - Fono Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8798,
+    7.486,
+    151.8798,
+    7.486
+],
+  "geometry": {"coordinates":[151.87979999999999,7.486],"type":"Point"}
+}

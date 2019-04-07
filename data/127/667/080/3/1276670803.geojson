@@ -1,0 +1,72 @@
+{
+  "id": 1276670803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.2375,6.96153,158.2375,6.96153",
+    "geom:latitude":6.96153,
+    "geom:longitude":158.2375,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NE",
+    "gn:asciiname":"Tomwara",
+    "gn:country_code":"FM",
+    "gn:dem":14,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042174,
+    "gn:latitude":6.96153,
+    "gn:longitude":158.2375,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Tomwara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomora",
+        "Tamwara",
+        "Tomara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042174
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"aa12cb60d246cfc308056c0300e76247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276670803,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1276670803,
+    "wof:lastmodified":1537622468,
+    "wof:name":"Tomwara",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.2375,
+    6.96153,
+    158.2375,
+    6.96153
+],
+  "geometry": {"coordinates":[158.23750000000001,6.96153],"type":"Point"}
+}

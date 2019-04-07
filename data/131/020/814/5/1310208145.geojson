@@ -1,0 +1,66 @@
+{
+  "id": 1310208145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.31656,6.84781,158.31656,6.84781",
+    "geom:latitude":6.84781,
+    "geom:longitude":158.31656,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Nankepiniak",
+    "gn:country_code":"FM",
+    "gn:dem":20,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044502,
+    "gn:latitude":6.84781,
+    "gn:longitude":158.31656,
+    "gn:modification_date":"2011-02-05",
+    "gn:name":"Nankepiniak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044502
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"3b4ee9ca71e745d7f5303de6697d71ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1310208145,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310208145,
+    "wof:lastmodified":1536847325,
+    "wof:name":"Nankepiniak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.31656,
+    6.84781,
+    158.31656,
+    6.84781
+],
+  "geometry": {"coordinates":[158.31656000000001,6.84781],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 890454167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.032,7.382,147.032,7.382",
+    "geom:latitude":7.382,
+    "geom:longitude":147.032,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":531,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Seteoel"
+    ],
+    "qs:name":"Satawal Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081446,
+        "qs:id":571884
+    },
+    "wof:country":"FM",
+    "wof:created":1469052889,
+    "wof:geomhash":"f995d368947729813570157ee037e69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890454167
+        }
+    ],
+    "wof:id":890454167,
+    "wof:lastmodified":1505343655,
+    "wof:name":"Satawal Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":531,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.032,
+    7.382,
+    147.032,
+    7.382
+],
+  "geometry": {"coordinates":[147.03200000000001,7.382],"type":"Point"}
+}

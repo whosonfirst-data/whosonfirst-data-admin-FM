@@ -1,0 +1,63 @@
+{
+  "id": 890446187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.665,7.4135,151.665,7.4135",
+    "geom:latitude":7.4135,
+    "geom:longitude":151.665,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":1011,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Nomiisofo"
+    ],
+    "qs:name":"Nomwisofo Islands - Ramanum Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667879,
+        "qs:id":696646
+    },
+    "wof:country":"FM",
+    "wof:created":1469052542,
+    "wof:geomhash":"154482feac6e5616fcd2b3b6a925a1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890446187
+        }
+    ],
+    "wof:id":890446187,
+    "wof:lastmodified":1505343609,
+    "wof:name":"Nomwisofo Islands - Ramanum Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1011,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.665,
+    7.4135,
+    151.665,
+    7.4135
+],
+  "geometry": {"coordinates":[151.66499999999999,7.4135],"type":"Point"}
+}

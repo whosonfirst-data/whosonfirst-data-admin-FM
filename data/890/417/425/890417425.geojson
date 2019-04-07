@@ -1,0 +1,77 @@
+{
+  "id": 890417425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.584,7.337,151.584,7.337",
+    "geom:latitude":7.337,
+    "geom:longitude":151.584,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":1851,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Puluwat"
+    ],
+    "qs:name":"Pwene Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Puluwat",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.PW",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":18037,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626997,
+        "hasc:id":"FM.CH.PW",
+        "qs:id":694222,
+        "wd:id":"Q41493",
+        "wk:page":"Ancient history"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051202,
+    "wof:geomhash":"df5d61d722928519ddd7dbca72e80faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890417425
+        }
+    ],
+    "wof:id":890417425,
+    "wof:lastmodified":1536617371,
+    "wof:name":"Pwene Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":1851,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"PW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.584,
+    7.337,
+    151.584,
+    7.337
+],
+  "geometry": {"coordinates":[151.584,7.337],"type":"Point"}
+}

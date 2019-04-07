@@ -1,0 +1,71 @@
+{
+  "id": 1343267807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.15049,9.61852,138.15049,9.61852",
+    "geom:latitude":9.61852,
+    "geom:longitude":138.15049,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RM",
+    "gn:asciiname":"Meechoqol",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037208,
+    "gn:latitude":9.61852,
+    "gn:longitude":138.15049,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Meechoqol",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metjeol",
+        "Mechool",
+        "Mechol",
+        "Metleol",
+        "Mechoru",
+        "Medjeol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037208
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"2977790e1c069fce117db20e5b0c3e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343267807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343267807,
+    "wof:lastmodified":1537622465,
+    "wof:name":"Meechoqol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.15049,
+    9.61852,
+    138.15049,
+    9.61852
+],
+  "geometry": {"coordinates":[138.15048999999999,9.61852],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890445323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.41011,7.53842,149.41011,7.53842",
+    "geom:latitude":7.53842,
+    "geom:longitude":149.41011,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":365,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Molaluk"
+    ],
+    "qs:name":"Tamatam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081378,
+        "qs:id":571881,
+        "wd:id":"Q1604777",
+        "wk:page":"Tamatam"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052505,
+    "wof:geomhash":"6ef524789cf9ce00bc8cfb17eea326a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890445323
+        }
+    ],
+    "wof:id":890445323,
+    "wof:lastmodified":1527792870,
+    "wof:name":"Tamatam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":365,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.41011,
+    7.53842,
+    149.41011,
+    7.53842
+],
+  "geometry": {"coordinates":[149.41011,7.53842],"type":"Point"}
+}

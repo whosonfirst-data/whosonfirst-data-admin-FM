@@ -1,0 +1,65 @@
+{
+  "id": 1225868813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.15992,9.62381,138.15992,9.62381",
+    "geom:latitude":9.62381,
+    "geom:longitude":138.15992,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RM",
+    "gn:asciiname":"Faal",
+    "gn:country_code":"FM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7626604,
+    "gn:latitude":9.62381,
+    "gn:longitude":138.15992,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Faal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626604
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"c96cf7a52ec4e21a52fb94a36ff7dfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1225868813,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225868813,
+    "wof:lastmodified":1536979798,
+    "wof:name":"Faal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.15992,
+    9.62381,
+    138.15992,
+    9.62381
+],
+  "geometry": {"coordinates":[138.15992,9.62381],"type":"Point"}
+}

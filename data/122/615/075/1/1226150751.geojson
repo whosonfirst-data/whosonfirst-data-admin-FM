@@ -1,0 +1,63 @@
+{
+  "id": 1226150751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.60434,7.39315,151.60434,7.39315",
+    "geom:latitude":7.39315,
+    "geom:longitude":151.60434,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"ON",
+    "gn:asciiname":"Nepos",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4045124,
+    "gn:latitude":7.39315,
+    "gn:longitude":151.60434,
+    "gn:modification_date":"2011-02-16",
+    "gn:name":"Nepos",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4045124
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"8fda5f7c206d6bb61f23474d7b01b86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226150751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226150751,
+    "wof:lastmodified":1537067478,
+    "wof:name":"Nepos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.60433999999995,
+    7.39315,
+    151.60433999999995,
+    7.39315
+],
+  "geometry": {"coordinates":[151.60433999999995,7.39315],"type":"Point"}
+}

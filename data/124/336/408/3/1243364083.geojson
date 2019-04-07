@@ -1,0 +1,62 @@
+{
+  "id": 1243364083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.305,7.491,146.305,7.491",
+    "geom:latitude":7.491,
+    "geom:longitude":146.305,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"LA",
+    "gn:asciiname":"Lamotrek",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645726,
+    "gn:latitude":7.491,
+    "gn:longitude":146.305,
+    "gn:modification_date":"2011-01-12",
+    "gn:name":"Lamotrek",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645726
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"6c6e8af4c4293ac62a6a1530da370419",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243364083,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243364083,
+    "wof:lastmodified":1536925039,
+    "wof:name":"Lamotrek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.305,
+    7.491,
+    146.305,
+    7.491
+],
+  "geometry": {"coordinates":[146.30500000000001,7.491],"type":"Point"}
+}

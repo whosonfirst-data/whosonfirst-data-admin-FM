@@ -1,0 +1,93 @@
+{
+  "id": 1276348485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.2062,6.964,158.2062,6.964",
+    "geom:latitude":6.964,
+    "geom:longitude":158.2062,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KL",
+    "gn:asciiname":"Kolonia",
+    "gn:country_code":"FM",
+    "gn:dem":36,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":4043034,
+    "gn:latitude":6.964,
+    "gn:longitude":158.2062,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Kolonia",
+    "gn:population":6074,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kolonia"
+    ],
+    "name:eng_x_preferred":[
+        "Kolonia"
+    ],
+    "name:fra_x_preferred":[
+        "Kolonia"
+    ],
+    "name:und_x_variant":[
+        "Colonia",
+        "Colony Koronia",
+        "Ponape Town",
+        "Koronii",
+        "Ponape",
+        "Colony",
+        "Colony Town",
+        "Koronie",
+        "Mesieng",
+        "Kolonie",
+        "Koroni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4043034,
+        "wk:page":"Kolonia"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e1db1b034e76731c77f96b95fa799ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276348485,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1276348485,
+    "wof:lastmodified":1537622469,
+    "wof:name":"Kolonia",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:population":6074,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.2062,
+    6.964,
+    158.2062,
+    6.964
+],
+  "geometry": {"coordinates":[158.2062,6.964],"type":"Point"}
+}

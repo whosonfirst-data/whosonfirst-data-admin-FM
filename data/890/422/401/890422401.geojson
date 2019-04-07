@@ -1,0 +1,66 @@
+{
+  "id": 890422401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.761,1.067,154.761,1.067",
+    "geom:latitude":1.067,
+    "geom:longitude":154.761,
+    "gn:country":"FM",
+    "gn:fcode":"ATOL",
+    "gn:pop":474,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Constantine Island"
+    ],
+    "qs:name":"Kapingamarangi Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":884,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082057,
+        "qs:id":571909,
+        "wd:id":"Q388347",
+        "wk:page":"Kapingamarangi"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051442,
+    "wof:geomhash":"f9afd6682ca93d1730df64fe182fbc32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422401
+        }
+    ],
+    "wof:id":890422401,
+    "wof:lastmodified":1527727160,
+    "wof:name":"Kapingamarangi Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":474,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.761,
+    1.067,
+    154.761,
+    1.067
+],
+  "geometry": {"coordinates":[154.761,1.067],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310601755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.12479,9.57936,138.12479,9.57936",
+    "geom:latitude":9.57936,
+    "geom:longitude":138.12479,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"FF",
+    "gn:asciiname":"Qayirech",
+    "gn:country_code":"FM",
+    "gn:dem":39,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037370,
+    "gn:latitude":9.57936,
+    "gn:longitude":138.12479,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Qayirech",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eirech",
+        "Eiroch",
+        "Airech",
+        "Airetj",
+        "Ayrech",
+        "Ayirech",
+        "Ayrach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037370
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"d52850b205c3e18437a1079283f21213",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310601755,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310601755,
+    "wof:lastmodified":1537622466,
+    "wof:name":"Qayirech",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.12479,
+    9.57936,
+    138.12479,
+    9.57936
+],
+  "geometry": {"coordinates":[138.12478999999999,9.57936],"type":"Point"}
+}

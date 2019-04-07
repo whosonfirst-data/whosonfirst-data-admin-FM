@@ -1,0 +1,62 @@
+{
+  "id": 1326737959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.3435,8.692,152.3435,8.692",
+    "geom:latitude":8.692,
+    "geom:longitude":152.3435,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"MU",
+    "gn:asciiname":"Murilo",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645190,
+    "gn:latitude":8.692,
+    "gn:longitude":152.3435,
+    "gn:modification_date":"2011-01-08",
+    "gn:name":"Murilo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645190
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"a07eb45108bf1bb3d16b0794fe93695d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326737959,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326737959,
+    "wof:lastmodified":1536687432,
+    "wof:name":"Murilo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.3435,
+    8.692,
+    152.3435,
+    8.692
+],
+  "geometry": {"coordinates":[152.34350000000001,8.692],"type":"Point"}
+}

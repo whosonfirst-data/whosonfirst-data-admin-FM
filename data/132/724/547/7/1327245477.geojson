@@ -1,0 +1,70 @@
+{
+  "id": 1327245477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.01907,5.3419,163.01907,5.3419",
+    "geom:latitude":5.3419,
+    "geom:longitude":163.01907,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LE",
+    "gn:asciiname":"Finpukal",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4043661,
+    "gn:latitude":5.3419,
+    "gn:longitude":163.01907,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Finpukal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funkupal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4043661
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e5ccde83c7d22dcf9a5092b0c6704e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1327245477,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1327245477,
+    "wof:lastmodified":1537622470,
+    "wof:name":"Finpukal",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.01907,
+    5.3419,
+    163.01907,
+    5.3419
+],
+  "geometry": {"coordinates":[163.01907,5.3419],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 890412927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.686,8.575,149.686,8.575",
+    "geom:latitude":8.575,
+    "geom:longitude":149.686,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":580,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u70cf\u70cf"
+    ],
+    "name:dut_x_preferred":[
+        "Ulul"
+    ],
+    "name:eng_x_preferred":[
+        "Ulul"
+    ],
+    "name:fre_x_preferred":[
+        "Onoun"
+    ],
+    "name:ita_x_preferred":[
+        "Onoun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ce\u30a6\u30f3\u5cf6\u200e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0423\u043b\u0443\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Onoun"
+    ],
+    "name:swe_x_preferred":[
+        "Onoun"
+    ],
+    "name:unk_x_variant":[
+        "Ulul Island"
+    ],
+    "qs:name":"Onoun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081677,
+        "qs:id":571894,
+        "wd:id":"Q1604782"
+    },
+    "wof:concordances_alt":{
+        "gn:id":7628272,
+        "qs:id":694271
+    },
+    "wof:country":"FM",
+    "wof:created":1469050981,
+    "wof:geomhash":"c5daf691d5b043b72dde3abc847751d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890412927
+        }
+    ],
+    "wof:id":890412927,
+    "wof:lastmodified":1534379302,
+    "wof:name":"Onoun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890445797
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.686,
+    8.575,
+    149.686,
+    8.575
+],
+  "geometry": {"coordinates":[149.68600000000001,8.575],"type":"Point"}
+}

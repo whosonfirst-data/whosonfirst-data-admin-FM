@@ -1,0 +1,68 @@
+{
+  "id": 1309713869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88895,7.30073,151.88895,7.30073",
+    "geom:latitude":7.30073,
+    "geom:longitude":151.88895,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"UM",
+    "gn:asciiname":"Nepononong",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":5,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081783,
+    "gn:latitude":7.30073,
+    "gn:longitude":151.88895,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Nepononong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neponolong",
+        "Lebonolong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081783
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"28fe0147da25f84866749f6489a264de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309713869,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309713869,
+    "wof:lastmodified":1537622460,
+    "wof:name":"Nepononong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88895,
+    7.30073,
+    151.88895,
+    7.30073
+],
+  "geometry": {"coordinates":[151.88894999999999,7.30073],"type":"Point"}
+}

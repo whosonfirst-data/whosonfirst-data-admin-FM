@@ -1,0 +1,77 @@
+{
+  "id": 890455487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.443,7.25,144.443,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":144.443,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":561,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ifalik"
+    ],
+    "qs:name":"Ifalik Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Ifalik",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.IF",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":293,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626945,
+        "hasc:id":"FM.YA.IF",
+        "qs:id":694171,
+        "wd:id":"Q1430734",
+        "wk:page":"Ifalik"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052954,
+    "wof:geomhash":"52d73bd7efd79510fd601e2362456070",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890455487
+        }
+    ],
+    "wof:id":890455487,
+    "wof:lastmodified":1536617390,
+    "wof:name":"Ifalik Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":561,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"IF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.443,
+    7.25,
+    144.443,
+    7.25
+],
+  "geometry": {"coordinates":[144.44300000000001,7.25],"type":"Point"}
+}

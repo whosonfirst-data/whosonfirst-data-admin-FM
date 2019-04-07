@@ -1,0 +1,71 @@
+{
+  "id": 1343669461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.19776,7.36052,149.19776,7.36052",
+    "geom:latitude":7.36052,
+    "geom:longitude":149.19776,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PW",
+    "gn:asciiname":"Relong",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081502,
+    "gn:latitude":7.36052,
+    "gn:longitude":149.19776,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"Relong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reeron",
+        "Reron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081502
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"ef9bb9cb335d88f4848dc0f201c6005b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1343669461,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1343669461,
+    "wof:lastmodified":1537622459,
+    "wof:name":"Relong",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.19776000000005,
+    7.36052,
+    149.19776000000005,
+    7.36052
+],
+  "geometry": {"coordinates":[149.19776000000005,7.36052],"type":"Point"}
+}

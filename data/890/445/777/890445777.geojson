@@ -1,0 +1,65 @@
+{
+  "id": 890445777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.89,7.381,151.89,7.381",
+    "geom:latitude":7.381,
+    "geom:longitude":151.89,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":3910,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tonowas"
+    ],
+    "qs:name":"Tonoas Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":2194,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626987,
+        "qs:id":694212,
+        "wd:id":"Q3593555",
+        "wk:page":"Chuuk Lagoon"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052522,
+    "wof:geomhash":"681d44c4bed0ad96a4ace9f953ab9341",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890445777
+        }
+    ],
+    "wof:id":890445777,
+    "wof:lastmodified":1527792870,
+    "wof:name":"Tonoas Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":3910,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.89,
+    7.381,
+    151.89,
+    7.381
+],
+  "geometry": {"coordinates":[151.88999999999999,7.381],"type":"Point"}
+}

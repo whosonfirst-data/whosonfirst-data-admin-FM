@@ -1,0 +1,67 @@
+{
+  "id": 1243567133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.23778,6.95761,158.23778,6.95761",
+    "geom:latitude":6.95761,
+    "geom:longitude":158.23778,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NE",
+    "gn:asciiname":"Niheke",
+    "gn:country_code":"FM",
+    "gn:dem":24,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042495,
+    "gn:latitude":6.95761,
+    "gn:longitude":158.23778,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Niheke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042495
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"08eee12e79dfd123b8ac67073b120164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1243567133,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1243567133,
+    "wof:lastmodified":1536629901,
+    "wof:name":"Niheke",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.23778,
+    6.95761,
+    158.23778,
+    6.95761
+],
+  "geometry": {"coordinates":[158.23777999999999,6.95761],"type":"Point"}
+}

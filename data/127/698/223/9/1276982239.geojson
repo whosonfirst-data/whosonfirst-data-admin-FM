@@ -1,0 +1,62 @@
+{
+  "id": 1276982239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.42878,7.6366,149.42878,7.6366",
+    "geom:latitude":7.6366,
+    "geom:longitude":149.42878,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PP",
+    "gn:asciiname":"Pulap",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7628250,
+    "gn:latitude":7.6366,
+    "gn:longitude":149.42878,
+    "gn:modification_date":"2011-01-03",
+    "gn:name":"Pulap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628250
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e3b0aab9bf26b5ca394f3eee206ca1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276982239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276982239,
+    "wof:lastmodified":1536904172,
+    "wof:name":"Pulap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.42878000000005,
+    7.6366,
+    149.42878000000005,
+    7.6366
+],
+  "geometry": {"coordinates":[149.42878000000005,7.6366],"type":"Point"}
+}

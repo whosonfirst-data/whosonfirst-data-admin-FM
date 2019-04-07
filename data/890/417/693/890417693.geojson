@@ -1,0 +1,60 @@
+{
+  "id": 890417693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.585,7.337,151.585,7.337",
+    "geom:latitude":7.337,
+    "geom:longitude":151.585,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":1851,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Faichuk Islands - Polle Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667981,
+        "qs:id":696661
+    },
+    "wof:country":"FM",
+    "wof:created":1469051216,
+    "wof:geomhash":"87e36ebd9cbaf503a1c1fe0e54be11ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890417693
+        }
+    ],
+    "wof:id":890417693,
+    "wof:lastmodified":1505343440,
+    "wof:name":"Faichuk Islands - Polle Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1851,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.585,
+    7.337,
+    151.585,
+    7.337
+],
+  "geometry": {"coordinates":[151.58500000000001,7.337],"type":"Point"}
+}

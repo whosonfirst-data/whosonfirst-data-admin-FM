@@ -1,0 +1,74 @@
+{
+  "id": 421181269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.87645,7.36519,151.87645,7.36519",
+    "geom:latitude":7.36519,
+    "geom:longitude":151.87645,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Lugan"
+    ],
+    "qs:gn_country":"FM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2081736,
+    "qs:gn_pop":0,
+    "qs:name":"Nukan",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Chuuk",
+    "qs:photos":189,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":189,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484168,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":29389682,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081736,
+        "gp:id":29389682,
+        "qs:id":484168
+    },
+    "wof:country":"FM",
+    "wof:created":1459009291,
+    "wof:geomhash":"2bfd146de4e90f57b025de9c5ca9def7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":421181269
+        }
+    ],
+    "wof:id":421181269,
+    "wof:lastmodified":1527716324,
+    "wof:name":"Nukan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.87645,
+    7.36519,
+    151.87645,
+    7.36519
+],
+  "geometry": {"coordinates":[151.87645000000001,7.36519],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277109673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.17891,9.59716,138.17891,9.59716",
+    "geom:latitude":9.59716,
+    "geom:longitude":138.17891,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Wachaelaeb",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037566,
+    "gn:latitude":9.59716,
+    "gn:longitude":138.17891,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Wachaelaeb",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wachoelaeb",
+        "Wacholab",
+        "Gacholab",
+        "Wachdab",
+        "Wachaelaeb",
+        "Wocholab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037566
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"3ca7302351882197267c8ba69c60a858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1277109673,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277109673,
+    "wof:lastmodified":1537622466,
+    "wof:name":"Wachaelaeb",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.17891,
+    9.59716,
+    138.17891,
+    9.59716
+],
+  "geometry": {"coordinates":[138.17891,9.59716],"type":"Point"}
+}

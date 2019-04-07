@@ -1,0 +1,68 @@
+{
+  "id": 1243264435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.17259,9.61552,138.17259,9.61552",
+    "geom:latitude":9.61552,
+    "geom:longitude":138.17259,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Bechyal",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":0,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559304,
+    "gn:latitude":9.61552,
+    "gn:longitude":138.17259,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Bechyal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bechiyel",
+        "Bechiel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559304
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"d9c47725bb7970bff727e174bfe9a573",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243264435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243264435,
+    "wof:lastmodified":1537622458,
+    "wof:name":"Bechyal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.17259,
+    9.61552,
+    138.17259,
+    9.61552
+],
+  "geometry": {"coordinates":[138.17259000000001,9.61552],"type":"Point"}
+}

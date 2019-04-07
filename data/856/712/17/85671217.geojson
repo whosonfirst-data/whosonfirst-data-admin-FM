@@ -1,0 +1,298 @@
+{
+  "id": 85671217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.032589,
+    "geom:area_square_m":400007919.996687,
+    "geom:bbox":"154.238454623,0.918158269988,158.33863366,8.18508535441",
+    "geom:latitude":6.896507,
+    "geom:longitude":157.689157,
+    "gn:population":34486,
+    "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Pohnpei State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "lbl:latitude":6.887552,
+    "lbl:longitude":158.234019,
+    "mps:latitude":6.887552,
+    "mps:longitude":158.234019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0647\u0646\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b9\u09c7\u09a8\u09cd\u09aa\u09bf \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:cat_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u7eb3\u4f69\u5dde"
+    ],
+    "name:dan_x_preferred":[
+        "Pohnpei State"
+    ],
+    "name:dut_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:eng_x_preferred":[
+        "State of Pohnpei"
+    ],
+    "name:eng_x_variant":[
+        "State of Ponape",
+        "Pohnpei",
+        "Pohnpei State"
+    ],
+    "name:fin_x_preferred":[
+        "Pohnpein osavaltio"
+    ],
+    "name:fra_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:fre_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10dc\u10de\u10d4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bundesstaat Pohnpei"
+    ],
+    "name:glg_x_preferred":[
+        "Estado de Pohnpei"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c7\u03bd\u03c0\u03ad\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab9\u0acd\u0aa8\u0aaa\u0ac7\u0a87 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0939\u094d\u0928\u092a\u0947\u0907 \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:ind_x_preferred":[
+        "Negara bagian Pohnpei"
+    ],
+    "name:ita_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30da\u30a4\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0ca8\u0ccd\u0caa\u0cc8 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f0\ud398\uc774 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Ponpejas \u0161tats"
+    ],
+    "name:lit_x_preferred":[
+        "Ponp\u0117jaus valstija"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0939\u094d\u0928\u092a\u0947\u0908 \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:may_x_preferred":[
+        "Pohnpei State"
+    ],
+    "name:nob_x_preferred":[
+        "Pohnpei state"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u067e\u0648\u0646\u0627\u067e\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:por_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u043f\u0435\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0db1\u0dca\u0db4\u0dd9\u0dba\u0dd2 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Pohnpei"
+    ],
+    "name:swe_x_preferred":[
+        "Pohnpei State"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb9\u0bcd\u0ba3\u0bcd\u0baa\u0bc7\u0baf\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c39\u0c46\u0c28\u0c4d\u0c2a\u0c40 \u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e42\u0e1b\u0e19\u0e40\u0e1b"
+    ],
+    "name:tur_x_preferred":[
+        "Pohnpei Eyaleti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043d\u043f\u0435\u0456"
+    ],
+    "name:unk_x_variant":[
+        "State of Ponape"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u062d\u0646\u067e\u06cc\u06cc \u0627\u0633\u0679\u06cc\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Bang Pohnpei"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"FSM",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"FSM-4941",
+    "ne:adm1_code":"FSM-4941",
+    "ne:admin":"Federated States of Micronesia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"FM.PO",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4941",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"FM02",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Federated States of Micronesia",
+    "ne:gn_a1_code":"FM.02",
+    "ne:gn_id":"2081550",
+    "ne:gn_level":"1",
+    "ne:gn_name":"State of Pohnpei",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"FM02",
+    "ne:gns_id":"-3740856",
+    "ne:gns_lang":"",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Pohnpei, State of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"FSM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"FM-PNI",
+    "ne:iso_a2":"FM",
+    "ne:labelrank":"20",
+    "ne:latitude":"6.86579000000",
+    "ne:longitude":"158.16300000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":4,
+    "ne:name":"Pohnpei",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FSM",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Pohnpei_State",
+    "ne:woe_id":2345341,
+    "ne:woe_label":"Pohnpei, FM, Federated States of Micronesia",
+    "ne:woe_name":"Pohnpei",
+    "qs:a0":"Federated States of Micronesia",
+    "qs:a0_lc":"FM",
+    "qs:a1":"Pohnpei",
+    "qs:a1_lc":"FSM-4941",
+    "qs:adm0":"Federated States of Micronesia",
+    "qs:adm0_a3":"FSM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-04-04",
+    "statoids:area_km":"344",
+    "statoids:area_mi":"133",
+    "statoids:as_of_date":"2010-04-04",
+    "statoids:capital":"Palikir",
+    "statoids:country":"FM",
+    "statoids:gec":"FM02",
+    "statoids:hasc":"FM.PO",
+    "statoids:iso":"PNI",
+    "statoids:name":"Pohnpei",
+    "statoids:population":"35981",
+    "statoids:timezone":"+11",
+    "statoids:type":"state",
+    "unlc:subdivision":"FM-PNI",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"FM02",
+        "gn:id":2081550,
+        "gp:id":2345341,
+        "hasc:id":"FM.PO",
+        "iso:id":"FM-PNI",
+        "qs:id":235595,
+        "unlc:id":"FM-PNI",
+        "wd:id":"Q7771127",
+        "wk:page":"Pohnpei State"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"ed4d1806dd43242b7419b00e062c5793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":85671217,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814770,
+    "wof:name":"Pohnpei",
+    "wof:parent_id":85632431,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"state",
+    "wof:population":35981,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"PO",
+    "wof:subdivision":"FM-PNI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.2384546234822,
+    0.91815826998823,
+    158.3386336604152,
+    8.18508535440566
+],
+  "geometry": {"coordinates":[[[[154.81763756612088,0.92218659153804],[154.81283613428025,0.91815826998823],[154.80176842517278,0.91819896071354],[154.79859459716295,0.92446523618173],[154.80298912894523,0.9270694030306],[154.8081160820916,0.92780182529407],[154.81430097700854,0.92576732050549],[154.81763756612088,0.92218659153804]]],[[[154.73292076927817,0.96702708553164],[154.7268172540131,0.96063873968615],[154.71509850409279,0.96137116105029],[154.7148543633383,0.96556224190397],[154.72193444072195,0.96918366159673],[154.73292076927817,0.96702708553164]]],[[[154.79656009237442,0.96580638265846],[154.79232832079549,0.96287669540322],[154.78370201923292,0.96369049731862],[154.77816816512882,0.968817450465],[154.77849368643456,0.97370026195756],[154.78435306094502,0.97549062689097],[154.79314212271083,0.9721133479527],[154.79656009237442,0.96580638265846]]],[[[154.89429772166261,3.76284414334259],[154.87924238442861,3.75193919533763],[154.87671959723173,3.76797109648896],[154.89185631591636,3.77879466394262],[154.89429772166261,3.76284414334259]]],[[[154.79175866053379,3.77655670822554],[154.77369225369466,3.76626211120754],[154.77125084704903,3.78148021044342],[154.78931725388827,3.79181549728742],[154.79175866053379,3.77655670822554]]],[[[157.1624455090531,5.77582428646173],[157.16187584699276,5.77387116132508],[157.16065514411969,5.77619049759346],[157.15894615973752,5.77789948107625],[157.15845787912792,5.77920156539994],[157.16089928487418,5.77993398586483],[157.1639103517814,5.77871328299165],[157.16382897212941,5.77728913008934],[157.1624455090531,5.77582428646173]]],[[[157.94581139418051,6.72260163056086],[157.93637128980322,6.71718984593468],[157.93921959740658,6.7273623725755],[157.94206790500982,6.73053620058522],[157.94890384253836,6.7316755229071],[157.94825279992688,6.72577545857058],[157.94581139418051,6.72260163056086]]],[[[158.20167076909081,6.97003815303839],[158.20826256586474,6.96527741102375],[158.21802819154789,6.97085195495379],[158.22527103003404,6.97020091414095],[158.23243248796905,6.96710846668242],[158.24236087295594,6.96527741102375],[158.26734459697559,6.96637604441895],[158.27662194114976,6.96527741102375],[158.27735436341322,6.96320221640923],[158.29395592482615,6.95229726840427],[158.297048373184,6.95164622669205],[158.30347740975469,6.94285716402698],[158.30079186325395,6.94074127868709],[158.29078209681643,6.93797435163509],[158.29623457126854,6.92812734630002],[158.30469811352714,6.92438385623001],[158.31470787906539,6.92576732020569],[158.32496178535814,6.93113841410656],[158.33822675945748,6.87909577055342],[158.33863366041521,6.86908600501516],[158.33073978021673,6.86660390854359],[158.30884850365555,6.86847565312894],[158.30445397187339,6.86595286683138],[158.30640709701004,6.85521067902965],[158.3156030615321,6.83661530265414],[158.31755618576938,6.8246931009059],[158.31381269569943,6.80866120065394],[158.30453535242464,6.79930247592858],[158.29249108209785,6.79507070524892],[158.24447675919509,6.7882754584457],[158.22535240968602,6.78949616131882],[158.21509850429265,6.80076732045552],[158.19353274813784,6.79344310141806],[158.18018639438662,6.80247630393831],[158.17058352980609,6.81753164297101],[158.16049238371659,6.82811107056949],[158.16456139419302,6.84121328356622],[158.16602623782069,6.85398997615653],[158.16293379036222,6.86579010662814],[158.1530867850272,6.87592194254364],[158.15593509173118,6.87986888264288],[158.16049238371659,6.89020416948688],[158.13298587339943,6.89191315296966],[158.12582441546442,6.90741608368535],[158.13249759189046,6.94135163057337],[158.1418563157165,6.95099518408051],[158.1611434254288,6.95136139521224],[158.17823326925009,6.95604075757495],[158.18091881575083,6.97894928608076],[158.20167076909081,6.97003815303839]]],[[[154.30429121246959,8.1118431658295],[154.29590904986287,8.10594310149298],[154.27930748844994,8.1259626325695],[154.2548120450399,8.13646067961673],[154.2384546234822,8.14337799769646],[154.24537194066261,8.15643951996793],[154.24984785209676,8.17316315355674],[154.25977623798303,8.18008047163653],[154.26669355606282,8.183172919095],[154.29102623837025,8.18508535440566],[154.29965253993282,8.17511627869334],[154.30966230637046,8.16710032811767],[154.31332441498978,8.13751862228662],[154.30836022204664,8.11900462466377],[154.30429121246959,8.1118431658295]]]],"type":"MultiPolygon"}
+}

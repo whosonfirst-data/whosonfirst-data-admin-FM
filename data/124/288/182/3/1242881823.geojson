@@ -1,0 +1,63 @@
+{
+  "id": 1242881823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88634,7.35859,151.88634,7.35859",
+    "geom:latitude":7.35859,
+    "geom:longitude":151.88634,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"DU",
+    "gn:asciiname":"Etten",
+    "gn:country_code":"FM",
+    "gn:dem":12,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042021,
+    "gn:latitude":7.35859,
+    "gn:longitude":151.88634,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Etten",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042021
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"dc099109b2977c9b74238c306b3d6c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242881823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242881823,
+    "wof:lastmodified":1536623438,
+    "wof:name":"Etten",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88634,
+    7.35859,
+    151.88634,
+    7.35859
+],
+  "geometry": {"coordinates":[151.88633999999999,7.35859],"type":"Point"}
+}

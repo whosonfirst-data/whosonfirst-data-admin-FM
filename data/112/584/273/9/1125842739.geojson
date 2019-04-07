@@ -1,0 +1,72 @@
+{
+  "id": 1125842739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.52029,8.58889,144.52029,8.58889",
+    "geom:latitude":8.58889,
+    "geom:longitude":144.52029,
+    "gn:gn_country":"FM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":221,
+    "gn:population":221,
+    "iso:country":"FM",
+    "lbl:latitude":8.58889,
+    "lbl:longitude":144.52029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FM",
+    "qs_pg:gn_country":"FM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7646293,
+    "qs_pg:gn_pop":221,
+    "qs_pg:name":"Faraulep Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":695441,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646293,
+        "qs_pg:id":695441
+    },
+    "wof:country":"FM",
+    "wof:created":1497293003,
+    "wof:geomhash":"593f9348ccda587b02e345f770a1b6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125842739,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125842739,
+    "wof:lastmodified":1509395380,
+    "wof:name":"Faraulep Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.52029,
+    8.58889,
+    144.52029,
+    8.58889
+],
+  "geometry": {"coordinates":[144.52028999999999,8.58889],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 890451775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.37841,7.45758,146.37841,7.45758",
+    "geom:latitude":7.45758,
+    "geom:longitude":146.37841,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":339,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Lamotrek Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645727,
+        "qs:id":695338,
+        "wk:page":"Yap State"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052793,
+    "wof:geomhash":"d44c70621684512e66582c4467637161",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890451775
+        }
+    ],
+    "wof:id":890451775,
+    "wof:lastmodified":1527792941,
+    "wof:name":"Lamotrek Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.37841,
+    7.45758,
+    146.37841,
+    7.45758
+],
+  "geometry": {"coordinates":[146.37841,7.45758],"type":"Point"}
+}

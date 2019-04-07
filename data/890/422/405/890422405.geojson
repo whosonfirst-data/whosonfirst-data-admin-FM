@@ -1,0 +1,64 @@
+{
+  "id": 890422405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8796,7.486,151.8796,7.486",
+    "geom:latitude":7.486,
+    "geom:longitude":151.8796,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":397,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Fano"
+    ],
+    "qs:name":"Fono Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082124,
+        "gp:id":29389680,
+        "qs:id":571911
+    },
+    "wof:country":"FM",
+    "wof:created":1469051442,
+    "wof:geomhash":"8fa8d058b5c30db146d1bd519352558e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422405
+        }
+    ],
+    "wof:id":890422405,
+    "wof:lastmodified":1505343469,
+    "wof:name":"Fono Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8796,
+    7.486,
+    151.8796,
+    7.486
+],
+  "geometry": {"coordinates":[151.87960000000001,7.486],"type":"Point"}
+}

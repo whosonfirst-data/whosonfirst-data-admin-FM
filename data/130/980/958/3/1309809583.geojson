@@ -1,0 +1,63 @@
+{
+  "id": 1309809583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.08468,9.52762,138.08468,9.52762",
+    "geom:latitude":9.52762,
+    "geom:longitude":138.08468,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"DA",
+    "gn:asciiname":"Kanif",
+    "gn:country_code":"FM",
+    "gn:dem":9,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559055,
+    "gn:latitude":9.52762,
+    "gn:longitude":138.08468,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Kanif",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559055
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"9c561e531e29b73059e1f563a8160633",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309809583,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309809583,
+    "wof:lastmodified":1536926245,
+    "wof:name":"Kanif",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.08468,
+    9.52762,
+    138.08468,
+    9.52762
+],
+  "geometry": {"coordinates":[138.08467999999999,9.52762],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 890445775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.623,7.333,151.623,7.333",
+    "geom:latitude":7.333,
+    "geom:longitude":151.623,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":5129,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tolensom Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626986,
+        "qs:id":694211
+    },
+    "wof:country":"FM",
+    "wof:created":1469052522,
+    "wof:geomhash":"ced9304a49eaade33b3759a8f4dfa170",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890445775
+        }
+    ],
+    "wof:id":890445775,
+    "wof:lastmodified":1505343607,
+    "wof:name":"Tolensom Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":5129,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.623,
+    7.333,
+    151.623,
+    7.333
+],
+  "geometry": {"coordinates":[151.62299999999999,7.333],"type":"Point"}
+}

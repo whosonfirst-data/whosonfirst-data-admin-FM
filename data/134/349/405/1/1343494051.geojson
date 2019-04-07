@@ -1,0 +1,62 @@
+{
+  "id": 1343494051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.84133,7.32671,143.84133,7.32671",
+    "geom:latitude":7.32671,
+    "geom:longitude":143.84133,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"WO",
+    "gn:asciiname":"Falalis",
+    "gn:country_code":"FM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646754,
+    "gn:latitude":7.32671,
+    "gn:longitude":143.84133,
+    "gn:modification_date":"2011-01-19",
+    "gn:name":"Falalis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646754
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"f7e8147f95a0c0fed05df769ddae933d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343494051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343494051,
+    "wof:lastmodified":1536697976,
+    "wof:name":"Falalis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.84133,
+    7.32671,
+    143.84133,
+    7.32671
+],
+  "geometry": {"coordinates":[143.84133,7.32671],"type":"Point"}
+}

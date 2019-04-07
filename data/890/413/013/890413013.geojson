@@ -1,0 +1,69 @@
+{
+  "id": 890413013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.758,6.688,159.758,6.688",
+    "geom:latitude":6.688,
+    "geom:longitude":159.758,
+    "gn:country":"FM",
+    "gn:fcode":"ATOL",
+    "gn:pop":177,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:pon_x_preferred":[
+        "Mwoakilloa"
+    ],
+    "name:unk_x_variant":[
+        "Duperrey Isles"
+    ],
+    "qs:name":"Mokil Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081900,
+        "qs:id":571903,
+        "wd:id":"Q518320",
+        "wk:page":"Mokil Atoll"
+    },
+    "wof:country":"FM",
+    "wof:created":1469050985,
+    "wof:geomhash":"d0ef0ccbff2fe21baadc65e6e83ddeb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890413013
+        }
+    ],
+    "wof:id":890413013,
+    "wof:lastmodified":1527727169,
+    "wof:name":"Mokil Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.758,
+    6.688,
+    159.758,
+    6.688
+],
+  "geometry": {"coordinates":[159.75800000000001,6.688],"type":"Point"}
+}

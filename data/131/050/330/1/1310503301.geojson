@@ -1,0 +1,68 @@
+{
+  "id": 1310503301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.8205,5.507,153.8205,5.507",
+    "geom:latitude":5.507,
+    "geom:longitude":153.8205,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"LU",
+    "gn:asciiname":"Lukunor",
+    "gn:country_code":"FM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645369,
+    "gn:latitude":5.507,
+    "gn:longitude":153.8205,
+    "gn:modification_date":"2011-01-10",
+    "gn:name":"Lukunor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lekinioch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645369
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"80a16d577fe1e9b7842238752efc06e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1310503301,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310503301,
+    "wof:lastmodified":1537622472,
+    "wof:name":"Lukunor",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.8205,
+    5.507,
+    153.8205,
+    5.507
+],
+  "geometry": {"coordinates":[153.82050000000001,5.507],"type":"Point"}
+}

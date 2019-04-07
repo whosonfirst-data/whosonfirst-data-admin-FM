@@ -1,0 +1,63 @@
+{
+  "id": 890417695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.668,7.353,151.668,7.353",
+    "geom:latitude":7.353,
+    "geom:longitude":151.668,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":681,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Nomiisofo"
+    ],
+    "qs:name":"Nomwisofo Islands - Fanapanges Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667984,
+        "qs:id":696662
+    },
+    "wof:country":"FM",
+    "wof:created":1469051216,
+    "wof:geomhash":"ab12cc3bec483a3d6d2077a79cbbc56d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890417695
+        }
+    ],
+    "wof:id":890417695,
+    "wof:lastmodified":1505343440,
+    "wof:name":"Nomwisofo Islands - Fanapanges Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":681,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.668,
+    7.353,
+    151.668,
+    7.353
+],
+  "geometry": {"coordinates":[151.66800000000001,7.353],"type":"Point"}
+}

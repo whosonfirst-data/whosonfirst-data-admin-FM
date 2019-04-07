@@ -1,0 +1,68 @@
+{
+  "id": 1209639495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.08544,9.53137,138.08544,9.53137",
+    "geom:latitude":9.53137,
+    "geom:longitude":138.08544,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"DA",
+    "gn:asciiname":"Binaew",
+    "gn:country_code":"FM",
+    "gn:dem":16,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036820,
+    "gn:latitude":9.53137,
+    "gn:longitude":138.08544,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Binaew",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinau",
+        "Binau",
+        "Binaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036820
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"dd9bd0fd41c52d0b64f29cf2b064df23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209639495
+        }
+    ],
+    "wof:id":1209639495,
+    "wof:lastmodified":1537622463,
+    "wof:name":"Binaew",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.08543999999998,
+    9.53137,
+    138.08543999999998,
+    9.53137
+],
+  "geometry": {"coordinates":[138.08543999999998,9.53137],"type":"Point"}
+}

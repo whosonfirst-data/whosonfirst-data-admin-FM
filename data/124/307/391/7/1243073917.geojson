@@ -1,0 +1,71 @@
+{
+  "id": 1243073917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.07482,9.50339,138.07482,9.50339",
+    "geom:latitude":9.50339,
+    "geom:longitude":138.07482,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"DA",
+    "gn:asciiname":"Feeduqor",
+    "gn:country_code":"FM",
+    "gn:dem":23,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036980,
+    "gn:latitude":9.50339,
+    "gn:longitude":138.07482,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Feeduqor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fedeor",
+        "Aringel",
+        "Fed'or",
+        "Fedoor",
+        "Fedaor",
+        "Freeduqor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036980
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"0ab02503478f58b62672dec9ec5759ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243073917,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243073917,
+    "wof:lastmodified":1537622464,
+    "wof:name":"Feeduqor",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.07482,
+    9.50339,
+    138.07482,
+    9.50339
+],
+  "geometry": {"coordinates":[138.07481999999999,9.50339],"type":"Point"}
+}

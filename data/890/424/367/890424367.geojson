@@ -1,0 +1,81 @@
+{
+  "id": 890424367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.11909,9.52712,138.11909,9.52712",
+    "geom:latitude":9.52712,
+    "geom:longitude":138.11909,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":1197,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Weloy"
+    ],
+    "qs:name":"Weloy Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Weloy",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.WE",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626956,
+        "hasc:id":"FM.YA.WE",
+        "qs:id":694182,
+        "wd:id":"Q7037740",
+        "wk:page":"Nimpal Channel Marine Conservation Area"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051541,
+    "wof:geomhash":"344644d1e52d37f518695f3661ac5b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "county_id":890424367,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":890424367,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Weloy Municipality",
+    "wof:parent_id":85671227,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":1197,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"WE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.11909,
+    9.52712,
+    138.11909,
+    9.52712
+],
+  "geometry": {"coordinates":[138.11909,9.52712],"type":"Point"}
+}

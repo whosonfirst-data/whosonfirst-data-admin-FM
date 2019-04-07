@@ -1,0 +1,62 @@
+{
+  "id": 1343964061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.14715,9.63443,138.14715,9.63443",
+    "geom:latitude":9.63443,
+    "geom:longitude":138.14715,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RM",
+    "gn:asciiname":"Bulwol - temp LL",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559277,
+    "gn:latitude":9.63443,
+    "gn:longitude":138.14715,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Bulwol - temp LL",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559277
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e394222d049c1d23bc9149f8ee64749b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343964061,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343964061,
+    "wof:lastmodified":1537014006,
+    "wof:name":"Bulwol - temp LL",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.14715,
+    9.63443,
+    138.14715,
+    9.63443
+],
+  "geometry": {"coordinates":[138.14715000000001,9.63443],"type":"Point"}
+}

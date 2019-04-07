@@ -1,0 +1,77 @@
+{
+  "id": 890451681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.163,7.502,146.163,7.502",
+    "geom:latitude":7.502,
+    "geom:longitude":146.163,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":96,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Elato"
+    ],
+    "qs:name":"Elato Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Elato",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.EL",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":273,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626938,
+        "hasc:id":"FM.YA.EL",
+        "qs:id":694164,
+        "wd:id":"Q1325019",
+        "wk:page":"Elato"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052790,
+    "wof:geomhash":"4e1b6505d8c44c0e89edebd40be797c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890451681
+        }
+    ],
+    "wof:id":890451681,
+    "wof:lastmodified":1536617386,
+    "wof:name":"Elato Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"EL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.163,
+    7.502,
+    146.163,
+    7.502
+],
+  "geometry": {"coordinates":[146.16300000000001,7.502],"type":"Point"}
+}

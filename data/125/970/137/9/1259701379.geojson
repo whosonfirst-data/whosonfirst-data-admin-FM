@@ -1,0 +1,70 @@
+{
+  "id": 1259701379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.02162,5.36327,163.02162,5.36327",
+    "geom:latitude":5.36327,
+    "geom:longitude":163.02162,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LE",
+    "gn:asciiname":"Finfokoa",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081525,
+    "gn:latitude":5.36327,
+    "gn:longitude":163.02162,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Finfokoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pukusrik Wan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081525
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"fa4eb3e29b40128375ffe5f14e9dde36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259701379,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1259701379,
+    "wof:lastmodified":1537622459,
+    "wof:name":"Finfokoa",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.02161999999996,
+    5.36327,
+    163.02161999999996,
+    5.36327
+],
+  "geometry": {"coordinates":[163.02161999999996,5.36327],"type":"Point"}
+}

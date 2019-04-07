@@ -1,0 +1,63 @@
+{
+  "id": 1343568847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8246,7.29291,151.8246,7.29291",
+    "geom:latitude":7.29291,
+    "geom:longitude":151.8246,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TS",
+    "gn:asciiname":"Sapunap",
+    "gn:country_code":"FM",
+    "gn:dem":35,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041929,
+    "gn:latitude":7.29291,
+    "gn:longitude":151.8246,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Sapunap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041929
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"f676233c791a79b7e5583dcd393d254b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343568847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343568847,
+    "wof:lastmodified":1537084136,
+    "wof:name":"Sapunap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8246,
+    7.29291,
+    151.8246,
+    7.29291
+],
+  "geometry": {"coordinates":[151.8246,7.29291],"type":"Point"}
+}

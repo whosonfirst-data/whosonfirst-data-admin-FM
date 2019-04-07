@@ -1,0 +1,67 @@
+{
+  "id": 1209915995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88504,7.29036,151.88504,7.29036",
+    "geom:latitude":7.29036,
+    "geom:longitude":151.88504,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"UM",
+    "gn:asciiname":"Nepon",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":0,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081784,
+    "gn:latitude":7.29036,
+    "gn:longitude":151.88504,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Nepon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leabon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081784
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"7ccacde0bd410abbae7a6f057da09738",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209915995,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209915995,
+    "wof:lastmodified":1537622460,
+    "wof:name":"Nepon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88504,
+    7.29036,
+    151.88504,
+    7.29036
+],
+  "geometry": {"coordinates":[151.88504,7.29036],"type":"Point"}
+}

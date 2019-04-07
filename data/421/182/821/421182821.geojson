@@ -1,0 +1,75 @@
+{
+  "id": 421182821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"138.16179,9.52767,138.16179,9.52767",
+    "geom:latitude":9.52767,
+    "geom:longitude":138.16179,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Datjmur"
+    ],
+    "qs:gn_country":"FM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1559006,
+    "qs:gn_pop":0,
+    "qs:name":"Maaq",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Yap",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":950355,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":29389694,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559006,
+        "gp:id":29389694,
+        "qs:id":950355
+    },
+    "wof:country":"FM",
+    "wof:created":1459009348,
+    "wof:geomhash":"04e812d1c9bd38c4e71446aad2056605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":421182821,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":421182821,
+    "wof:lastmodified":1501220779,
+    "wof:name":"Maaq",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.16179,
+    9.52767,
+    138.16179,
+    9.52767
+],
+  "geometry": {"coordinates":[138.16179,9.52767],"type":"Point"}
+}

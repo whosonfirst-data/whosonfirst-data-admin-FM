@@ -1,0 +1,66 @@
+{
+  "id": 1276981223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.83773,7.37166,143.83773,7.37166",
+    "geom:latitude":7.37166,
+    "geom:longitude":143.83773,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"WO",
+    "gn:asciiname":"Wottegai",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646753,
+    "gn:latitude":7.37166,
+    "gn:longitude":143.83773,
+    "gn:modification_date":"2011-01-19",
+    "gn:name":"Wottegai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646753
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"80f6bbb0b993123e0d355f0a554f2466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276981223,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":1276981223,
+    "wof:lastmodified":1536905573,
+    "wof:name":"Wottegai",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.83773,
+    7.37166,
+    143.83773,
+    7.37166
+],
+  "geometry": {"coordinates":[143.83772999999999,7.37166],"type":"Point"}
+}

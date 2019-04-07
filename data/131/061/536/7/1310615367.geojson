@@ -1,0 +1,67 @@
+{
+  "id": 1310615367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.01917,5.3678,163.01917,5.3678",
+    "geom:latitude":5.3678,
+    "geom:longitude":163.01917,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LE",
+    "gn:asciiname":"Finaunpes",
+    "gn:country_code":"FM",
+    "gn:dem":10,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082139,
+    "gn:latitude":5.3678,
+    "gn:longitude":163.01917,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Finaunpes",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082139
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"45683bd6b6c6515b321d1baec24809e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1310615367,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1310615367,
+    "wof:lastmodified":1536758529,
+    "wof:name":"Finaunpes",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.01917,
+    5.3678,
+    163.01917,
+    5.3678
+],
+  "geometry": {"coordinates":[163.01917,5.3678],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1225848157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.15974,7.61963,155.15974,7.61963",
+    "geom:latitude":7.61963,
+    "geom:longitude":155.15974,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"OR",
+    "gn:asciiname":"Kapingamarangi Settlement not permanent",
+    "gn:country_code":"FM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7627387,
+    "gn:latitude":7.61963,
+    "gn:longitude":155.15974,
+    "gn:modification_date":"2010-12-27",
+    "gn:name":"Kapingamarangi Settlement not permanent",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627387
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"ffe59e31c71873e4f33c1778c8af4f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225848157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225848157,
+    "wof:lastmodified":1537009462,
+    "wof:name":"Kapingamarangi Settlement not permanent",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.15974,
+    7.61963,
+    155.15974,
+    7.61963
+],
+  "geometry": {"coordinates":[155.15974,7.61963],"type":"Point"}
+}

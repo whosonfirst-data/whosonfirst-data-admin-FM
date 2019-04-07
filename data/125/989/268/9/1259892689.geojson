@@ -1,0 +1,66 @@
+{
+  "id": 1259892689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.31151,6.93101,158.31151,6.93101",
+    "geom:latitude":6.93101,
+    "geom:longitude":158.31151,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Sopwlong",
+    "gn:country_code":"FM",
+    "gn:dem":20,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042030,
+    "gn:latitude":6.93101,
+    "gn:longitude":158.31151,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Sopwlong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042030
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"9c0e020daff6b99e54b2aca65f69da2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259892689,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259892689,
+    "wof:lastmodified":1536766204,
+    "wof:name":"Sopwlong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.31151,
+    6.93101,
+    158.31151,
+    6.93101
+],
+  "geometry": {"coordinates":[158.31151,6.93101],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890429695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.126,8.985,150.126,8.985",
+    "geom:latitude":8.985,
+    "geom:longitude":150.126,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":156,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Magur"
+    ],
+    "qs:name":"Makur Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Magur",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.MA",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626967,
+        "hasc:id":"FM.CH.MA",
+        "qs:id":694193,
+        "wd:id":"Q1573799",
+        "wk:page":"Namonuito Atoll"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051825,
+    "wof:geomhash":"006a5b4661121d67e00bc9bdc59fec99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "county_id":890429695,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":890429695,
+    "wof:lastmodified":1536617382,
+    "wof:name":"Makur Municipality",
+    "wof:parent_id":85671221,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.126,
+    8.985,
+    150.126,
+    8.985
+],
+  "geometry": {"coordinates":[150.126,8.985],"type":"Point"}
+}

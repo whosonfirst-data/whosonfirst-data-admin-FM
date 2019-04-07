@@ -1,0 +1,63 @@
+{
+  "id": 890412985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.5845,7.337,151.5845,7.337",
+    "geom:latitude":7.337,
+    "geom:longitude":151.5845,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":1851,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Kiny\u014d-t\u014d"
+    ],
+    "qs:name":"Polle Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081545,
+        "qs:id":571888
+    },
+    "wof:country":"FM",
+    "wof:created":1469050984,
+    "wof:geomhash":"c49d8d4824161c965350d8a5481c6c32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890412985
+        }
+    ],
+    "wof:id":890412985,
+    "wof:lastmodified":1505343412,
+    "wof:name":"Polle Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1851,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.5845,
+    7.337,
+    151.5845,
+    7.337
+],
+  "geometry": {"coordinates":[151.58449999999999,7.337],"type":"Point"}
+}

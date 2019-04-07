@@ -1,0 +1,328 @@
+{
+  "id": 85671221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006113,
+    "geom:area_square_m":74972940.243345,
+    "geom:bbox":"149.169037307,5.28603750213,153.710703973,8.98749420849",
+    "geom:latitude":7.312416,
+    "geom:longitude":151.536383,
+    "gn:elevation":446,
+    "gn:population":54595,
+    "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Chuuk State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "lbl:latitude":7.354315,
+    "lbl:longitude":151.634003,
+    "mps:latitude":7.354315,
+    "mps:longitude":151.634003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u0634\u0648\u0643"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0427\u0443\u045e\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c1\u09c1\u0995 \u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u044e\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Chuuk"
+    ],
+    "name:chi_x_preferred":[
+        "\u695a\u514b"
+    ],
+    "name:cze_x_preferred":[
+        "Chuuk"
+    ],
+    "name:dan_x_preferred":[
+        "Chuuk"
+    ],
+    "name:dut_x_preferred":[
+        "Chuuk"
+    ],
+    "name:eng_x_preferred":[
+        "State of Chuuk"
+    ],
+    "name:eng_x_variant":[
+        "Chuuk",
+        "Chuuk State"
+    ],
+    "name:epo_x_preferred":[
+        "Chuuk"
+    ],
+    "name:est_x_preferred":[
+        "Chuuki saared"
+    ],
+    "name:fin_x_preferred":[
+        "Chuuk"
+    ],
+    "name:fra_x_preferred":[
+        "Chuuk"
+    ],
+    "name:fre_x_preferred":[
+        "Chuuk"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10e3\u10e3\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bundesstaat Chuuk"
+    ],
+    "name:glg_x_preferred":[
+        "Chuuk"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03bf\u03cd\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac1\u0a95 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0942\u0915 \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:ind_x_preferred":[
+        "Chuuk"
+    ],
+    "name:ita_x_preferred":[
+        "Chuuk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30fc\u30af\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cc1\u0c95\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\ud06c \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cuukas \u0161tats"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ciukas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0427\u0443\u043a"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0942\u0915"
+    ],
+    "name:may_x_preferred":[
+        "Chuuk State"
+    ],
+    "name:nob_x_preferred":[
+        "Chuuk"
+    ],
+    "name:oci_x_preferred":[
+        "Chooc"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0686\u0648\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Chuuk"
+    ],
+    "name:por_x_preferred":[
+        "Chuuk"
+    ],
+    "name:rum_x_preferred":[
+        "Chuuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0d9a\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Chuuk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Chuuk"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb0\u0bc1\u0b95\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c42\u0c15\u0c4d \u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e0a\u0e38\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Chuuk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0443\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Truk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0627\u0633\u062a \u0686\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Chuuk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u695a\u514b\u5dde"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"FSM",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"FSM-4942",
+    "ne:adm1_code":"FSM-4942",
+    "ne:admin":"Federated States of Micronesia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"FM.CH",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4942",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"FM03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Federated States of Micronesia",
+    "ne:gn_a1_code":"FM.03",
+    "ne:gn_id":"2082282",
+    "ne:gn_level":"1",
+    "ne:gn_name":"State of Chuuk",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"FM03",
+    "ne:gns_id":"-3739665",
+    "ne:gns_lang":"",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Chuuk, State of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"FSM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"FM-TRK",
+    "ne:iso_a2":"FM",
+    "ne:labelrank":"20",
+    "ne:latitude":"7.44003000000",
+    "ne:longitude":"151.83900000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":4,
+    "ne:name":"Chuuk",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FSM",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Chuuk_State",
+    "ne:woe_id":2345342,
+    "ne:woe_label":"Chuuk, FM, Federated States of Micronesia",
+    "ne:woe_name":"Chuuk",
+    "qs:a0":"Federated States of Micronesia",
+    "qs:a0_lc":"FM",
+    "qs:a1":"Chuuk",
+    "qs:a1_lc":"FSM-4942",
+    "qs:adm0":"Federated States of Micronesia",
+    "qs:adm0_a3":"FSM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-04-04",
+    "statoids:area_km":"127",
+    "statoids:area_mi":"49",
+    "statoids:as_of_date":"2010-04-04",
+    "statoids:capital":"Moen",
+    "statoids:country":"FM",
+    "statoids:gec":"FM03",
+    "statoids:hasc":"FM.CH",
+    "statoids:iso":"TRK",
+    "statoids:name":"Chuuk",
+    "statoids:population":"48651",
+    "statoids:timezone":"+10",
+    "statoids:type":"state",
+    "unlc:subdivision":"FM-TRK",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"FM03",
+        "gn:id":2082282,
+        "gp:id":2345342,
+        "hasc:id":"FM.CH",
+        "iso:id":"FM-TRK",
+        "qs:id":219553,
+        "unlc:id":"FM-TRK",
+        "wd:id":"Q221684",
+        "wk:page":"Chuuk State"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"3ae4d3c87c972f6cad7de0c3b45c46ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":85671221,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Chuuk",
+    "wof:parent_id":85632431,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"state",
+    "wof:population":48651,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"CH",
+    "wof:subdivision":"FM-TRK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.16903730652655,
+    5.28603750212909,
+    153.71070397251037,
+    8.987494208491
+],
+  "geometry": {"coordinates":[[[[153.67823326925009,5.28949616161862],[153.66773522220285,5.28603750212909],[153.67172285212803,5.29767487239747],[153.685313347533,5.30971914362362],[153.70085696717535,5.31696198121051],[153.71070397251037,5.31460195511619],[153.70769290470389,5.30536530256671],[153.69410241019818,5.29645416952434],[153.67823326925009,5.28949616161862]]],[[[149.32105553508495,6.70221588745329],[149.31576582083608,6.69692617410368],[149.31609134214182,6.7039248718354],[149.31690514405727,6.70990631762248],[149.31885826919381,6.71507396059485],[149.32349694083121,6.71946849237708],[149.32569420672235,6.71255117429729],[149.32471764370439,6.70709869984518],[149.32105553508495,6.70221588745329]]],[[[149.20378665532996,7.35993073111837],[149.19369550924046,7.34601471620624],[149.19133548314608,7.35162994996227],[149.19336998793472,7.35696035403714],[149.19670657614768,7.36001211166968],[149.2000431652599,7.36599355745676],[149.20378665532996,7.35993073111837]]],[[[151.86182701900179,7.3271345074516],[151.85678144640667,7.31659577057837],[151.85320071743922,7.35382721585336],[151.85450279996428,7.37006256703387],[151.86264082091725,7.36176178587777],[151.86557050907186,7.35065338694432],[151.865244987766,7.33877187772003],[151.86182701900179,7.3271345074516]]],[[[149.18783613383061,7.36424388234934],[149.18506920677851,7.35911692920297],[149.17823326925009,7.36286041927298],[149.16903730652655,7.36611562693469],[149.16952558713615,7.37295156536248],[149.17912845081742,7.37213776254777],[149.18783613383061,7.36424388234934]]],[[[149.18669681150868,7.37612539337226],[149.18572024849072,7.37164948103879],[149.18083743609884,7.38117096596733],[149.18726647177027,7.38157786692506],[149.18824303478834,7.3797875019917],[149.18669681150868,7.37612539337226]]],[[[151.63640384166399,7.38711172102916],[151.65015709727231,7.36937083549572],[151.65072675933254,7.3542341177104],[151.64454186351622,7.33608633031992],[151.63428795722348,7.32786692971507],[151.62273196750641,7.34267812709396],[151.61589602997788,7.34267812709396],[151.60743248771917,7.33612702014591],[151.59595787945261,7.33673737203213],[151.58269290535338,7.34039948155089],[151.56812584693034,7.34267812709396],[151.57113691473694,7.34625885606141],[151.57422936309467,7.34772370058835],[151.5817977219873,7.34886302291022],[151.59107506616147,7.35342031489569],[151.61736087270617,7.35895416899973],[151.62273196750641,7.36591217690551],[151.61841881627538,7.37588125261777],[151.59693444067193,7.37274811443399],[151.58863366041521,7.38361237261296],[151.62240644620056,7.39175039356587],[151.63640384166399,7.38711172102916]]],[[[151.8702905612605,7.46352773671572],[151.87671959693193,7.45872630397582],[151.88379967521496,7.46356842744103],[151.89226321747356,7.46246979404583],[151.90316816547852,7.45954010589122],[151.91765384245093,7.45872630397582],[151.90748131581017,7.44692617440347],[151.89063561274338,7.4352481143091],[151.8719181650913,7.42674388222446],[151.8562117852457,7.42462799688462],[151.85564212318548,7.43695709869121],[151.85678144640667,7.44717031515796],[151.86304772187498,7.46556224240362],[151.86744225365715,7.46474844048817],[151.8702905612605,7.46352773671572]]],[[[150.40845787912792,8.57929108371661],[150.40748131610997,8.57550690292129],[150.40463300940587,8.58600494996853],[150.40935306069525,8.58466217761747],[150.40984134220423,8.58234284134909],[150.40845787912792,8.57929108371661]]],[[[149.67448977997947,8.58173248946287],[149.66871178512088,8.57469310100583],[149.66529381635655,8.58759186397339],[149.66781660175479,8.60423411701095],[149.67554772175004,8.61644114844029],[149.68726647167034,8.61603424748256],[149.68881269584926,8.60732656536874],[149.6829533213388,8.59430573112462],[149.67448977997947,8.58173248946287]]],[[[150.12281334745808,8.97821686431689],[150.11817467492142,8.97630442900623],[150.12427819108575,8.98550039352841],[150.12745201909547,8.987494208491],[150.13298587319957,8.98607005468932],[150.13054446745332,8.98094310154295],[150.12712649778973,8.97915273660954],[150.12281334745808,8.97821686431689]]]],"type":"MultiPolygon"}
+}

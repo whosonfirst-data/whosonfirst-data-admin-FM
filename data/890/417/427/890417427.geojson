@@ -1,0 +1,62 @@
+{
+  "id": 890417427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.15954,5.78849,157.15954,5.78849",
+    "geom:latitude":5.78849,
+    "geom:longitude":157.15954,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":640,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sapwuafik"
+    ],
+    "qs:name":"Ngatik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627088,
+        "qs:id":694230
+    },
+    "wof:country":"FM",
+    "wof:created":1469051202,
+    "wof:geomhash":"140354230508f7bf49236ac7acff6f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890417427
+        }
+    ],
+    "wof:id":890417427,
+    "wof:lastmodified":1505343438,
+    "wof:name":"Ngatik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":640,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.15954,
+    5.78849,
+    157.15954,
+    5.78849
+],
+  "geometry": {"coordinates":[157.15953999999999,5.78849],"type":"Point"}
+}

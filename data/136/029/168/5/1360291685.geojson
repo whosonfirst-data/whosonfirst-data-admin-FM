@@ -1,0 +1,70 @@
+{
+  "id": 1360291685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1526,9.51615,138.1526,9.51615",
+    "geom:latitude":9.51615,
+    "geom:longitude":138.1526,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TO",
+    "gn:asciiname":"Qaaf",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037340,
+    "gn:latitude":9.51615,
+    "gn:longitude":138.1526,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Qaaf",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Af",
+        "Aff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037340
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"834cd9de0b2d7381bcf18be264096f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1360291685,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360291685,
+    "wof:lastmodified":1537622465,
+    "wof:name":"Qaaf",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1526,
+    9.51615,
+    138.1526,
+    9.51615
+],
+  "geometry": {"coordinates":[138.15260000000001,9.51615],"type":"Point"}
+}

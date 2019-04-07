@@ -1,0 +1,67 @@
+{
+  "id": 1210029133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.22632,6.95733,158.22632,6.95733",
+    "geom:latitude":6.95733,
+    "geom:longitude":158.22632,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NE",
+    "gn:asciiname":"Paliais",
+    "gn:country_code":"FM",
+    "gn:dem":31,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081652,
+    "gn:latitude":6.95733,
+    "gn:longitude":158.22632,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Paliais",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081652
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"280d73077c441f42d9fd49e0066ecb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1210029133,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1210029133,
+    "wof:lastmodified":1536389375,
+    "wof:name":"Paliais",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.22632,
+    6.95733,
+    158.22632,
+    6.95733
+],
+  "geometry": {"coordinates":[158.22631999999999,6.95733],"type":"Point"}
+}

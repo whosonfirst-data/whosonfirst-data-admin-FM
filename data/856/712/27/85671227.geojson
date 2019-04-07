@@ -1,0 +1,236 @@
+{
+  "id": 85671227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007942,
+    "geom:area_square_m":96858535.263232,
+    "geom:bbox":"138.063812696,7.34414297162,143.920339389,9.77558014491",
+    "geom:latitude":9.479667,
+    "geom:longitude":138.290212,
+    "gn:elevation":173,
+    "gn:population":11241,
+    "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Yap State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "lbl:latitude":9.534544,
+    "lbl:longitude":138.134907,
+    "mps:latitude":9.534544,
+    "mps:longitude":138.134907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "State of Yap"
+    ],
+    "name:chi_x_preferred":[
+        "\u96c5\u6d66\u5dde"
+    ],
+    "name:deu_x_preferred":[
+        "Yap"
+    ],
+    "name:eng_x_preferred":[
+        "State of Yap"
+    ],
+    "name:eng_x_variant":[
+        "Yap",
+        "Yap State"
+    ],
+    "name:fin_x_preferred":[
+        "Yapin osavaltio"
+    ],
+    "name:fra_x_preferred":[
+        "Yap"
+    ],
+    "name:fre_x_preferred":[
+        "Yap"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10d0\u10de\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bundesstaat Yap"
+    ],
+    "name:glg_x_preferred":[
+        "Estado de Yap"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u092a \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30c3\u30d7\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10de\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc57c\ud504 \uc8fc"
+    ],
+    "name:pol_x_preferred":[
+        "Yap"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043f"
+    ],
+    "name:unk_x_variant":[
+        "TTPI Yap District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0627\u0633\u062a \u06cc\u0627\u067e"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u6d66\u5dde"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"FSM",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"FSM-4943",
+    "ne:adm1_code":"FSM-4943",
+    "ne:admin":"Federated States of Micronesia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"FM.YA",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4943",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"FM04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Federated States of Micronesia",
+    "ne:gn_a1_code":"FM.04",
+    "ne:gn_id":"2081175",
+    "ne:gn_level":"1",
+    "ne:gn_name":"State of Yap",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"FM04",
+    "ne:gns_id":"-3741502",
+    "ne:gns_lang":"",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Yap, State of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"FSM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"FM-YAP",
+    "ne:iso_a2":"FM",
+    "ne:labelrank":"20",
+    "ne:latitude":"9.58101000000",
+    "ne:longitude":"138.11400000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":4,
+    "ne:name":"Yap",
+    "ne:name_alt":"",
+    "ne:name_len":3,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FSM",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Yap_State",
+    "ne:woe_id":2345343,
+    "ne:woe_label":"Yap, FM, Federated States of Micronesia",
+    "ne:woe_name":"Yap",
+    "qs:a0":"Federated States of Micronesia",
+    "qs:a0_lc":"FM",
+    "qs:a1":"Yap",
+    "qs:a1_lc":"FSM-4943",
+    "qs:adm0":"Federated States of Micronesia",
+    "qs:adm0_a3":"FSM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-04-04",
+    "statoids:area_km":"122",
+    "statoids:area_mi":"47",
+    "statoids:as_of_date":"2010-04-04",
+    "statoids:capital":"Colonia",
+    "statoids:country":"FM",
+    "statoids:gec":"FM04",
+    "statoids:hasc":"FM.YA",
+    "statoids:iso":"YAP",
+    "statoids:name":"Yap",
+    "statoids:population":"11376",
+    "statoids:timezone":"+10",
+    "statoids:type":"state",
+    "unlc:subdivision":"FM-YAP",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"FM04",
+        "gn:id":2081175,
+        "gp:id":2345343,
+        "hasc:id":"FM.YA",
+        "iso:id":"FM-YAP",
+        "qs:id":1285213,
+        "unlc:id":"FM-YAP",
+        "wd:id":"Q11342951",
+        "wk:page":"Yap State"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"27a62ab8c586e5c8c84daaed9955964e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":85671227,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814770,
+    "wof:name":"Yap",
+    "wof:parent_id":85632431,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"state",
+    "wof:population":11376,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"YA",
+    "wof:subdivision":"FM-YAP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.06381269569943,
+    7.3441429716209,
+    143.9203393887518,
+    9.77558014490779
+],
+  "geometry": {"coordinates":[[[[143.92033938875181,7.35496653907455],[143.91545657635993,7.3441429716209],[143.91797936265755,7.35480377797205],[143.91749108204783,7.35993073111837],[143.92033938875181,7.35496653907455]]],[[[143.84302819149787,7.37055084854285],[143.834971550197,7.36782461131679],[143.83904056067342,7.37742747589732],[143.84384199341332,7.37746816662263],[143.84302819149787,7.37055084854285]]],[[[143.85840905003772,7.37791575740636],[143.85938561305568,7.37213776254777],[143.85564212298561,7.37384674692987],[143.85840905003772,7.37791575740636]]],[[[143.9180607432088,7.37323639504365],[143.91610761807215,7.36656321861767],[143.91464277444459,7.36729563998188],[143.90813235822179,7.3707542994714],[143.91041100376492,7.37946198158522],[143.9180607432088,7.37323639504365]]],[[[138.18425540526277,9.54437897361078],[138.19752037936212,9.53900788060923],[138.21900475406619,9.54857005446451],[138.21412194077504,9.53705475547264],[138.20240319085462,9.52118561452454],[138.18873131579767,9.50682200703005],[138.17798912889521,9.50018952043007],[138.16407311308376,9.50482819206746],[138.15658613384312,9.52578359633594],[138.14380944125276,9.52130768400247],[138.13445071742672,9.51186758052449],[138.07984459685076,9.42544179929962],[138.06812584693034,9.41205475482315],[138.06381269569943,9.43610260655009],[138.0730086602216,9.47040436456984],[138.08912194102481,9.50116608344803],[138.10596764409161,9.51447174737331],[138.11296634182327,9.52147044510502],[138.12126712297936,9.55487702065801],[138.12623131592261,9.56598541959147],[138.14112389385264,9.57436758039955],[138.14722741001697,9.56736888266784],[138.15007571672106,9.54116445487574],[138.15186608165436,9.55084870000752],[138.15495853001221,9.56073639516853],[138.15919029979261,9.56952545783366],[138.1643986343895,9.57587311385316],[138.17318769615531,9.58234284114923],[138.18490644607573,9.58881256754603],[138.19361412908881,9.58885325737197],[138.19239342531637,9.57587311385316],[138.18165123841402,9.55874258020594],[138.18425540526277,9.54437897361078]]],[[[140.52466881641283,9.76447174687365],[140.51539147223866,9.76117584848669],[140.51417076936559,9.76780833508667],[140.5217391291576,9.7747256531664],[140.53126061318676,9.77558014490779],[140.53288821701767,9.77191803628841],[140.52466881641283,9.76447174687365]]]],"type":"MultiPolygon"}
+}

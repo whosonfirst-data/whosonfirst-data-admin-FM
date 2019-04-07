@@ -1,0 +1,77 @@
+{
+  "id": 890454163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.153,9.622,138.153,9.622",
+    "geom:latitude":9.622,
+    "geom:longitude":138.153,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":126,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:dut_x_preferred":[
+        "Rumung"
+    ],
+    "name:eng_x_preferred":[
+        "Rumung"
+    ],
+    "name:ita_x_preferred":[
+        "Rumung"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0443\u043c\u0443\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Rumung"
+    ],
+    "qs:name":"Rumung Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558764,
+        "gp:id":29389686,
+        "qs:id":557180,
+        "wd:id":"Q3942661"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052888,
+    "wof:geomhash":"3eb1f66e3696a52afb37dc4c7d149621",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890454163
+        }
+    ],
+    "wof:id":890454163,
+    "wof:lastmodified":1514423758,
+    "wof:name":"Rumung Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.153,
+    9.622,
+    138.153,
+    9.622
+],
+  "geometry": {"coordinates":[138.15299999999999,9.622],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209426677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.78558,7.36304,151.78558,7.36304",
+    "geom:latitude":7.36304,
+    "geom:longitude":151.78558,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PR",
+    "gn:asciiname":"Fanip",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082173,
+    "gn:latitude":7.36304,
+    "gn:longitude":151.78558,
+    "gn:modification_date":"2011-02-18",
+    "gn:name":"Fanip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neawachang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082173
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"6aa759b9ee9d5a445b060dbcf97ecf43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209426677
+        }
+    ],
+    "wof:id":1209426677,
+    "wof:lastmodified":1537622462,
+    "wof:name":"Fanip",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.78558,
+    7.36304,
+    151.78558,
+    7.36304
+],
+  "geometry": {"coordinates":[151.78558000000001,7.36304],"type":"Point"}
+}

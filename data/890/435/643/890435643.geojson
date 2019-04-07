@@ -1,0 +1,77 @@
+{
+  "id": 890435643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.93,3.841,154.93,3.841",
+    "geom:latitude":3.841,
+    "geom:longitude":154.93,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":362,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nukuoro"
+    ],
+    "qs:name":"Nukuoro Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.PO",
+    "statoids:name":"Nukuoro",
+    "statoids:population":"",
+    "statoids:statoid":"FM.PO.NU",
+    "statoids:timezone":"11",
+    "statoids:type":"municipality",
+    "wd:wordcount":554,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626927,
+        "hasc:id":"FM.PO.NU",
+        "qs:id":694153,
+        "wd:id":"Q187864",
+        "wk:page":"Nukuoro"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052075,
+    "wof:geomhash":"5b6953f990463b96a4af3cef147aa192",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890435643
+        }
+    ],
+    "wof:id":890435643,
+    "wof:lastmodified":1536617383,
+    "wof:name":"Nukuoro Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"NU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.93,
+    3.841,
+    154.93,
+    3.841
+],
+  "geometry": {"coordinates":[154.93000000000001,3.841],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1276659051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.58551,7.38292,151.58551,7.38292",
+    "geom:latitude":7.38292,
+    "geom:longitude":151.58551,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PA",
+    "gn:asciiname":"Sapota",
+    "gn:country_code":"FM",
+    "gn:dem":6,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041908,
+    "gn:latitude":7.38292,
+    "gn:longitude":151.58551,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Sapota",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041908
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"b7c1f6ed2864227ad8fd5ecb82947c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276659051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276659051,
+    "wof:lastmodified":1536838267,
+    "wof:name":"Sapota",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.58551,
+    7.38292,
+    151.58551,
+    7.38292
+],
+  "geometry": {"coordinates":[151.58551,7.38292],"type":"Point"}
+}

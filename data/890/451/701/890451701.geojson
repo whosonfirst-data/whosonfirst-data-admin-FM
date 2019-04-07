@@ -1,0 +1,77 @@
+{
+  "id": 890451701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.17119,9.58975,138.17119,9.58975",
+    "geom:latitude":9.58975,
+    "geom:longitude":138.17119,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":592,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Map"
+    ],
+    "qs:name":"Maap Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Map",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.MA",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626948,
+        "hasc:id":"FM.YA.MA",
+        "qs:id":694174,
+        "wd:id":"Q1133174",
+        "wk:page":"Maap"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052790,
+    "wof:geomhash":"56bca7ef6663769fc8576027e25477cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890451701
+        }
+    ],
+    "wof:id":890451701,
+    "wof:lastmodified":1536617386,
+    "wof:name":"Maap Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.17119,
+    9.58975,
+    138.17119,
+    9.58975
+],
+  "geometry": {"coordinates":[138.17119,9.58975],"type":"Point"}
+}

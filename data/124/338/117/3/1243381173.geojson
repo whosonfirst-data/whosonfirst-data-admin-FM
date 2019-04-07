@@ -1,0 +1,67 @@
+{
+  "id": 1243381173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.98299,5.35959,162.98299,5.35959",
+    "geom:latitude":5.35959,
+    "geom:longitude":162.98299,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"TA",
+    "gn:asciiname":"Srupunyot",
+    "gn:country_code":"FM",
+    "gn:dem":14,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042061,
+    "gn:latitude":5.35959,
+    "gn:longitude":162.98299,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Srupunyot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042061
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"489aa68242c8a4da0389bf8122b3101c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1243381173,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1243381173,
+    "wof:lastmodified":1536899730,
+    "wof:name":"Srupunyot",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.98299,
+    5.35959,
+    162.98299,
+    5.35959
+],
+  "geometry": {"coordinates":[162.98299,5.35959],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209322105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.701,6.834,152.701,6.834",
+    "geom:latitude":6.834,
+    "geom:longitude":152.701,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PL",
+    "gn:asciiname":"Piis",
+    "gn:country_code":"FM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645221,
+    "gn:latitude":6.834,
+    "gn:longitude":152.701,
+    "gn:modification_date":"2011-01-08",
+    "gn:name":"Piis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645221
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"2cc962bb565bd74a4a2dc1773c6c79f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209322105
+        }
+    ],
+    "wof:id":1209322105,
+    "wof:lastmodified":1536290657,
+    "wof:name":"Piis",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.701,
+    6.834,
+    152.701,
+    6.834
+],
+  "geometry": {"coordinates":[152.70099999999999,6.834],"type":"Point"}
+}

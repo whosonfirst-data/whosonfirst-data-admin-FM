@@ -1,0 +1,66 @@
+{
+  "id": 1310418921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.16125,6.8508,158.16125,6.8508",
+    "geom:latitude":6.8508,
+    "geom:longitude":158.16125,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"Pwudoi",
+    "gn:country_code":"FM",
+    "gn:dem":30,
+    "gn:elevation":"9.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041817,
+    "gn:latitude":6.8508,
+    "gn:longitude":158.16125,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Pwudoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041817
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"1a29210513bdb96a554a1218f092d90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1310418921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310418921,
+    "wof:lastmodified":1537040149,
+    "wof:name":"Pwudoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.16125,
+    6.8508,
+    158.16125,
+    6.8508
+],
+  "geometry": {"coordinates":[158.16125,6.8508],"type":"Point"}
+}

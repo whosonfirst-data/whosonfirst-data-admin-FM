@@ -1,0 +1,73 @@
+{
+  "id": 1343393961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.14375,9.52175,138.14375,9.52175",
+    "geom:latitude":9.52175,
+    "geom:longitude":138.14375,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TO",
+    "gn:asciiname":"Meqruur",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558956,
+    "gn:latitude":9.52175,
+    "gn:longitude":138.14375,
+    "gn:modification_date":"2011-01-27",
+    "gn:name":"Meqruur",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tav",
+        "Maerur",
+        "Merur",
+        "Maeruru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558956
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"b07fb664442c29cc2546d89967dd8483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1343393961,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":1343393961,
+    "wof:lastmodified":1537622456,
+    "wof:name":"Meqruur",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.14375,
+    9.52175,
+    138.14375,
+    9.52175
+],
+  "geometry": {"coordinates":[138.14375000000001,9.52175],"type":"Point"}
+}

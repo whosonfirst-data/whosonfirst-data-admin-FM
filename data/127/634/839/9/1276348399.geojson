@@ -1,0 +1,66 @@
+{
+  "id": 1276348399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.16085,6.8669,158.16085,6.8669",
+    "geom:latitude":6.8669,
+    "geom:longitude":158.16085,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"Ikeme",
+    "gn:country_code":"FM",
+    "gn:dem":15,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044665,
+    "gn:latitude":6.8669,
+    "gn:longitude":158.16085,
+    "gn:modification_date":"2011-02-06",
+    "gn:name":"Ikeme",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044665
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"084ec21e017d569a7ba13cdb798f8b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276348399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276348399,
+    "wof:lastmodified":1536758379,
+    "wof:name":"Ikeme",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.16085,
+    6.8669,
+    158.16085,
+    6.8669
+],
+  "geometry": {"coordinates":[158.16085000000001,6.8669],"type":"Point"}
+}

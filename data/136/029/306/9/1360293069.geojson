@@ -1,0 +1,65 @@
+{
+  "id": 1360293069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.738,5.334,153.738,5.334",
+    "geom:latitude":5.334,
+    "geom:longitude":153.738,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"SA",
+    "gn:asciiname":"Satowan",
+    "gn:country_code":"FM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645384,
+    "gn:latitude":5.334,
+    "gn:longitude":153.738,
+    "gn:modification_date":"2011-01-10",
+    "gn:name":"Satowan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645384
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"8882b4e51fe34c641f988e9fe5d7eaf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1360293069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360293069,
+    "wof:lastmodified":1536644946,
+    "wof:name":"Satowan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.738,
+    5.334,
+    153.738,
+    5.334
+],
+  "geometry": {"coordinates":[153.738,5.334],"type":"Point"}
+}

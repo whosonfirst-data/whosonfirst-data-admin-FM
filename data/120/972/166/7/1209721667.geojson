@@ -1,0 +1,70 @@
+{
+  "id": 1209721667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.06969,9.47133,138.06969,9.47133",
+    "geom:latitude":9.47133,
+    "geom:longitude":138.06969,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Tabnifiy",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":16,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558728,
+    "gn:latitude":9.47133,
+    "gn:longitude":138.06969,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Tabnifiy",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabunifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558728
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"8fcead8a51360f300ed0d3bb10e5e5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1209721667,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209721667,
+    "wof:lastmodified":1537622455,
+    "wof:name":"Tabnifiy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.06968999999998,
+    9.47133,
+    138.06968999999998,
+    9.47133
+],
+  "geometry": {"coordinates":[138.06968999999998,9.47133],"type":"Point"}
+}

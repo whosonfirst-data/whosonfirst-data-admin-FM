@@ -1,0 +1,62 @@
+{
+  "id": 1293390651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.166,7.502,146.166,7.502",
+    "geom:latitude":7.502,
+    "geom:longitude":146.166,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"EL",
+    "gn:asciiname":"Elato",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645731,
+    "gn:latitude":7.502,
+    "gn:longitude":146.166,
+    "gn:modification_date":"2011-01-12",
+    "gn:name":"Elato",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645731
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"0592dd8812f4f4af2ed7b433898d031e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293390651,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293390651,
+    "wof:lastmodified":1536927324,
+    "wof:name":"Elato",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.166,
+    7.502,
+    146.166,
+    7.502
+],
+  "geometry": {"coordinates":[146.166,7.502],"type":"Point"}
+}

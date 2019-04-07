@@ -1,0 +1,72 @@
+{
+  "id": 1125839885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.70226,6.83636,152.70226,6.83636",
+    "geom:latitude":6.83636,
+    "geom:longitude":152.70226,
+    "gn:gn_country":"FM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":427,
+    "gn:population":427,
+    "iso:country":"FM",
+    "lbl:latitude":6.83636,
+    "lbl:longitude":152.70226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FM",
+    "qs_pg:gn_country":"FM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7645223,
+    "qs_pg:gn_pop":427,
+    "qs_pg:name":"Piis Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":695282,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645223,
+        "qs_pg:id":695282
+    },
+    "wof:country":"FM",
+    "wof:created":1497292887,
+    "wof:geomhash":"ca7bdd6d4bba2b121b6b018b86ebbf44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125839885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125839885,
+    "wof:lastmodified":1509395226,
+    "wof:name":"Piis Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":427,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.70226,
+    6.83636,
+    152.70226,
+    6.83636
+],
+  "geometry": {"coordinates":[152.70226,6.83636],"type":"Point"}
+}

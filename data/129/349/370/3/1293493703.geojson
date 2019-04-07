@@ -1,0 +1,66 @@
+{
+  "id": 1293493703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1775,9.60708,138.1775,9.60708",
+    "geom:latitude":9.60708,
+    "geom:longitude":138.1775,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Wanead",
+    "gn:country_code":"FM",
+    "gn:dem":10,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558752,
+    "gn:latitude":9.60708,
+    "gn:longitude":138.1775,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Wanead",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558752
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"9bf02b5bf7bcc3967d0439eeb73edaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1293493703,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293493703,
+    "wof:lastmodified":1536778556,
+    "wof:name":"Wanead",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1775,
+    9.60708,
+    138.1775,
+    9.60708
+],
+  "geometry": {"coordinates":[138.17750000000001,9.60708],"type":"Point"}
+}

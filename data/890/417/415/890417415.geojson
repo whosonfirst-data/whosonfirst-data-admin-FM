@@ -1,0 +1,77 @@
+{
+  "id": 890417415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.745,8.43,151.745,8.43",
+    "geom:latitude":8.43,
+    "geom:longitude":151.745,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":711,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nomwin"
+    ],
+    "qs:name":"Nomwin Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Nomwin",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.NW",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626972,
+        "hasc:id":"FM.CH.NW",
+        "qs:id":694198,
+        "wd:id":"Q1107413",
+        "wk:page":"Fayu Atoll"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051201,
+    "wof:geomhash":"249c7599eee9d742b83637106c615bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890417415
+        }
+    ],
+    "wof:id":890417415,
+    "wof:lastmodified":1536617371,
+    "wof:name":"Nomwin Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":711,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"NW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.745,
+    8.43,
+    151.745,
+    8.43
+],
+  "geometry": {"coordinates":[151.745,8.43],"type":"Point"}
+}

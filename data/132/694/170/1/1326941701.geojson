@@ -1,0 +1,66 @@
+{
+  "id": 1326941701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.84602,7.414,151.84602,7.414",
+    "geom:latitude":7.414,
+    "geom:longitude":151.84602,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"MN",
+    "gn:asciiname":"Neiwe",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081812,
+    "gn:latitude":7.414,
+    "gn:longitude":151.84602,
+    "gn:modification_date":"2011-02-21",
+    "gn:name":"Neiwe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081812
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"74180101e77a1be93daf6519a961c234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1326941701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326941701,
+    "wof:lastmodified":1536890755,
+    "wof:name":"Neiwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.84601999999995,
+    7.414,
+    151.84601999999995,
+    7.414
+],
+  "geometry": {"coordinates":[151.84601999999995,7.414],"type":"Point"}
+}

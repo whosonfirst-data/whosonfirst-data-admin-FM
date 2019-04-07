@@ -1,0 +1,61 @@
+{
+  "id": 890429435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.45338,7.25439,144.45338,7.25439",
+    "geom:latitude":7.25439,
+    "geom:longitude":144.45338,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":561,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ifalik Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041810,
+        "qs:id":97123,
+        "wk:page":"Yap State"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051814,
+    "wof:geomhash":"8998998fd3d336d2b7a1dc3e354abc86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890429435
+        }
+    ],
+    "wof:id":890429435,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Ifalik Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":561,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.45338,
+    7.25439,
+    144.45338,
+    7.25439
+],
+  "geometry": {"coordinates":[144.45338000000001,7.25439],"type":"Point"}
+}

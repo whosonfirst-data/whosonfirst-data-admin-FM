@@ -1,0 +1,64 @@
+{
+  "id": 890422391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1665,9.598,138.1665,9.598",
+    "geom:latitude":9.598,
+    "geom:longitude":138.1665,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":592,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Mappu-t\u014d"
+    ],
+    "qs:name":"Maap Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559008,
+        "gp:id":29389691,
+        "qs:id":557182
+    },
+    "wof:country":"FM",
+    "wof:created":1469051441,
+    "wof:geomhash":"4f7312035398e1aabc5f6a574e26d74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422391
+        }
+    ],
+    "wof:id":890422391,
+    "wof:lastmodified":1505343469,
+    "wof:name":"Maap Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1665,
+    9.598,
+    138.1665,
+    9.598
+],
+  "geometry": {"coordinates":[138.16650000000001,9.598],"type":"Point"}
+}

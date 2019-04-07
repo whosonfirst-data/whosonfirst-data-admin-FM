@@ -1,0 +1,67 @@
+{
+  "id": 1343370607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88042,7.44375,151.88042,7.44375",
+    "geom:latitude":7.44375,
+    "geom:longitude":151.88042,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"MN",
+    "gn:asciiname":"Nukanap",
+    "gn:country_code":"FM",
+    "gn:dem":6,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042691,
+    "gn:latitude":7.44375,
+    "gn:longitude":151.88042,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Nukanap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042691
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"35f6f91e48d33095ded629e1d4f988a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1343370607,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1343370607,
+    "wof:lastmodified":1536874857,
+    "wof:name":"Nukanap",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88042,
+    7.44375,
+    151.88042,
+    7.44375
+],
+  "geometry": {"coordinates":[151.88041999999999,7.44375],"type":"Point"}
+}

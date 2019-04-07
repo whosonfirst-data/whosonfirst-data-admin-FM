@@ -1,0 +1,71 @@
+{
+  "id": 421183055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"138.12539,9.58664,138.12539,9.58664",
+    "geom:latitude":9.58664,
+    "geom:longitude":138.12539,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Runu'w"
+    ],
+    "qs:gn_country":"FM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1558762,
+    "qs:gn_pop":0,
+    "qs:name":"Ruun Uw",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Yap",
+    "qs:photos":73,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":73,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":959572,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":29389692,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558762,
+        "gp:id":29389692,
+        "qs:id":959572
+    },
+    "wof:country":"FM",
+    "wof:created":1459009356,
+    "wof:geomhash":"7b9c79270ee3fffd7e0f05aea2bd9e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":421183055
+        }
+    ],
+    "wof:id":421183055,
+    "wof:lastmodified":1501220779,
+    "wof:name":"Ruun Uw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.12539,
+    9.58664,
+    138.12539,
+    9.58664
+],
+  "geometry": {"coordinates":[138.12539000000001,9.58664],"type":"Point"}
+}

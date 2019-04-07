@@ -1,0 +1,66 @@
+{
+  "id": 890454173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.38248,7.45745,146.38248,7.45745",
+    "geom:latitude":7.45745,
+    "geom:longitude":146.38248,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":339,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Insel Lamutrik"
+    ],
+    "qs:name":"Lamotrek",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":318,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082017,
+        "qs:id":571907,
+        "wd:id":"Q1779228",
+        "wk:page":"Lamotrek"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052889,
+    "wof:geomhash":"768d6d26d73983cc42ccdfdb565b4064",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890454173
+        }
+    ],
+    "wof:id":890454173,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Lamotrek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.38248,
+    7.45745,
+    146.38248,
+    7.45745
+],
+  "geometry": {"coordinates":[146.38247999999999,7.45745],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125839615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.74628,8.43269,151.74628,8.43269",
+    "geom:latitude":8.43269,
+    "geom:longitude":151.74628,
+    "gn:gn_country":"FM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":711,
+    "gn:population":711,
+    "iso:country":"FM",
+    "lbl:latitude":8.43269,
+    "lbl:longitude":151.74628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FM",
+    "qs_pg:gn_country":"FM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7644932,
+    "qs_pg:gn_pop":711,
+    "qs_pg:name":"Nomwin Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":695269,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7644932,
+        "qs_pg:id":695269
+    },
+    "wof:country":"FM",
+    "wof:created":1497292875,
+    "wof:geomhash":"8c56eaf46803e4ad482627cd3600b693",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125839615,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125839615,
+    "wof:lastmodified":1509395206,
+    "wof:name":"Nomwin Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":711,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.74628,
+    8.43269,
+    151.74628,
+    8.43269
+],
+  "geometry": {"coordinates":[151.74628000000001,8.43269],"type":"Point"}
+}

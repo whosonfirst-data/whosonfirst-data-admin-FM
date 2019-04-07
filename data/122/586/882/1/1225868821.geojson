@@ -1,0 +1,74 @@
+{
+  "id": 1225868821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.15889,9.62006,138.15889,9.62006",
+    "geom:latitude":9.62006,
+    "geom:longitude":138.15889,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RM",
+    "gn:asciiname":"Weenfaraq",
+    "gn:country_code":"FM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037579,
+    "gn:latitude":9.62006,
+    "gn:longitude":138.15889,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Weenfaraq",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fal",
+        "Uenfura",
+        "Uenfaraa",
+        "Wenfarra",
+        "Wenfara'",
+        "Uenfra",
+        "Wenfra'"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037579
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"b5e145bfee2416154f718af8e4d79789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1225868821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225868821,
+    "wof:lastmodified":1537622467,
+    "wof:name":"Weenfaraq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.15889,
+    9.62006,
+    138.15889,
+    9.62006
+],
+  "geometry": {"coordinates":[138.15889000000001,9.62006],"type":"Point"}
+}

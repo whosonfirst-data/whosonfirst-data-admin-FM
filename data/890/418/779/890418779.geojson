@@ -1,0 +1,61 @@
+{
+  "id": 890418779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.6485,5.2842,153.6485,5.2842",
+    "geom:latitude":5.2842,
+    "geom:longitude":153.6485,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":253,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ta Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":651,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645382,
+        "qs:id":695294,
+        "wk:page":"Tabayin"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051261,
+    "wof:geomhash":"a778441c8c836e415ea72b19996a719a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890418779
+        }
+    ],
+    "wof:id":890418779,
+    "wof:lastmodified":1527792816,
+    "wof:name":"Ta Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.6485,
+    5.2842,
+    153.6485,
+    5.2842
+],
+  "geometry": {"coordinates":[153.64850000000001,5.2842],"type":"Point"}
+}

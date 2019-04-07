@@ -1,0 +1,65 @@
+{
+  "id": 1277080387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.78735,10.0162,139.78735,10.0162",
+    "geom:latitude":10.0162,
+    "geom:longitude":139.78735,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"UL",
+    "gn:asciiname":"Falalop Village",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647075,
+    "gn:latitude":10.0162,
+    "gn:longitude":139.78735,
+    "gn:modification_date":"2011-01-21",
+    "gn:name":"Falalop Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647075
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"7fae751246c4af5ccef185697d3add57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1277080387,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277080387,
+    "wof:lastmodified":1536771497,
+    "wof:name":"Falalop Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.78735,
+    10.0162,
+    139.78735,
+    10.0162
+],
+  "geometry": {"coordinates":[139.78735,10.0162],"type":"Point"}
+}

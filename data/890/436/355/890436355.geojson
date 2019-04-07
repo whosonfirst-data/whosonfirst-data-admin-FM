@@ -1,0 +1,79 @@
+{
+  "id": 890436355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.05935,9.46735,138.05935,9.46735",
+    "geom:latitude":9.46735,
+    "geom:longitude":138.05935,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":275,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kanifay"
+    ],
+    "qs:name":"Kanifay Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Kanifay",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.KA",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:latitude":"9.525",
+    "wd:longitude":"138.0902",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626946,
+        "hasc:id":"FM.YA.KA",
+        "qs:id":694172,
+        "wd:id":"Q3812782",
+        "wk:page":"Kanifay"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052108,
+    "wof:geomhash":"5c3e1ebdf5c24b53678d5e3526494e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890436355
+        }
+    ],
+    "wof:id":890436355,
+    "wof:lastmodified":1536617383,
+    "wof:name":"Kanifay Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"KA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.05935,
+    9.46735,
+    138.05935,
+    9.46735
+],
+  "geometry": {"coordinates":[138.05934999999999,9.46735],"type":"Point"}
+}

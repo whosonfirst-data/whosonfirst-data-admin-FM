@@ -1,0 +1,66 @@
+{
+  "id": 1243560877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.06396,9.46138,138.06396,9.46138",
+    "geom:latitude":9.46138,
+    "geom:longitude":138.06396,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Gachalaaw",
+    "gn:country_code":"FM",
+    "gn:dem":19,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037035,
+    "gn:latitude":9.46138,
+    "gn:longitude":138.06396,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Gachalaaw",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037035
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"2969dff5529027e468e0582e28ca8f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1243560877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243560877,
+    "wof:lastmodified":1536639582,
+    "wof:name":"Gachalaaw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.06396,
+    9.46138,
+    138.06396,
+    9.46138
+],
+  "geometry": {"coordinates":[138.06396000000001,9.46138],"type":"Point"}
+}

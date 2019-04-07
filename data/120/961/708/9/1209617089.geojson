@@ -1,0 +1,66 @@
+{
+  "id": 1209617089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.58426,7.37182,151.58426,7.37182",
+    "geom:latitude":7.37182,
+    "geom:longitude":151.58426,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PA",
+    "gn:asciiname":"Etiemar",
+    "gn:country_code":"FM",
+    "gn:dem":20,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044858,
+    "gn:latitude":7.37182,
+    "gn:longitude":151.58426,
+    "gn:modification_date":"2011-02-16",
+    "gn:name":"Etiemar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etiermar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044858
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"99105ef1b3d650b7e10d20103966d4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209617089
+        }
+    ],
+    "wof:id":1209617089,
+    "wof:lastmodified":1537622471,
+    "wof:name":"Etiemar",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.58426,
+    7.37182,
+    151.58426,
+    7.37182
+],
+  "geometry": {"coordinates":[151.58426,7.37182],"type":"Point"}
+}

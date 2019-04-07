@@ -1,0 +1,75 @@
+{
+  "id": 1125843281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.0821,6.68722,143.0821,6.68722",
+    "geom:latitude":6.68722,
+    "geom:longitude":143.0821,
+    "gn:gn_country":"FM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":113,
+    "gn:population":113,
+    "iso:country":"FM",
+    "lbl:latitude":6.68722,
+    "lbl:longitude":143.0821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"FM",
+    "qs_pg:gn_country":"FM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7646793,
+    "qs_pg:gn_pop":113,
+    "qs_pg:name":"Eauripik Village - temp LL",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":695511,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646793,
+        "qs_pg:id":695511
+    },
+    "wof:country":"FM",
+    "wof:created":1497293030,
+    "wof:geomhash":"16dce8bc2b1f5d6f6a5bd7e11f0f98c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1125843281,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125843281,
+    "wof:lastmodified":1509395422,
+    "wof:name":"Eauripik Village - temp LL",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.0821,
+    6.68722,
+    143.0821,
+    6.68722
+],
+  "geometry": {"coordinates":[143.0821,6.68722],"type":"Point"}
+}

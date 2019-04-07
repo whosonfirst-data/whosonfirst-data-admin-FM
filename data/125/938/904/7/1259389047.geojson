@@ -1,0 +1,79 @@
+{
+  "id": 1259389047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1216,9.51025,138.1216,9.51025",
+    "geom:latitude":9.51025,
+    "geom:longitude":138.1216,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Worwoq",
+    "gn:country_code":"FM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036782,
+    "gn:latitude":9.51025,
+    "gn:longitude":138.1216,
+    "gn:modification_date":"2011-01-27",
+    "gn:name":"Worwoq",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Worwor",
+        "Vorovo",
+        "Worowa",
+        "Woarowoq",
+        "Worwo",
+        "Uoruuoru",
+        "Orowoo",
+        "Wurwo'",
+        "Worowa'",
+        "Vorvor",
+        "Woruworu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036782
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"7361784df540572d12c86f888a31dd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259389047,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":1259389047,
+    "wof:lastmodified":1537622463,
+    "wof:name":"Worwoq",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1216,
+    9.51025,
+    138.1216,
+    9.51025
+],
+  "geometry": {"coordinates":[138.1216,9.51025],"type":"Point"}
+}

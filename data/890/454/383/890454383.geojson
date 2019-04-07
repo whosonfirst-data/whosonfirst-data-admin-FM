@@ -1,0 +1,65 @@
+{
+  "id": 890454383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.3,6.683,149.3,6.683",
+    "geom:latitude":6.683,
+    "geom:longitude":149.3,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":451,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pulusuk"
+    ],
+    "qs:name":"Houk Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626963,
+        "qs:id":694189,
+        "wd:id":"Q1444721",
+        "wk:page":"Pulusuk"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052897,
+    "wof:geomhash":"984a922e0f67d4ddab33b1f6638aa804",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890454383
+        }
+    ],
+    "wof:id":890454383,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Houk Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":451,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.3,
+    6.683,
+    149.3,
+    6.683
+],
+  "geometry": {"coordinates":[149.30000000000001,6.683],"type":"Point"}
+}

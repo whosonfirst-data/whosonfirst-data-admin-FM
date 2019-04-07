@@ -1,0 +1,61 @@
+{
+  "id": 890424903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8915,7.381,151.8915,7.381",
+    "geom:latitude":7.381,
+    "geom:longitude":151.8915,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":3910,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Southern Nomoneas Islands - Tonoas Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7668045,
+        "gp:id":29389682,
+        "qs:id":696677
+    },
+    "wof:country":"FM",
+    "wof:created":1469051568,
+    "wof:geomhash":"8de3f798307bfaaff35ceeb5f12e4c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890424903
+        }
+    ],
+    "wof:id":890424903,
+    "wof:lastmodified":1505343484,
+    "wof:name":"Southern Nomoneas Islands - Tonoas Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3910,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8915,
+    7.381,
+    151.8915,
+    7.381
+],
+  "geometry": {"coordinates":[151.89150000000001,7.381],"type":"Point"}
+}

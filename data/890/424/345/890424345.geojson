@@ -1,0 +1,77 @@
+{
+  "id": 890424345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.16081,6.8249,158.16081,6.8249",
+    "geom:latitude":6.8249,
+    "geom:longitude":158.16081,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":6007,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kitti"
+    ],
+    "qs:name":"Kitti Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.PO",
+    "statoids:name":"Kitti",
+    "statoids:population":"",
+    "statoids:statoid":"FM.PO.KT",
+    "statoids:timezone":"11",
+    "statoids:type":"municipality",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626921,
+        "hasc:id":"FM.PO.KT",
+        "qs:id":694147,
+        "wd:id":"Q2516138",
+        "wk:page":"Kitti (municipality)"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051540,
+    "wof:geomhash":"a6ce16044b96f3c973dd3858084a297b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424345
+        }
+    ],
+    "wof:id":890424345,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Kitti Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6007,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"KT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.16081,
+    6.8249,
+    158.16081,
+    6.8249
+],
+  "geometry": {"coordinates":[158.16081,6.8249],"type":"Point"}
+}

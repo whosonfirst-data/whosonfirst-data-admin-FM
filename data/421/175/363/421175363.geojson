@@ -1,0 +1,71 @@
+{
+  "id": 421175363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"138.19041,9.54866,138.19041,9.54866",
+    "geom:latitude":9.54866,
+    "geom:longitude":138.19041,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Wan Utwa"
+    ],
+    "qs:gn_country":"FM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1558623,
+    "qs:gn_pop":0,
+    "qs:name":"Wanyaan",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Yap",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":959575,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":29389693,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558623,
+        "gp:id":29389693,
+        "qs:id":959575
+    },
+    "wof:country":"FM",
+    "wof:created":1459009065,
+    "wof:geomhash":"30a1808695ac57bb0e1381e63a04a043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":421175363
+        }
+    ],
+    "wof:id":421175363,
+    "wof:lastmodified":1501220779,
+    "wof:name":"Wanyaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.19041,
+    9.54866,
+    138.19041,
+    9.54866
+],
+  "geometry": {"coordinates":[138.19041000000001,9.54866],"type":"Point"}
+}

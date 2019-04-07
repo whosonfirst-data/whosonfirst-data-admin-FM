@@ -1,0 +1,67 @@
+{
+  "id": 1193137537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.14406,9.54317,138.14406,9.54317",
+    "geom:latitude":9.54317,
+    "geom:longitude":138.14406,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TO",
+    "gn:asciiname":"Daabach",
+    "gn:country_code":"FM",
+    "gn:dem":44,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037272,
+    "gn:latitude":9.54317,
+    "gn:longitude":138.14406,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Daabach",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037272
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"a383b0dd5c4b7ab5fdca47f46cc230da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1193137537,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":1193137537,
+    "wof:lastmodified":1536368970,
+    "wof:name":"Daabach",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.14406,
+    9.54317,
+    138.14406,
+    9.54317
+],
+  "geometry": {"coordinates":[138.14406,9.54317],"type":"Point"}
+}

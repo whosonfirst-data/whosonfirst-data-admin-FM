@@ -1,0 +1,67 @@
+{
+  "id": 1259697575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.02609,5.28599,163.02609,5.28599",
+    "geom:latitude":5.28599,
+    "geom:longitude":163.02609,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Malem",
+    "gn:country_code":"FM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7648440,
+    "gn:latitude":5.28599,
+    "gn:longitude":163.02609,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Malem",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648440,
+        "wk:page":"Malem%2C_Kosrae"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"7b016817e2bebaae84480f0afe4edc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259697575,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1259697575,
+    "wof:lastmodified":1537562824,
+    "wof:name":"Malem",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.02608999999995,
+    5.28599,
+    163.02608999999995,
+    5.28599
+],
+  "geometry": {"coordinates":[163.02608999999995,5.28599],"type":"Point"}
+}

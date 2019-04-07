@@ -1,0 +1,67 @@
+{
+  "id": 1276666431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.22456,6.96492,158.22456,6.96492",
+    "geom:latitude":6.96492,
+    "geom:longitude":158.22456,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NE",
+    "gn:asciiname":"Pahnasang",
+    "gn:country_code":"FM",
+    "gn:dem":19,
+    "gn:elevation":"25.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044300,
+    "gn:latitude":6.96492,
+    "gn:longitude":158.22456,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Pahnasang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044300
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"ec639d01c215d8d5e89cbe43536a1ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276666431,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1276666431,
+    "wof:lastmodified":1536828398,
+    "wof:name":"Pahnasang",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.22456,
+    6.96492,
+    158.22456,
+    6.96492
+],
+  "geometry": {"coordinates":[158.22456,6.96492],"type":"Point"}
+}

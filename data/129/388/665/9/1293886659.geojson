@@ -1,0 +1,63 @@
+{
+  "id": 1293886659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.32913,6.86636,158.32913,6.86636",
+    "geom:latitude":6.86636,
+    "geom:longitude":158.32913,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Paison",
+    "gn:country_code":"FM",
+    "gn:dem":17,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4045352,
+    "gn:latitude":6.86636,
+    "gn:longitude":158.32913,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Paison",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4045352
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"a89f3e87d49553a9e4738ec3fafa89bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293886659,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293886659,
+    "wof:lastmodified":1536709061,
+    "wof:name":"Paison",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.32913,
+    6.86636,
+    158.32913,
+    6.86636
+],
+  "geometry": {"coordinates":[158.32912999999999,6.86636],"type":"Point"}
+}

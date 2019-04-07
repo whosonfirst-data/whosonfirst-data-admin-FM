@@ -1,0 +1,66 @@
+{
+  "id": 1360086923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.19908,7.35661,149.19908,7.35661",
+    "geom:latitude":7.35661,
+    "geom:longitude":149.19908,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PW",
+    "gn:asciiname":"Polowat",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7628103,
+    "gn:latitude":7.35661,
+    "gn:longitude":149.19908,
+    "gn:modification_date":"2011-01-02",
+    "gn:name":"Polowat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628103
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"2de529b5110a5e34bf0963b4ffc04072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1360086923,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1360086923,
+    "wof:lastmodified":1536943542,
+    "wof:name":"Polowat",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.19908,
+    7.35661,
+    149.19908,
+    7.35661
+],
+  "geometry": {"coordinates":[149.19908000000001,7.35661],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293698311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.79495,7.36349,151.79495,7.36349",
+    "geom:latitude":7.36349,
+    "geom:longitude":151.79495,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"PR",
+    "gn:asciiname":"Peniemuan",
+    "gn:country_code":"FM",
+    "gn:dem":13,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044248,
+    "gn:latitude":7.36349,
+    "gn:longitude":151.79495,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Peniemuan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Penyemwaan",
+        "Faut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044248
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"d0ec07bcd382c76a2d3232cd936b0e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293698311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293698311,
+    "wof:lastmodified":1537622471,
+    "wof:name":"Peniemuan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.79495,
+    7.36349,
+    151.79495,
+    7.36349
+],
+  "geometry": {"coordinates":[151.79495,7.36349],"type":"Point"}
+}

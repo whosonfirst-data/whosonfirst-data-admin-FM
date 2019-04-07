@@ -1,0 +1,61 @@
+{
+  "id": 890446039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.57855,5.56564,153.57855,5.56564",
+    "geom:latitude":5.56564,
+    "geom:longitude":153.57855,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":267,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ettal Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1195,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645272,
+        "qs:id":695285,
+        "wk:page":"Ettal Abbey"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052532,
+    "wof:geomhash":"a91627a5da3eae26bffd7281bd9f420a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890446039
+        }
+    ],
+    "wof:id":890446039,
+    "wof:lastmodified":1527727215,
+    "wof:name":"Ettal Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.57855,
+    5.56564,
+    153.57855,
+    5.56564
+],
+  "geometry": {"coordinates":[153.57855000000001,5.56564],"type":"Point"}
+}

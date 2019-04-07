@@ -1,0 +1,70 @@
+{
+  "id": 1243456265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.61534,7.32157,151.61534,7.32157",
+    "geom:latitude":7.32157,
+    "geom:longitude":151.61534,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TL",
+    "gn:asciiname":"Munien",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":7,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081882,
+    "gn:latitude":7.32157,
+    "gn:longitude":151.61534,
+    "gn:modification_date":"2011-02-16",
+    "gn:name":"Munien",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muliefl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081882
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"777b5f4660cd35f319ac6686fdf387ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1243456265,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243456265,
+    "wof:lastmodified":1537622460,
+    "wof:name":"Munien",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.61534,
+    7.32157,
+    151.61534,
+    7.32157
+],
+  "geometry": {"coordinates":[151.61534,7.32157],"type":"Point"}
+}

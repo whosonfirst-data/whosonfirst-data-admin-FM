@@ -1,0 +1,63 @@
+{
+  "id": 1209926927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.2837,6.97789,158.2837,6.97789",
+    "geom:latitude":6.97789,
+    "geom:longitude":158.2837,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"UH",
+    "gn:asciiname":"Dienrar",
+    "gn:country_code":"FM",
+    "gn:dem":7,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044756,
+    "gn:latitude":6.97789,
+    "gn:longitude":158.2837,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Dienrar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044756
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"27a32619d1b72cd9fe0f16c6fa3ad9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209926927,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209926927,
+    "wof:lastmodified":1536394480,
+    "wof:name":"Dienrar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.2837,
+    6.97789,
+    158.2837,
+    6.97789
+],
+  "geometry": {"coordinates":[158.28370000000001,6.97789],"type":"Point"}
+}

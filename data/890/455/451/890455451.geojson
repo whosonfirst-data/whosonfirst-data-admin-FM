@@ -1,0 +1,77 @@
+{
+  "id": 890455451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.7365,5.334,153.7365,5.334",
+    "geom:latitude":5.334,
+    "geom:longitude":153.7365,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":955,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Satawan"
+    ],
+    "qs:name":"Satowan Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Satawan",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.SA",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":739,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626983,
+        "hasc:id":"FM.CH.SA",
+        "qs:id":108056,
+        "wd:id":"Q1191287",
+        "wk:page":"Satawan"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052953,
+    "wof:geomhash":"ac901a925825efb5351b1df9df751424",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890455451
+        }
+    ],
+    "wof:id":890455451,
+    "wof:lastmodified":1536617390,
+    "wof:name":"Satowan Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":955,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"SA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.7365,
+    5.334,
+    153.7365,
+    5.334
+],
+  "geometry": {"coordinates":[153.73650000000001,5.334],"type":"Point"}
+}

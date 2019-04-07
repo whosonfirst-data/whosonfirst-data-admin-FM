@@ -1,0 +1,59 @@
+{
+  "id": 890423029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8794,7.486,151.8794,7.486",
+    "geom:latitude":7.486,
+    "geom:longitude":151.8794,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":397,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Fonoton Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626993,
+        "qs:id":694218
+    },
+    "wof:country":"FM",
+    "wof:created":1469051477,
+    "wof:geomhash":"d5b4026a7a57658e97063a3751a2efff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890423029
+        }
+    ],
+    "wof:id":890423029,
+    "wof:lastmodified":1505343473,
+    "wof:name":"Fonoton Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8794,
+    7.486,
+    151.8794,
+    7.486
+],
+  "geometry": {"coordinates":[151.8794,7.486],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 890453063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.7634,7.678,151.7634,7.678",
+    "geom:latitude":7.678,
+    "geom:longitude":151.7634,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":523,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Piis-Panewu Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626995,
+        "qs:id":694220
+    },
+    "wof:country":"FM",
+    "wof:created":1469052839,
+    "wof:geomhash":"30ebff393fd8793e1a57c96d3b38c6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890453063
+        }
+    ],
+    "wof:id":890453063,
+    "wof:lastmodified":1505343649,
+    "wof:name":"Piis-Panewu Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":523,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.7634,
+    7.678,
+    151.7634,
+    7.678
+],
+  "geometry": {"coordinates":[151.76339999999999,7.678],"type":"Point"}
+}

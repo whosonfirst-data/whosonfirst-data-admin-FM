@@ -1,0 +1,62 @@
+{
+  "id": 1242701831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.4445,7.25,144.4445,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":144.4445,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"IF",
+    "gn:asciiname":"Ifalik",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645754,
+    "gn:latitude":7.25,
+    "gn:longitude":144.4445,
+    "gn:modification_date":"2011-01-12",
+    "gn:name":"Ifalik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645754
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"836eeef1aeed430ad9a3b0b9e164bf35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242701831,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242701831,
+    "wof:lastmodified":1536884272,
+    "wof:name":"Ifalik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.4445,
+    7.25,
+    144.4445,
+    7.25
+],
+  "geometry": {"coordinates":[144.44450000000001,7.25],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890455943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.097,9.537,138.097,9.537",
+    "geom:latitude":9.537,
+    "geom:longitude":138.097,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":4916,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:eng_x_preferred":[
+        "Yap Island"
+    ],
+    "name:unk_x_variant":[
+        "Eap"
+    ],
+    "qs:name":"Yap Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558583,
+        "qs:id":557178
+    },
+    "wof:country":"FM",
+    "wof:created":1469052986,
+    "wof:geomhash":"f7183fff8ee76b2cd4d249089c4b621f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890455943
+        }
+    ],
+    "wof:id":890455943,
+    "wof:lastmodified":1505343666,
+    "wof:name":"Yap Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4916,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.097,
+    9.537,
+    138.097,
+    9.537
+],
+  "geometry": {"coordinates":[138.09700000000001,9.537],"type":"Point"}
+}

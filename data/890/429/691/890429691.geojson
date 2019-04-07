@@ -1,0 +1,77 @@
+{
+  "id": 890429691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.456,5.453,153.456,5.453",
+    "geom:latitude":5.453,
+    "geom:longitude":153.456,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":873,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kutu"
+    ],
+    "qs:name":"Kuttu Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Kutu",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.KU",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":739,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626964,
+        "hasc:id":"FM.CH.KU",
+        "qs:id":694190,
+        "wd:id":"Q1191287",
+        "wk:page":"Satawan"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051825,
+    "wof:geomhash":"12a33b8618dfe9b8678b1c5489cf0f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890429691
+        }
+    ],
+    "wof:id":890429691,
+    "wof:lastmodified":1536617382,
+    "wof:name":"Kuttu Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":873,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"KU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.456,
+    5.453,
+    153.456,
+    5.453
+],
+  "geometry": {"coordinates":[153.45599999999999,5.453],"type":"Point"}
+}

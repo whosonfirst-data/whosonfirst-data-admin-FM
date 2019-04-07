@@ -1,0 +1,67 @@
+{
+  "id": 1226445485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.19276,6.95118,158.19276,6.95118",
+    "geom:latitude":6.95118,
+    "geom:longitude":158.19276,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NE",
+    "gn:asciiname":"Nanseinpwel",
+    "gn:country_code":"FM",
+    "gn:dem":47,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4045075,
+    "gn:latitude":6.95118,
+    "gn:longitude":158.19276,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Nanseinpwel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4045075
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"47c031b0d73d62e14cd56e4ef05758fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1226445485,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1226445485,
+    "wof:lastmodified":1536645267,
+    "wof:name":"Nanseinpwel",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.19276000000005,
+    6.95118,
+    158.19276000000005,
+    6.95118
+],
+  "geometry": {"coordinates":[158.19276000000005,6.95118],"type":"Point"}
+}

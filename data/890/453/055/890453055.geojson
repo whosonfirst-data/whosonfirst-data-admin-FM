@@ -1,0 +1,80 @@
+{
+  "id": 890453055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.182,7.355,149.182,7.355",
+    "geom:latitude":7.355,
+    "geom:longitude":149.182,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":1015,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pulusuk"
+    ],
+    "name:unk_x_variant":[
+        "Puluwat Municipality"
+    ],
+    "qs:name":"Polowat Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Pulusuk",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.PK",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":562,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626980,
+        "hasc:id":"FM.CH.PK",
+        "qs:id":694206,
+        "wd:id":"Q2064464",
+        "wk:page":"Poluwat"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052839,
+    "wof:geomhash":"b7e93d98d4f4f39f6fc7724c0810d321",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890453055
+        }
+    ],
+    "wof:id":890453055,
+    "wof:lastmodified":1536617387,
+    "wof:name":"Polowat Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":1015,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"PK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.182,
+    7.355,
+    149.182,
+    7.355
+],
+  "geometry": {"coordinates":[149.18199999999999,7.355],"type":"Point"}
+}

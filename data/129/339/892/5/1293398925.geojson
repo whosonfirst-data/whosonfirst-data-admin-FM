@@ -1,0 +1,62 @@
+{
+  "id": 1293398925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.15942,5.7885,157.15942,5.7885",
+    "geom:latitude":5.7885,
+    "geom:longitude":157.15942,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"NG",
+    "gn:asciiname":"Ngatik",
+    "gn:country_code":"FM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7627089,
+    "gn:latitude":5.7885,
+    "gn:longitude":157.15942,
+    "gn:modification_date":"2010-12-22",
+    "gn:name":"Ngatik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627089
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"31b47342a725c988f31ab4cdf903c862",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293398925,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293398925,
+    "wof:lastmodified":1536915071,
+    "wof:name":"Ngatik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.15941999999995,
+    5.7885,
+    157.15941999999995,
+    5.7885
+],
+  "geometry": {"coordinates":[157.15941999999995,5.7885],"type":"Point"}
+}

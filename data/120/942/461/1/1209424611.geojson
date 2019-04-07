@@ -1,0 +1,63 @@
+{
+  "id": 1209424611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.99825,5.36939,162.99825,5.36939",
+    "geom:latitude":5.36939,
+    "geom:longitude":162.99825,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"TA",
+    "gn:asciiname":"Wiya",
+    "gn:country_code":"FM",
+    "gn:dem":12,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042478,
+    "gn:latitude":5.36939,
+    "gn:longitude":162.99825,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Wiya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042478
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"41fff59780df7e376e056bfb42db4b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209424611
+        }
+    ],
+    "wof:id":1209424611,
+    "wof:lastmodified":1536287420,
+    "wof:name":"Wiya",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.99825,
+    5.36939,
+    162.99825,
+    5.36939
+],
+  "geometry": {"coordinates":[162.99825000000001,5.36939],"type":"Point"}
+}

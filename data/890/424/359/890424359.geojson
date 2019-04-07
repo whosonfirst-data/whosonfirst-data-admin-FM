@@ -1,0 +1,79 @@
+{
+  "id": 890424359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.15745,9.62428,138.15745,9.62428",
+    "geom:latitude":9.62428,
+    "geom:longitude":138.15745,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":126,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rumung"
+    ],
+    "qs:name":"Rumung Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Rumung",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.RM",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:latitude":"9.62",
+    "wd:longitude":"138.16",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626951,
+        "hasc:id":"FM.YA.RM",
+        "qs:id":694177,
+        "wd:id":"Q3942661",
+        "wk:page":"Rumung"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051540,
+    "wof:geomhash":"930cab24cbbb0c12eee0357c13e13596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424359
+        }
+    ],
+    "wof:id":890424359,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Rumung Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"RM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.15745,
+    9.62428,
+    138.15745,
+    9.62428
+],
+  "geometry": {"coordinates":[138.15745000000001,9.62428],"type":"Point"}
+}

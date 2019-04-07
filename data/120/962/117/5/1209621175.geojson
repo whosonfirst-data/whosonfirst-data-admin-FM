@@ -1,0 +1,76 @@
+{
+  "id": 1209621175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.10206,9.55463,138.10206,9.55463",
+    "geom:latitude":9.55463,
+    "geom:longitude":138.10206,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"FF",
+    "gn:asciiname":"Qatliw",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037367,
+    "gn:latitude":9.55463,
+    "gn:longitude":138.10206,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Qatliw",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atell",
+        "Atiliu",
+        "Ateru",
+        "Ateliu",
+        "Ateliw",
+        "Atiliw",
+        "Altiliu",
+        "Utiliu",
+        "Aleru",
+        "Atliw",
+        "Atelu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037367
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"75cf8fce5ad111e282d2fdac88c029b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209621175
+        }
+    ],
+    "wof:id":1209621175,
+    "wof:lastmodified":1537622466,
+    "wof:name":"Qatliw",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.10206000000002,
+    9.55463,
+    138.10206000000002,
+    9.55463
+],
+  "geometry": {"coordinates":[138.10206000000002,9.55463],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293007919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.87972,7.48269,151.87972,7.48269",
+    "geom:latitude":7.48269,
+    "geom:longitude":151.87972,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"FO",
+    "gn:asciiname":"Fanip",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042665,
+    "gn:latitude":7.48269,
+    "gn:longitude":151.87972,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Fanip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042665
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"277eef2867dca9b8dbb301bd07d172d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1293007919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293007919,
+    "wof:lastmodified":1536980638,
+    "wof:name":"Fanip",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.87972,
+    7.48269,
+    151.87972,
+    7.48269
+],
+  "geometry": {"coordinates":[151.87971999999999,7.48269],"type":"Point"}
+}

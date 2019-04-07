@@ -1,0 +1,62 @@
+{
+  "id": 1293009323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70327,6.20589,160.70327,6.20589",
+    "geom:latitude":6.20589,
+    "geom:longitude":160.70327,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"PI",
+    "gn:asciiname":"Pingelap",
+    "gn:country_code":"FM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7627186,
+    "gn:latitude":6.20589,
+    "gn:longitude":160.70327,
+    "gn:modification_date":"2010-12-23",
+    "gn:name":"Pingelap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627186
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"86e1f4ee954d50eeec5dfc8ed17f03a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293009323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293009323,
+    "wof:lastmodified":1536978642,
+    "wof:name":"Pingelap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70327,
+    6.20589,
+    160.70327,
+    6.20589
+],
+  "geometry": {"coordinates":[160.70327,6.20589],"type":"Point"}
+}

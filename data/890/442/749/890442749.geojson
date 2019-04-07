@@ -1,0 +1,77 @@
+{
+  "id": 890442749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.5385,5.4918,153.5385,5.4918",
+    "geom:latitude":5.4918,
+    "geom:longitude":153.5385,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":854,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moch"
+    ],
+    "qs:name":"Moch Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Moch",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.MC",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":739,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626968,
+        "hasc:id":"FM.CH.MC",
+        "qs:id":694194,
+        "wd:id":"Q1191287",
+        "wk:page":"Satawan"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052376,
+    "wof:geomhash":"9552d858d583248f155ecfc83d0e9062",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890442749
+        }
+    ],
+    "wof:id":890442749,
+    "wof:lastmodified":1536617384,
+    "wof:name":"Moch Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":854,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"MC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.5385,
+    5.4918,
+    153.5385,
+    5.4918
+],
+  "geometry": {"coordinates":[153.5385,5.4918],"type":"Point"}
+}

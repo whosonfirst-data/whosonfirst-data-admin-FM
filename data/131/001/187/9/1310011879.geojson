@@ -1,0 +1,70 @@
+{
+  "id": 1310011879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.05824,9.44721,138.05824,9.44721",
+    "geom:latitude":9.44721,
+    "geom:longitude":138.05824,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"GL",
+    "gn:asciiname":"Tawoowaay",
+    "gn:country_code":"FM",
+    "gn:dem":17,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037517,
+    "gn:latitude":9.44721,
+    "gn:longitude":138.05824,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Tawoowaay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touway",
+        "Toovai",
+        "Towoway",
+        "Tououay",
+        "Towai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037517
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"222146b0b168c1ea46398594bb88a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310011879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310011879,
+    "wof:lastmodified":1537622466,
+    "wof:name":"Tawoowaay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.05823999999998,
+    9.44721,
+    138.05823999999998,
+    9.44721
+],
+  "geometry": {"coordinates":[138.05823999999998,9.44721],"type":"Point"}
+}

@@ -1,0 +1,194 @@
+{
+  "id": 85671231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009275,
+    "geom:area_square_m":114192433.692967,
+    "geom:bbox":"162.912119988,5.26976146022,163.046560092,5.37970612184",
+    "geom:latitude":5.318861,
+    "geom:longitude":162.984539,
+    "gn:elevation":633,
+    "gn:population":7686,
+    "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Kosrae State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "lbl:latitude":5.320433,
+    "lbl:longitude":162.989981,
+    "mps:latitude":5.320433,
+    "mps:longitude":162.989981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "State of Kosrae"
+    ],
+    "name:fin_x_preferred":[
+        "Kosraen osavaltio"
+    ],
+    "name:fra_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ger_x_preferred":[
+        "Bundesstaat Kosrae"
+    ],
+    "name:isl_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ita_x_preferred":[
+        "Kosrae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u0438\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kosrae State"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"FSM",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"FSM-4944",
+    "ne:adm1_code":"FSM-4944",
+    "ne:admin":"Federated States of Micronesia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"FM.KO",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4944",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"FM01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Federated States of Micronesia",
+    "ne:gn_a1_code":"FM.01",
+    "ne:gn_id":"2082036",
+    "ne:gn_level":"1",
+    "ne:gn_name":"State of Kosrae",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"FM01",
+    "ne:gns_id":"-3740147",
+    "ne:gns_lang":"",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kosrae",
+    "ne:gns_region":"",
+    "ne:gu_a3":"FSM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"FM-KSA",
+    "ne:iso_a2":"FM",
+    "ne:labelrank":"20",
+    "ne:latitude":"5.35641000000",
+    "ne:longitude":"162.92700000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":4,
+    "ne:name":"Kosrae",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FSM",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Kosrae",
+    "ne:woe_id":2345340,
+    "ne:woe_label":"Kosrae, FM, Federated States of Micronesia",
+    "ne:woe_name":"Kosrae",
+    "qs:a0":"Federated States of Micronesia",
+    "qs:a0_lc":"FM",
+    "qs:a1":"Kosrae",
+    "qs:a1_lc":"FSM-4944",
+    "qs:adm0":"Federated States of Micronesia",
+    "qs:adm0_a3":"FSM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-04-04",
+    "statoids:area_km":"109",
+    "statoids:area_mi":"42",
+    "statoids:as_of_date":"2010-04-04",
+    "statoids:capital":"Lelu",
+    "statoids:country":"FM",
+    "statoids:gec":"FM01",
+    "statoids:hasc":"FM.KO",
+    "statoids:iso":"KSA",
+    "statoids:name":"Kosrae",
+    "statoids:population":"6616",
+    "statoids:timezone":"+11",
+    "statoids:type":"state",
+    "unlc:subdivision":"FM-KSA",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"FM01",
+        "gn:id":2082036,
+        "gp:id":2345340,
+        "hasc:id":"FM.KO",
+        "iso:id":"FM-KSA",
+        "qs:id":894890,
+        "unlc:id":"FM-KSA",
+        "wd:id":"Q1785093"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"6ba8049e858de07919508aa7e20af02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":85671231,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Kosrae",
+    "wof:parent_id":85632431,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"state",
+    "wof:population":6616,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"KO",
+    "wof:subdivision":"FM-KSA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.9121199879471,
+    5.26976146022326,
+    163.04656009207463,
+    5.37970612184012
+],
+  "geometry": {"coordinates":[[[163.02605228038851,5.34088776256021],[163.03044681127142,5.33567942886259],[163.03728274790058,5.3336856139],[163.04371178537065,5.33095937757327],[163.04656009207463,5.3235537779845],[163.04297936310718,5.31093984649675],[163.02572675908277,5.28001536741533],[163.01921634196071,5.27269114837782],[163.00554446690364,5.26976146022326],[162.99341881602561,5.27285390858106],[162.9814559253507,5.27765534132101],[162.96762129009051,5.28017812761857],[162.94597415518319,5.28001536741533],[162.93132571710828,5.28192780182667],[162.91618899842365,5.28693268459574],[162.91211998794711,5.30418528951952],[162.92408287952139,5.32103099258626],[162.97144615981244,5.36176178627744],[162.99073326952487,5.37482330944823],[163.01059004039814,5.37970612184012],[163.02605228038851,5.36884186456047],[163.02735436291357,5.36269765857014],[163.02572675908277,5.34760163061082],[163.02605228038851,5.34088776256021]]],"type":"Polygon"}
+}

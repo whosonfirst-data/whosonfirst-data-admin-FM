@@ -1,0 +1,73 @@
+{
+  "id": 1276234131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.09844,9.49405,138.09844,9.49405",
+    "geom:latitude":9.49405,
+    "geom:longitude":138.09844,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Yinuuf",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":13,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558571,
+    "gn:latitude":9.49405,
+    "gn:longitude":138.09844,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Yinuuf",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yunuf",
+        "Inufu",
+        "Inuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558571
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e47d06ff1ce1745ac84748f4c17d3ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1276234131,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":1276234131,
+    "wof:lastmodified":1537622455,
+    "wof:name":"Yinuuf",
+    "wof:parent_id":85671227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.09843999999998,
+    9.49405,
+    138.09843999999998,
+    9.49405
+],
+  "geometry": {"coordinates":[138.09843999999998,9.49405],"type":"Point"}
+}

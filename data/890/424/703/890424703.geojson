@@ -1,0 +1,62 @@
+{
+  "id": 890424703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.711,5.5066,153.711,5.5066",
+    "geom:latitude":5.5066,
+    "geom:longitude":153.711,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":505,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Oneop Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":492,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645373,
+        "qs:id":695289,
+        "wd:id":"Q1964365",
+        "wk:page":"Namoluk"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051558,
+    "wof:geomhash":"3c0de185e9b3a3ebed057184732c6831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890424703
+        }
+    ],
+    "wof:id":890424703,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Oneop Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":505,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.711,
+    5.5066,
+    153.711,
+    5.5066
+],
+  "geometry": {"coordinates":[153.71100000000001,5.5066],"type":"Point"}
+}

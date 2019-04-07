@@ -1,0 +1,67 @@
+{
+  "id": 890412997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.7394,7.3854,151.7394,7.3854",
+    "geom:latitude":7.3854,
+    "geom:longitude":151.7394,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":382,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Maye Jima"
+    ],
+    "qs:name":"Eot Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081663,
+        "gp:id":29389679,
+        "qs:id":571893,
+        "wd:id":"Q1112114",
+        "wk:page":"Eot (island)"
+    },
+    "wof:country":"FM",
+    "wof:created":1469050984,
+    "wof:geomhash":"3e31218e06491892fbce480621749efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890412997
+        }
+    ],
+    "wof:id":890412997,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Eot Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.7394,
+    7.3854,
+    151.7394,
+    7.3854
+],
+  "geometry": {"coordinates":[151.73939999999999,7.3854],"type":"Point"}
+}

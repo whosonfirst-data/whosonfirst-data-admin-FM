@@ -1,0 +1,67 @@
+{
+  "id": 1259496125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.18138,6.81564,158.18138,6.81564",
+    "geom:latitude":6.81564,
+    "geom:longitude":158.18138,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"Pohn Uhs",
+    "gn:country_code":"FM",
+    "gn:dem":21,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4045202,
+    "gn:latitude":6.81564,
+    "gn:longitude":158.18138,
+    "gn:modification_date":"2011-02-06",
+    "gn:name":"Pohn Uhs",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4045202
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"c983e1d65ede462b2f8ca1346b7bbe1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259496125,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1259496125,
+    "wof:lastmodified":1536839575,
+    "wof:name":"Pohn Uhs",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.18138000000005,
+    6.81564,
+    158.18138000000005,
+    6.81564
+],
+  "geometry": {"coordinates":[158.18138000000005,6.81564],"type":"Point"}
+}

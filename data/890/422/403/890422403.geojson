@@ -1,0 +1,63 @@
+{
+  "id": 890422403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.4435,7.25,144.4435,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":144.4435,
+    "gn:country":"FM",
+    "gn:fcode":"ATOL",
+    "gn:pop":561,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Faloc"
+    ],
+    "qs:name":"Ifalik Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082082,
+        "qs:id":571910
+    },
+    "wof:country":"FM",
+    "wof:created":1469051442,
+    "wof:geomhash":"31ecfc0e125268aeda5ed37ee45a353b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422403
+        }
+    ],
+    "wof:id":890422403,
+    "wof:lastmodified":1505343469,
+    "wof:name":"Ifalik Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":561,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.4435,
+    7.25,
+    144.4435,
+    7.25
+],
+  "geometry": {"coordinates":[144.4435,7.25],"type":"Point"}
+}

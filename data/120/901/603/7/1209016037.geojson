@@ -1,0 +1,63 @@
+{
+  "id": 1209016037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.83624,7.3439,151.83624,7.3439",
+    "geom:latitude":7.3439,
+    "geom:longitude":151.83624,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"FF",
+    "gn:asciiname":"Mwen",
+    "gn:country_code":"FM",
+    "gn:dem":12,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042850,
+    "gn:latitude":7.3439,
+    "gn:longitude":151.83624,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Mwen",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042850
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"47cd8549b8267c5ca6cbd843be8fe9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209016037
+        }
+    ],
+    "wof:id":1209016037,
+    "wof:lastmodified":1536300296,
+    "wof:name":"Mwen",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.83624,
+    7.3439,
+    151.83624,
+    7.3439
+],
+  "geometry": {"coordinates":[151.83624,7.3439],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343362405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.15703,6.83129,158.15703,6.83129",
+    "geom:latitude":6.83129,
+    "geom:longitude":158.15703,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"Dienpo",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":25,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082342,
+    "gn:latitude":6.83129,
+    "gn:longitude":158.15703,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dienpo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiyainowaru",
+        "Alaujo",
+        "Alaudscho",
+        "Alauso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082342
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"16eed74229e385d62bb746ecf174b6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1343362405,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343362405,
+    "wof:lastmodified":1537622462,
+    "wof:name":"Dienpo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.15703,
+    6.83129,
+    158.15703,
+    6.83129
+],
+  "geometry": {"coordinates":[158.15702999999999,6.83129],"type":"Point"}
+}

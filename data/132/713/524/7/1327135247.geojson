@@ -1,0 +1,67 @@
+{
+  "id": 1327135247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.07035,9.47738,138.07035,9.47738",
+    "geom:latitude":9.47738,
+    "geom:longitude":138.07035,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Ngoof",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":25,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558887,
+    "gn:latitude":9.47738,
+    "gn:longitude":138.07035,
+    "gn:modification_date":"2011-01-30",
+    "gn:name":"Ngoof",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558887
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"c1c3024d014defa019ba2dcef06a4e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327135247,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327135247,
+    "wof:lastmodified":1537622456,
+    "wof:name":"Ngoof",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.07035,
+    9.47738,
+    138.07035,
+    9.47738
+],
+  "geometry": {"coordinates":[138.07034999999999,9.47738],"type":"Point"}
+}

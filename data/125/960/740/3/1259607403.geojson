@@ -1,0 +1,72 @@
+{
+  "id": 1259607403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.09686,9.54782,138.09686,9.54782",
+    "geom:latitude":9.54782,
+    "geom:longitude":138.09686,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"WE",
+    "gn:asciiname":"Qadibweq",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558832,
+    "gn:latitude":9.54782,
+    "gn:longitude":138.09686,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Qadibweq",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adibuwe'",
+        "Adevue",
+        "Adibuwee",
+        "Adibue",
+        "Adibuee",
+        "Adubuwe'"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558832
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"7784df254fc834d963e5eb3213380ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259607403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259607403,
+    "wof:lastmodified":1537622456,
+    "wof:name":"Qadibweq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.09686000000002,
+    9.54782,
+    138.09686000000002,
+    9.54782
+],
+  "geometry": {"coordinates":[138.09686000000002,9.54782],"type":"Point"}
+}

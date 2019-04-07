@@ -1,0 +1,67 @@
+{
+  "id": 1242781077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.24887,6.8155,158.24887,6.8155",
+    "geom:latitude":6.8155,
+    "geom:longitude":158.24887,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"Nan Pahlap",
+    "gn:country_code":"FM",
+    "gn:dem":63,
+    "gn:elevation":"70.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4044516,
+    "gn:latitude":6.8155,
+    "gn:longitude":158.24887,
+    "gn:modification_date":"2011-02-06",
+    "gn:name":"Nan Pahlap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4044516
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"266e4194b841ab4ea5923ae5ee040db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1242781077,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":1242781077,
+    "wof:lastmodified":1536771073,
+    "wof:name":"Nan Pahlap",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.24886999999995,
+    6.8155,
+    158.24886999999995,
+    6.8155
+],
+  "geometry": {"coordinates":[158.24886999999995,6.8155],"type":"Point"}
+}

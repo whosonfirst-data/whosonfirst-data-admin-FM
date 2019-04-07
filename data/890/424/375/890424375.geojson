@@ -1,0 +1,76 @@
+{
+  "id": 890424375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.56,5.592,153.56,5.592",
+    "geom:latitude":5.592,
+    "geom:longitude":153.56,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":267,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ettal"
+    ],
+    "qs:name":"Ettal Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Ettal",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.ET",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626959,
+        "hasc:id":"FM.CH.ET",
+        "qs:id":694185,
+        "wk:page":"Ettal"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051541,
+    "wof:geomhash":"1741dac1062ee63e53e7606cefdce31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424375
+        }
+    ],
+    "wof:id":890424375,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Ettal Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"ET",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.56,
+    5.592,
+    153.56,
+    5.592
+],
+  "geometry": {"coordinates":[153.56,5.592],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226143537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.06515,9.45495,138.06515,9.45495",
+    "geom:latitude":9.45495,
+    "geom:longitude":138.06515,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"GL",
+    "gn:asciiname":"Laay",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":23,
+    "gn:elevation":"12.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559048,
+    "gn:latitude":9.45495,
+    "gn:longitude":138.06515,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Laay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lai",
+        "Ley",
+        "Lei",
+        "Lahy",
+        "Laey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559048
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"9866da2a27ad895d46b413782428fcce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1226143537,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226143537,
+    "wof:lastmodified":1537622457,
+    "wof:name":"Laay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.06515,
+    9.45495,
+    138.06515,
+    9.45495
+],
+  "geometry": {"coordinates":[138.06514999999999,9.45495],"type":"Point"}
+}

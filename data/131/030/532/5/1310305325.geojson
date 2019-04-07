@@ -1,0 +1,70 @@
+{
+  "id": 1310305325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.0684,9.46494,138.0684,9.46494",
+    "geom:latitude":9.46494,
+    "geom:longitude":138.0684,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"RL",
+    "gn:asciiname":"Dulkaan",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":18,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559200,
+    "gn:latitude":9.46494,
+    "gn:longitude":138.0684,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Dulkaan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dulkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559200
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"a0a0d1a11068ed59bf331c797250a663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1310305325,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310305325,
+    "wof:lastmodified":1537622458,
+    "wof:name":"Dulkaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.0684,
+    9.46494,
+    138.0684,
+    9.46494
+],
+  "geometry": {"coordinates":[138.0684,9.46494],"type":"Point"}
+}

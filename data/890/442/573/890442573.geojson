@@ -1,0 +1,77 @@
+{
+  "id": 890442573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.789,7.362,151.789,7.362",
+    "geom:latitude":7.362,
+    "geom:longitude":151.789,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":385,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Param"
+    ],
+    "qs:name":"Parem Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Param",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.PR",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":992,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626976,
+        "hasc:id":"FM.CH.PR",
+        "qs:id":694202,
+        "wd:id":"Q221684",
+        "wk:page":"Chuuk State"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052368,
+    "wof:geomhash":"66d51e2ac28a0b6472f52da51daa623f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890442573
+        }
+    ],
+    "wof:id":890442573,
+    "wof:lastmodified":1536617384,
+    "wof:name":"Parem Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"PR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.789,
+    7.362,
+    151.789,
+    7.362
+],
+  "geometry": {"coordinates":[151.78899999999999,7.362],"type":"Point"}
+}

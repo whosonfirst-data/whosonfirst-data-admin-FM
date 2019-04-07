@@ -1,0 +1,82 @@
+{
+  "id": 421195035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"138.177537,9.594856,138.177537,9.594856",
+    "geom:latitude":9.594856,
+    "geom:longitude":138.177537,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Maap"
+    ],
+    "name:ita_x_preferred":[
+        "Maap"
+    ],
+    "name:pol_x_preferred":[
+        "Maap"
+    ],
+    "name:spa_x_preferred":[
+        "Maap"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Maap",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Yap",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":135932,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":29389691,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389691,
+        "qs:id":135932,
+        "wd:id":"Q1133174"
+    },
+    "wof:country":"FM",
+    "wof:created":1459009829,
+    "wof:geomhash":"9ca4523d220e232a1073d4252e84a034",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":421195035
+        }
+    ],
+    "wof:id":421195035,
+    "wof:lastmodified":1527716125,
+    "wof:name":"Maap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.177537,
+    9.594856,
+    138.177537,
+    9.594856
+],
+  "geometry": {"coordinates":[138.177537,9.594856],"type":"Point"}
+}

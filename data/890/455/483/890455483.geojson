@@ -1,0 +1,80 @@
+{
+  "id": 890455483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.5065,8.588,144.5065,8.588",
+    "geom:latitude":8.588,
+    "geom:longitude":144.5065,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":221,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Faraulep"
+    ],
+    "name:unk_x_variant":[
+        "Faraulap"
+    ],
+    "qs:name":"Faraulep Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Faraulep",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.FP",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626941,
+        "hasc:id":"FM.YA.FP",
+        "qs:id":694167,
+        "wd:id":"Q1396235",
+        "wk:page":"Faraulep"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052954,
+    "wof:geomhash":"dead8641844d1e71d51e435b65a9fd08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890455483
+        }
+    ],
+    "wof:id":890455483,
+    "wof:lastmodified":1536617390,
+    "wof:name":"Faraulep Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"FP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.5065,
+    8.588,
+    144.5065,
+    8.588
+],
+  "geometry": {"coordinates":[144.50649999999999,8.588],"type":"Point"}
+}

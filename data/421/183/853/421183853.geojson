@@ -1,0 +1,75 @@
+{
+  "id": 421183853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"158.13558,6.93243,158.13558,6.93243",
+    "geom:latitude":6.93243,
+    "geom:longitude":158.13558,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Tamoroi"
+    ],
+    "qs:gn_country":"FM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":4042091,
+    "qs:gn_pop":0,
+    "qs:name":"Tamworohi",
+    "qs:name_adm0":"Federated States of Micronesia",
+    "qs:name_adm1":"State of Pohnpei",
+    "qs:photos":96,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":96,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":985545,
+    "qs:woe_adm0":23424815,
+    "qs:woe_id":23509218,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042091,
+        "gp:id":23509218,
+        "qs:id":985545
+    },
+    "wof:country":"FM",
+    "wof:created":1459009389,
+    "wof:geomhash":"2f3ea566f46324d3a657859599118b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":421183853,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":421183853,
+    "wof:lastmodified":1501269651,
+    "wof:name":"Tamworohi",
+    "wof:parent_id":85671217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.13558,
+    6.93243,
+    158.13558,
+    6.93243
+],
+  "geometry": {"coordinates":[158.13558,6.93243],"type":"Point"}
+}

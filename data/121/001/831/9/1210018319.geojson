@@ -1,0 +1,62 @@
+{
+  "id": 1210018319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.94188,7.59969,151.94188,7.59969",
+    "geom:latitude":7.59969,
+    "geom:longitude":151.94188,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"FO",
+    "gn:asciiname":"Ruo",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7667873,
+    "gn:latitude":7.59969,
+    "gn:longitude":151.94188,
+    "gn:modification_date":"2011-02-14",
+    "gn:name":"Ruo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667873
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"b626132a9831deae6ec7451f5bdf9098",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210018319,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210018319,
+    "wof:lastmodified":1536394046,
+    "wof:name":"Ruo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.94188,
+    7.59969,
+    151.94188,
+    7.59969
+],
+  "geometry": {"coordinates":[151.94188,7.59969],"type":"Point"}
+}

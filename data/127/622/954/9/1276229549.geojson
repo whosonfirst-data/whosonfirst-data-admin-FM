@@ -1,0 +1,62 @@
+{
+  "id": 1276229549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.90922,8.55811,151.90922,8.55811",
+    "geom:latitude":8.55811,
+    "geom:longitude":151.90922,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"FN",
+    "gn:asciiname":"Fananu",
+    "gn:country_code":"FM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645169,
+    "gn:latitude":8.55811,
+    "gn:longitude":151.90922,
+    "gn:modification_date":"2011-01-07",
+    "gn:name":"Fananu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645169
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"8391f0c1a5e3e5f35aa4fe14eac26fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276229549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276229549,
+    "wof:lastmodified":1536918476,
+    "wof:name":"Fananu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.90922,
+    8.55811,
+    151.90922,
+    8.55811
+],
+  "geometry": {"coordinates":[151.90922,8.55811],"type":"Point"}
+}

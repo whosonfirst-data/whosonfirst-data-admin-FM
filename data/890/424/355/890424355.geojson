@@ -1,0 +1,81 @@
+{
+  "id": 890424355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.22437,6.95152,158.22437,6.95152",
+    "geom:latitude":6.95152,
+    "geom:longitude":158.22437,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":6158,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nett"
+    ],
+    "qs:name":"Nett Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.PO",
+    "statoids:name":"Nett",
+    "statoids:population":"",
+    "statoids:statoid":"FM.PO.NE",
+    "statoids:timezone":"11",
+    "statoids:type":"municipality",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626925,
+        "hasc:id":"FM.PO.NE",
+        "qs:id":694151,
+        "wd:id":"Q2570130",
+        "wk:page":"Nett"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051540,
+    "wof:geomhash":"99bec91f66bba0adf7d71ac49f9e46b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "county_id":890424355,
+            "region_id":85671217
+        }
+    ],
+    "wof:id":890424355,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Nett Municipality",
+    "wof:parent_id":85671217,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6158,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"NE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.22437,
+    6.95152,
+    158.22437,
+    6.95152
+],
+  "geometry": {"coordinates":[158.22436999999999,6.95152],"type":"Point"}
+}

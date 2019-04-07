@@ -1,0 +1,68 @@
+{
+  "id": 1276874143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8193,7.36651,151.8193,7.36651",
+    "geom:latitude":7.36651,
+    "geom:longitude":151.8193,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"FF",
+    "gn:asciiname":"Ununo",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042309,
+    "gn:latitude":7.36651,
+    "gn:longitude":151.8193,
+    "gn:modification_date":"2011-02-15",
+    "gn:name":"Ununo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fogen",
+        "Ulunno",
+        "Wununno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042309
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"21b7d7aaba83b415472662472b09c8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276874143,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276874143,
+    "wof:lastmodified":1537622468,
+    "wof:name":"Ununo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8193,
+    7.36651,
+    151.8193,
+    7.36651
+],
+  "geometry": {"coordinates":[151.8193,7.36651],"type":"Point"}
+}

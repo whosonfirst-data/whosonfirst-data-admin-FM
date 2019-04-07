@@ -1,0 +1,63 @@
+{
+  "id": 1209216399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.59786,7.39408,151.59786,7.39408",
+    "geom:latitude":7.39408,
+    "geom:longitude":151.59786,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"ON",
+    "gn:asciiname":"Peniata",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081625,
+    "gn:latitude":7.39408,
+    "gn:longitude":151.59786,
+    "gn:modification_date":"2011-02-16",
+    "gn:name":"Peniata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081625
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"f154c338ef20ad3182b7c564310481bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209216399
+        }
+    ],
+    "wof:id":1209216399,
+    "wof:lastmodified":1536294116,
+    "wof:name":"Peniata",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.59786,
+    7.3940800000000015,
+    151.59786,
+    7.3940800000000015
+],
+  "geometry": {"coordinates":[151.59786,7.39408],"type":"Point"}
+}

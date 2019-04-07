@@ -1,0 +1,62 @@
+{
+  "id": 1243375285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.2915,8.799,150.2915,8.799",
+    "geom:latitude":8.799,
+    "geom:longitude":150.2915,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"OO",
+    "gn:asciiname":"Onou",
+    "gn:country_code":"FM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7628277,
+    "gn:latitude":8.799,
+    "gn:longitude":150.2915,
+    "gn:modification_date":"2011-01-04",
+    "gn:name":"Onou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628277
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e13dd7861c1c26e752ecb5109bda0c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243375285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243375285,
+    "wof:lastmodified":1536908454,
+    "wof:name":"Onou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.2915,
+    8.799,
+    150.2915,
+    8.799
+],
+  "geometry": {"coordinates":[150.29150000000001,8.799],"type":"Point"}
+}

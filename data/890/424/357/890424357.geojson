@@ -1,0 +1,81 @@
+{
+  "id": 890424357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1154,9.50773,138.1154,9.50773",
+    "geom:latitude":9.50773,
+    "geom:longitude":138.1154,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":2019,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rull"
+    ],
+    "qs:name":"Rull Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Rull",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.RL",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626950,
+        "hasc:id":"FM.YA.RL",
+        "qs:id":694176,
+        "wd:id":"Q7379073",
+        "wk:page":"Rull"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051540,
+    "wof:geomhash":"ecfc7d1479ee26b994175b62876fe96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "county_id":890424357,
+            "region_id":85671227
+        }
+    ],
+    "wof:id":890424357,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Rull Municipality",
+    "wof:parent_id":85671227,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":2019,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"RL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1154,
+    9.50773,
+    138.1154,
+    9.50773
+],
+  "geometry": {"coordinates":[138.11539999999999,9.50773],"type":"Point"}
+}

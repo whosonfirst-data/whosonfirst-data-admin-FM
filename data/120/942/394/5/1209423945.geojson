@@ -1,0 +1,66 @@
+{
+  "id": 1209423945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.29013,6.84429,158.29013,6.84429",
+    "geom:latitude":6.84429,
+    "geom:longitude":158.29013,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"MA",
+    "gn:asciiname":"Mahnd",
+    "gn:country_code":"FM",
+    "gn:dem":104,
+    "gn:elevation":"100.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042806,
+    "gn:latitude":6.84429,
+    "gn:longitude":158.29013,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Mahnd",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042806
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"6ba28bb9d19b35e637348bcad9227cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209423945
+        }
+    ],
+    "wof:id":1209423945,
+    "wof:lastmodified":1537622469,
+    "wof:name":"Mahnd",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.29013,
+    6.84429,
+    158.29013,
+    6.84429
+],
+  "geometry": {"coordinates":[158.29013,6.84429],"type":"Point"}
+}

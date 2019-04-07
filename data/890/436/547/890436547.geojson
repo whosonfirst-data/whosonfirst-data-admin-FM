@@ -1,0 +1,79 @@
+{
+  "id": 890436547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.574,6.993,152.574,6.993",
+    "geom:latitude":6.993,
+    "geom:longitude":152.574,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":995,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nama"
+    ],
+    "name:unk_x_variant":[
+        "Nama"
+    ],
+    "qs:name":"Nema Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Nama",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.NA",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626970,
+        "hasc:id":"FM.CH.NA",
+        "qs:id":694196,
+        "wk:page":"Kl\u00ed\u017eska Nem\u00e1"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052115,
+    "wof:geomhash":"deddcc8abdc4e772536ffefc56fca139",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890436547
+        }
+    ],
+    "wof:id":890436547,
+    "wof:lastmodified":1536617383,
+    "wof:name":"Nema Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":995,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"NA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.574,
+    6.993,
+    152.574,
+    6.993
+],
+  "geometry": {"coordinates":[152.57400000000001,6.993],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344258627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.89278,7.45082,151.89278,7.45082",
+    "geom:latitude":7.45082,
+    "geom:longitude":151.89278,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"MN",
+    "gn:asciiname":"Nemwan",
+    "gn:country_code":"FM",
+    "gn:dem":8,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081804,
+    "gn:latitude":7.45082,
+    "gn:longitude":151.89278,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Nemwan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081804
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"91fd89cdc72925f6828c0a6046dc4035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1344258627,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1344258627,
+    "wof:lastmodified":1537083651,
+    "wof:name":"Nemwan",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.89278000000004,
+    7.45082,
+    151.89278000000004,
+    7.45082
+],
+  "geometry": {"coordinates":[151.89278000000004,7.45082],"type":"Point"}
+}

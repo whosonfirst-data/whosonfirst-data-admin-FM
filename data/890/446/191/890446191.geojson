@@ -1,0 +1,64 @@
+{
+  "id": 890446191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.709,7.389,151.709,7.389",
+    "geom:latitude":7.389,
+    "geom:longitude":151.709,
+    "gn:country":"FM",
+    "gn:fcode":"RGN",
+    "gn:pop":1774,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Nomiisofo"
+    ],
+    "qs:name":"Nomwisofo Islands - Udot Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667934,
+        "gp:id":29389679,
+        "qs:id":696648
+    },
+    "wof:country":"FM",
+    "wof:created":1469052542,
+    "wof:geomhash":"1875e1ae31e442cf2a6ebe984f3f0f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890446191
+        }
+    ],
+    "wof:id":890446191,
+    "wof:lastmodified":1505343609,
+    "wof:name":"Nomwisofo Islands - Udot Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1774,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.709,
+    7.389,
+    151.709,
+    7.389
+],
+  "geometry": {"coordinates":[151.709,7.389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343762441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.18543,9.55824,138.18543,9.55824",
+    "geom:latitude":9.55824,
+    "geom:longitude":138.18543,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"GG",
+    "gn:asciiname":"Meay",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":17,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558959,
+    "gn:latitude":9.55824,
+    "gn:longitude":138.18543,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Meay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umun",
+        "Umungu",
+        "Umung",
+        "Mujun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558959
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"18821c6e2afe5a5fc808c94db38425cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343762441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343762441,
+    "wof:lastmodified":1537622456,
+    "wof:name":"Meay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.18543,
+    9.55824,
+    138.18543,
+    9.55824
+],
+  "geometry": {"coordinates":[138.18543,9.55824],"type":"Point"}
+}

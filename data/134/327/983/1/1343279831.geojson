@@ -1,0 +1,67 @@
+{
+  "id": 1343279831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.00708,5.36821,163.00708,5.36821",
+    "geom:latitude":5.36821,
+    "geom:longitude":163.00708,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"TA",
+    "gn:asciiname":"Finfukul",
+    "gn:country_code":"FM",
+    "gn:dem":0,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082135,
+    "gn:latitude":5.36821,
+    "gn:longitude":163.00708,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Finfukul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082135
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"e37f2612a3c138cce812d30cb60d496f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1343279831,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1343279831,
+    "wof:lastmodified":1537006216,
+    "wof:name":"Finfukul",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.00708,
+    5.36821,
+    163.00708,
+    5.36821
+],
+  "geometry": {"coordinates":[163.00708,5.36821],"type":"Point"}
+}

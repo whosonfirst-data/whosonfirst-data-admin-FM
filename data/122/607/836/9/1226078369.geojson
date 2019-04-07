@@ -1,0 +1,67 @@
+{
+  "id": 1226078369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.0872,9.53672,138.0872,9.53672",
+    "geom:latitude":9.53672,
+    "geom:longitude":138.0872,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"WE",
+    "gn:asciiname":"Kadaay",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":16,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559057,
+    "gn:latitude":9.53672,
+    "gn:longitude":138.0872,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Kadaay",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559057
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"205477fcdfb4cf3d81c8b0cd604b9003",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226078369,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226078369,
+    "wof:lastmodified":1537622457,
+    "wof:name":"Kadaay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.0872,
+    9.53672,
+    138.0872,
+    9.53672
+],
+  "geometry": {"coordinates":[138.0872,9.53672],"type":"Point"}
+}

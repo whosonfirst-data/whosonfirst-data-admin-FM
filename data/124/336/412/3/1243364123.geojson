@@ -1,0 +1,67 @@
+{
+  "id": 1243364123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.1108,9.5732,138.1108,9.5732",
+    "geom:latitude":9.5732,
+    "geom:longitude":138.1108,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"FF",
+    "gn:asciiname":"Gilfith",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":9,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559080,
+    "gn:latitude":9.5732,
+    "gn:longitude":138.1108,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Gilfith",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gillifitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559080
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"9f04443ccb0fcd9038e5f611e4e33438",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243364123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243364123,
+    "wof:lastmodified":1537622457,
+    "wof:name":"Gilfith",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.1108,
+    9.5732,
+    138.1108,
+    9.5732
+],
+  "geometry": {"coordinates":[138.11080000000001,9.5732],"type":"Point"}
+}

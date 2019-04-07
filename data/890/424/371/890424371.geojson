@@ -1,0 +1,77 @@
+{
+  "id": 890424371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.857,7.345,143.857,7.345",
+    "geom:latitude":7.345,
+    "geom:longitude":143.857,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":975,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Woleai"
+    ],
+    "qs:name":"Woleai Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Woleai",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.WO",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":497,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626957,
+        "hasc:id":"FM.YA.WO",
+        "qs:id":694183,
+        "wd:id":"Q567984",
+        "wk:page":"Woleai"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051541,
+    "wof:geomhash":"4980f679e045f261bf8a9f68773f29df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424371
+        }
+    ],
+    "wof:id":890424371,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Woleai Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":975,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"WO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.857,
+    7.345,
+    143.857,
+    7.345
+],
+  "geometry": {"coordinates":[143.857,7.345],"type":"Point"}
+}

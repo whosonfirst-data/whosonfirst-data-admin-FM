@@ -1,0 +1,66 @@
+{
+  "id": 1243190085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.97656,5.27486,162.97656,5.27486",
+    "geom:latitude":5.27486,
+    "geom:longitude":162.97656,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"UT",
+    "gn:asciiname":"Utwe",
+    "gn:country_code":"FM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7648441,
+    "gn:latitude":5.27486,
+    "gn:longitude":162.97656,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Utwe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648441,
+        "wk:page":"Utwe"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"4e3ed14c0623f649405fe2ca6b58cbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1243190085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243190085,
+    "wof:lastmodified":1537562824,
+    "wof:name":"Utwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.97656,
+    5.27486,
+    162.97656,
+    5.27486
+],
+  "geometry": {"coordinates":[162.97656000000001,5.27486],"type":"Point"}
+}

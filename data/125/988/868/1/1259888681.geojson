@@ -1,0 +1,62 @@
+{
+  "id": 1259888681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.01988,6.77879,158.01988,6.77879",
+    "geom:latitude":6.77879,
+    "geom:longitude":158.01988,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"frmr Pohn Sanghi Settlement",
+    "gn:country_code":"FM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7627483,
+    "gn:latitude":6.77879,
+    "gn:longitude":158.01988,
+    "gn:modification_date":"2010-12-28",
+    "gn:name":"frmr Pohn Sanghi Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pohnpei",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7627483
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"4df371e43f5a28ba2162a17c7f88d916",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259888681,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259888681,
+    "wof:lastmodified":1536772138,
+    "wof:name":"frmr Pohn Sanghi Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.01988,
+    6.77879,
+    158.01988,
+    6.77879
+],
+  "geometry": {"coordinates":[158.01988,6.77879],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209420893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.0641,9.44533,138.0641,9.44533",
+    "geom:latitude":9.44533,
+    "geom:longitude":138.0641,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"GL",
+    "gn:asciiname":"Magachgil",
+    "gn:country_code":"FM",
+    "gn:dem":14,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037178,
+    "gn:latitude":9.44533,
+    "gn:longitude":138.0641,
+    "gn:modification_date":"2011-02-03",
+    "gn:name":"Magachgil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magachagil",
+        "Magatjagil",
+        "Magachaguill",
+        "Magachaquill",
+        "Magatjugil",
+        "Magachagiiru",
+        "Madadjagil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037178
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"0ebd29eecd488598ac8f8de4d90bc32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":1209420893
+        }
+    ],
+    "wof:id":1209420893,
+    "wof:lastmodified":1537622464,
+    "wof:name":"Magachgil",
+    "wof:parent_id":85632431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.0641,
+    9.44533,
+    138.0641,
+    9.44533
+],
+  "geometry": {"coordinates":[138.0641,9.44533],"type":"Point"}
+}

@@ -1,0 +1,133 @@
+{
+  "id": 890433267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.8468,7.45154,151.8468,7.45154",
+    "geom:latitude":7.45154,
+    "geom:longitude":151.8468,
+    "gn:country":"FM",
+    "gn:fcode":"PPL",
+    "gn:pop":13802,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7dad\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "Weno"
+    ],
+    "name:eng_x_historical":[
+        "Moen"
+    ],
+    "name:eng_x_preferred":[
+        "Moen"
+    ],
+    "name:eng_x_variant":[
+        "Weno"
+    ],
+    "name:fin_x_preferred":[
+        "Weno"
+    ],
+    "name:fre_x_preferred":[
+        "Weno"
+    ],
+    "name:ger_x_preferred":[
+        "Weno"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e0\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Weno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ce"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\ub178"
+    ],
+    "name:lit_x_preferred":[
+        "Venas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0435\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Weno"
+    ],
+    "name:por_x_preferred":[
+        "Weno"
+    ],
+    "name:rum_x_preferred":[
+        "Weno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Weno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Weno Town"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e42\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u8afe"
+    ],
+    "qs:name":"Weno Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081114,
+        "gp:id":12512817,
+        "qs:id":138255,
+        "wd:id":"Q1009384"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051973,
+    "wof:geomhash":"79bed11f380be961e197fe1b5a8f1307",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890433267
+        }
+    ],
+    "wof:id":890433267,
+    "wof:lastmodified":1514423759,
+    "wof:name":"Weno Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":13802,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.8468,
+    7.45154,
+    151.8468,
+    7.45154
+],
+  "geometry": {"coordinates":[151.8468,7.45154],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1343359627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.394,8.1435,140.394,8.1435",
+    "geom:latitude":8.1435,
+    "geom:longitude":140.394,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"SO",
+    "gn:asciiname":"Sorol",
+    "gn:country_code":"FM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645768,
+    "gn:latitude":8.1435,
+    "gn:longitude":140.394,
+    "gn:modification_date":"2011-01-12",
+    "gn:name":"Sorol",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645768,
+        "wk:page":"Sorol"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"5455d7857e9eff419b5cf92ed9390cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343359627,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343359627,
+    "wof:lastmodified":1537562824,
+    "wof:name":"Sorol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.394,
+    8.1435,
+    140.394,
+    8.1435
+],
+  "geometry": {"coordinates":[140.39400000000001,8.1435],"type":"Point"}
+}

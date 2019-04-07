@@ -1,0 +1,71 @@
+{
+  "id": 1259501137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.00781,5.32479,163.00781,5.32479",
+    "geom:latitude":5.32479,
+    "geom:longitude":163.00781,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LE",
+    "gn:asciiname":"Tofol",
+    "gn:country_code":"FM",
+    "gn:dem":9,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2081342,
+    "gn:latitude":5.32479,
+    "gn:longitude":163.00781,
+    "gn:modification_date":"2013-08-11",
+    "gn:name":"Tofol",
+    "gn:population":9686,
+    "gn:timezone":"Pacific/Kosrae",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081342,
+        "wk:page":"Tofol"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"267aefd9ddf9a4df367946eae718004b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1259501137,
+            "region_id":85671231
+        }
+    ],
+    "wof:id":1259501137,
+    "wof:lastmodified":1537562823,
+    "wof:name":"Tofol",
+    "wof:parent_id":85671231,
+    "wof:placetype":"locality",
+    "wof:population":9686,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.00781,
+    5.32479,
+    163.00781,
+    5.32479
+],
+  "geometry": {"coordinates":[163.00781000000001,5.32479],"type":"Point"}
+}

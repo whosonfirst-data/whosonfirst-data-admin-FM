@@ -1,0 +1,70 @@
+{
+  "id": 1193027441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88524,7.38728,151.88524,7.38728",
+    "geom:latitude":7.38728,
+    "geom:longitude":151.88524,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"DU",
+    "gn:asciiname":"Meseran",
+    "gn:country_code":"FM",
+    "gn:dem":3,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4042896,
+    "gn:latitude":7.38728,
+    "gn:longitude":151.88524,
+    "gn:modification_date":"2011-02-17",
+    "gn:name":"Meseran",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesearaan",
+        "Meseiren",
+        "Mesieiren",
+        "Neseiren",
+        "Nameram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4042896
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"341d6868d97566f3978ef001182bfa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193027441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193027441,
+    "wof:lastmodified":1537622469,
+    "wof:name":"Meseran",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88523999999995,
+    7.38728,
+    151.88523999999995,
+    7.38728
+],
+  "geometry": {"coordinates":[151.88523999999995,7.38728],"type":"Point"}
+}

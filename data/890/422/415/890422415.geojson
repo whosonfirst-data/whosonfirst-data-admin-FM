@@ -1,0 +1,85 @@
+{
+  "id": 890422415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.6678,7.353,151.6678,7.353",
+    "geom:latitude":7.353,
+    "geom:longitude":151.6678,
+    "gn:country":"FM",
+    "gn:fcode":"ISL",
+    "gn:pop":681,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:dut_x_preferred":[
+        "Fala-Beguets"
+    ],
+    "name:eng_x_preferred":[
+        "Fala-Beguets"
+    ],
+    "name:fre_x_preferred":[
+        "Fanapanges"
+    ],
+    "name:ita_x_preferred":[
+        "Fanapanges"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u0430\u043b\u0430-\u0411\u0435\u0433\u0443\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Fanapanges"
+    ],
+    "name:swe_x_preferred":[
+        "Fanapanges Island"
+    ],
+    "name:unk_x_variant":[
+        "Kayo To"
+    ],
+    "qs:name":"Fanapanges Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082185,
+        "qs:id":571914,
+        "wd:id":"Q3066319"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051443,
+    "wof:geomhash":"3b977c14cad2996e085051b6755c1063",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422415
+        }
+    ],
+    "wof:id":890422415,
+    "wof:lastmodified":1514423755,
+    "wof:name":"Fanapanges Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":681,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.6678,
+    7.353,
+    151.6678,
+    7.353
+],
+  "geometry": {"coordinates":[151.6678,7.353],"type":"Point"}
+}

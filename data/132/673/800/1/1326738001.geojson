@@ -1,0 +1,71 @@
+{
+  "id": 1326738001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.61146,7.35163,151.61146,7.35163",
+    "geom:latitude":7.35163,
+    "geom:longitude":151.61146,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TL",
+    "gn:asciiname":"Wichukuno - temp LL",
+    "gn:cc2":"FM",
+    "gn:country_code":"FM",
+    "gn:dem":55,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2081228,
+    "gn:latitude":7.35163,
+    "gn:longitude":151.61146,
+    "gn:modification_date":"2011-02-16",
+    "gn:name":"Wichukuno - temp LL",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wichuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632431,
+        85671221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081228
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"da346bc5fff6c4554ee48dcb983085d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":1326738001,
+            "region_id":85671221
+        }
+    ],
+    "wof:id":1326738001,
+    "wof:lastmodified":1537622459,
+    "wof:name":"Wichukuno - temp LL",
+    "wof:parent_id":85671221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.61146000000005,
+    7.35163,
+    151.61146000000005,
+    7.35163
+],
+  "geometry": {"coordinates":[151.61146000000005,7.35163],"type":"Point"}
+}

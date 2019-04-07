@@ -1,0 +1,77 @@
+{
+  "id": 890436353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.19028,9.54722,138.19028,9.54722",
+    "geom:latitude":9.54722,
+    "geom:longitude":138.19028,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":734,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gagil"
+    ],
+    "qs:name":"Gagil Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.YA",
+    "statoids:name":"Gagil",
+    "statoids:population":"",
+    "statoids:statoid":"FM.YA.GG",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626943,
+        "hasc:id":"FM.YA.GG",
+        "qs:id":694169,
+        "wd:id":"Q3757207",
+        "wk:page":"Gagil"
+    },
+    "wof:country":"FM",
+    "wof:created":1469052108,
+    "wof:geomhash":"be20f195cde7b625ed0ae86f3958f251",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890436353
+        }
+    ],
+    "wof:id":890436353,
+    "wof:lastmodified":1536617383,
+    "wof:name":"Gagil Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":734,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"GG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.19028,
+    9.54722,
+    138.19028,
+    9.54722
+],
+  "geometry": {"coordinates":[138.19028,9.54722],"type":"Point"}
+}

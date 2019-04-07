@@ -1,0 +1,63 @@
+{
+  "id": 890422421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.0365,6.687,143.0365,6.687",
+    "geom:latitude":6.687,
+    "geom:longitude":143.0365,
+    "gn:country":"FM",
+    "gn:fcode":"ATOL",
+    "gn:pop":113,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Yoropie"
+    ],
+    "qs:name":"Eauripik Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082257,
+        "qs:id":571919
+    },
+    "wof:country":"FM",
+    "wof:created":1469051443,
+    "wof:geomhash":"79d6daaefb9b5bd1ec0a1b2183b0e090",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "locality_id":890422421
+        }
+    ],
+    "wof:id":890422421,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Eauripik Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.0365,
+    6.687,
+    143.0365,
+    6.687
+],
+  "geometry": {"coordinates":[143.03649999999999,6.687],"type":"Point"}
+}

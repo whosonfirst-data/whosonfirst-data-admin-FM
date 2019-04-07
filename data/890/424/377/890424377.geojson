@@ -1,0 +1,77 @@
+{
+  "id": 890424377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.90822,8.55811,151.90822,8.55811",
+    "geom:latitude":8.55811,
+    "geom:longitude":151.90822,
+    "gn:country":"FM",
+    "gn:fcode":"ADM2",
+    "gn:pop":355,
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fananu"
+    ],
+    "qs:name":"Fananu Municipality",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"FM",
+    "statoids:hasc":"FM.CH",
+    "statoids:name":"Fananu",
+    "statoids:population":"",
+    "statoids:statoid":"FM.CH.FN",
+    "statoids:timezone":"10",
+    "statoids:type":"municipality",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626960,
+        "hasc:id":"FM.CH.FN",
+        "qs:id":694186,
+        "wd:id":"Q1604754",
+        "wk:page":"Fananu"
+    },
+    "wof:country":"FM",
+    "wof:created":1469051541,
+    "wof:geomhash":"938fc07ab3fd8b74282f833a3c31dbf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632431,
+            "county_id":890424377
+        }
+    ],
+    "wof:id":890424377,
+    "wof:lastmodified":1536617377,
+    "wof:name":"Fananu Municipality",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:shortcode":"FN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.90822,
+    8.55811,
+    151.90822,
+    8.55811
+],
+  "geometry": {"coordinates":[151.90822,8.55811],"type":"Point"}
+}

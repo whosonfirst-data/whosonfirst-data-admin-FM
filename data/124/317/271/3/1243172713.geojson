@@ -1,0 +1,63 @@
+{
+  "id": 1243172713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.0322,7.382,147.0322,7.382",
+    "geom:latitude":7.382,
+    "geom:longitude":147.0322,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"SA",
+    "gn:asciiname":"Satawal",
+    "gn:country_code":"FM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7645723,
+    "gn:latitude":7.382,
+    "gn:longitude":147.0322,
+    "gn:modification_date":"2011-01-17",
+    "gn:name":"Satawal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Chuuk",
+    "iso:country":"FM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645723,
+        "wk:page":"Satawal"
+    },
+    "wof:country":"FM",
+    "wof:geomhash":"09c2e367dbca2f638bda8a9f50662e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243172713,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243172713,
+    "wof:lastmodified":1537562824,
+    "wof:name":"Satawal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.0322,
+    7.382,
+    147.0322,
+    7.382
+],
+  "geometry": {"coordinates":[147.03219999999999,7.382],"type":"Point"}
+}
