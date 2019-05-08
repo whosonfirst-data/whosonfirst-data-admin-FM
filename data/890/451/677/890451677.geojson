@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":645,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Dalipebinaw Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":890451677,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1553717604,
     "wof:name":"Dalipebinaw Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

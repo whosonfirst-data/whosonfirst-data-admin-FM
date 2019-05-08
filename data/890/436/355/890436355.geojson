@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":275,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Kanifay Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":890436355,
-    "wof:lastmodified":1536617383,
+    "wof:lastmodified":1553717601,
     "wof:name":"Kanifay Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":221,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Faraulep Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":890455483,
-    "wof:lastmodified":1536617390,
+    "wof:lastmodified":1553717608,
     "wof:name":"Faraulep Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
