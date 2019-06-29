@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007942,
-    "geom:area_square_m":96858535.263232,
+    "geom:area_square_m":96858535.263234,
     "geom:bbox":"138.063812696,7.34414297162,143.920339389,9.77558014491",
     "geom:latitude":9.479667,
     "geom:longitude":138.290212,
@@ -29,11 +29,11 @@
     "name:ceb_x_preferred":[
         "State of Yap"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u6d66\u5dde"
-    ],
     "name:deu_x_preferred":[
         "Yap"
+    ],
+    "name:deu_x_variant":[
+        "Bundesstaat Yap"
     ],
     "name:eng_x_preferred":[
         "State of Yap"
@@ -47,15 +47,6 @@
     ],
     "name:fra_x_preferred":[
         "Yap"
-    ],
-    "name:fre_x_preferred":[
-        "Yap"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10de\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bundesstaat Yap"
     ],
     "name:glg_x_preferred":[
         "Estado de Yap"
@@ -211,7 +202,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561831219,
     "wof:name":"Yap",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

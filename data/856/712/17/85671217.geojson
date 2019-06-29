@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032589,
-    "geom:area_square_m":400007919.996687,
+    "geom:area_square_m":400007919.99667,
     "geom:bbox":"154.238454623,0.918158269988,158.33863366,8.18508535441",
     "geom:latitude":6.896507,
     "geom:longitude":157.689157,
@@ -34,14 +34,14 @@
     "name:cat_x_preferred":[
         "Pohnpei"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u7eb3\u4f69\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Pohnpei State"
     ],
-    "name:dut_x_preferred":[
-        "Pohnpei"
+    "name:deu_x_preferred":[
+        "Bundesstaat Pohnpei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c7\u03bd\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "State of Pohnpei"
@@ -51,26 +51,17 @@
         "Pohnpei",
         "Pohnpei State"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u067e\u0648\u0646\u0627\u067e\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pohnpein osavaltio"
     ],
     "name:fra_x_preferred":[
         "Pohnpei"
     ],
-    "name:fre_x_preferred":[
-        "Pohnpei"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10dc\u10de\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bundesstaat Pohnpei"
-    ],
     "name:glg_x_preferred":[
         "Estado de Pohnpei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c7\u03bd\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab9\u0acd\u0aa8\u0aaa\u0ac7\u0a87 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -90,6 +81,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0ca8\u0ccd\u0caa\u0cc8 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10dc\u10de\u10d4\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3f0\ud398\uc774 \uc8fc"
     ],
@@ -102,14 +96,14 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0939\u094d\u0928\u092a\u0947\u0908 \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pohnpei State"
+    ],
+    "name:nld_x_preferred":[
+        "Pohnpei"
     ],
     "name:nob_x_preferred":[
         "Pohnpei state"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u067e\u0648\u0646\u0627\u067e\u06cc"
     ],
     "name:pol_x_preferred":[
         "Pohnpei"
@@ -152,6 +146,9 @@
     ],
     "name:vie_x_preferred":[
         "Bang Pohnpei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7eb3\u4f69\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FSM",
@@ -273,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561831219,
     "wof:name":"Pohnpei",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

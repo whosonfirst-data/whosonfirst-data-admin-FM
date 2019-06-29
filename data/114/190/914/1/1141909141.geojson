@@ -23,13 +23,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u056c\u056b\u056f\u056b\u0580"
-    ],
     "name:aze_x_preferred":[
-        "Palikir"
-    ],
-    "name:baq_x_preferred":[
         "Palikir"
     ],
     "name:bel_x_preferred":[
@@ -47,20 +41,23 @@
     "name:cat_x_preferred":[
         "Palikir"
     ],
+    "name:ces_x_preferred":[
+        "Palikir"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5229\u57fa\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Palikir"
     ],
     "name:dan_x_preferred":[
         "Palikir"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palikir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ba\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Palikir"
@@ -71,19 +68,19 @@
     "name:est_x_preferred":[
         "Palikir"
     ],
+    "name:eus_x_preferred":[
+        "Palikir"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Palikir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Palikir"
     ],
     "name:fry_x_preferred":[
-        "Palikir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10da\u10d8\u10d9\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Palikir"
     ],
     "name:gla_x_preferred":[
@@ -91,9 +88,6 @@
     ],
     "name:glg_x_preferred":[
         "Palikir"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b9\u03ba\u03af\u03c1"
     ],
     "name:hat_x_preferred":[
         "Paliki"
@@ -110,8 +104,8 @@
     "name:hun_x_preferred":[
         "Palikir"
     ],
-    "name:ice_x_preferred":[
-        "Palik\u00edr"
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u056b\u056f\u056b\u0580"
     ],
     "name:ido_x_preferred":[
         "Palikir"
@@ -119,11 +113,17 @@
     "name:ind_x_preferred":[
         "Palikir"
     ],
+    "name:isl_x_preferred":[
+        "Palik\u00edr"
+    ],
     "name:ita_x_preferred":[
         "Palikir"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ea\u30ad\u30fc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10da\u10d8\u10d9\u10d8\u10e0\u10d8"
     ],
     "name:kin_x_preferred":[
         "Palikir"
@@ -149,22 +149,25 @@
     "name:ltz_x_preferred":[
         "Palikir"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
     ],
-    "name:may_x_preferred":[
-        "Palikir"
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
     "name:mlg_x_preferred":[
+        "Palikir"
+    ],
+    "name:msa_x_preferred":[
         "Palikir"
     ],
     "name:nan_x_preferred":[
         "Palikir"
     ],
     "name:nds_x_preferred":[
+        "Palikir"
+    ],
+    "name:nld_x_preferred":[
         "Palikir"
     ],
     "name:nno_x_preferred":[
@@ -179,16 +182,13 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a3e\u0a32\u0a40\u0a15\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
-    ],
     "name:pol_x_preferred":[
         "Palikir"
     ],
     "name:por_x_preferred":[
         "Palikir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Palikir"
     ],
     "name:rus_x_preferred":[
@@ -200,7 +200,7 @@
     "name:sco_x_preferred":[
         "Palikir"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Palikir"
     ],
     "name:sna_x_preferred":[
@@ -251,14 +251,14 @@
     "name:war_x_preferred":[
         "Palikir"
     ],
-    "name:wel_x_preferred":[
-        "Palikir"
-    ],
     "name:wuu_x_preferred":[
         "\u5e15\u5229\u57fa\u723e"
     ],
     "name:yue_x_preferred":[
         "\u5e15\u5229\u57fa\u723e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5229\u57fa\u5c14"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Federated States of Micronesia",
@@ -377,7 +377,7 @@
         }
     ],
     "wof:id":1141909141,
-    "wof:lastmodified":1514423757,
+    "wof:lastmodified":1561831223,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",
