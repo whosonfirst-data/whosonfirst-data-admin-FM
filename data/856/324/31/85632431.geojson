@@ -132,7 +132,8 @@
         "Federativn\u00ed st\u00e1ty Mikron\u00e9sie"
     ],
     "name:ces_x_variant":[
-        "Mikron\u00e9zie"
+        "Mikron\u00e9zie",
+        "Federativn\u00ed St\u00e1ty Mikron\u00e9sie"
     ],
     "name:che_x_preferred":[
         "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u043d \u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0438 \u0448\u0442\u0430\u0442\u0430\u0448"
@@ -155,9 +156,6 @@
     ],
     "name:cym_x_variant":[
         "Micronesia"
-    ],
-    "name:cze_x_preferred":[
-        "Federativn\u00ed St\u00e1ty Mikron\u00e9sie"
     ],
     "name:cze_x_variant":[
         "Mikron\u00e9sie",
@@ -182,7 +180,6 @@
     ],
     "name:deu_x_variant":[
         "Micronesien, F\u00f6derierte Staaten von",
-        "F\u00f6derierte Staaten von Mikronesien",
         "Mikronesien"
     ],
     "name:diq_x_preferred":[
@@ -261,7 +258,6 @@
     ],
     "name:fra_x_variant":[
         "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)",
-        "Micron\u00e9sie",
         "\u00c9tats f\u00e9d\u00e9r\u00e9s de Micron\u00e9sie"
     ],
     "name:frp_x_preferred":[
@@ -599,9 +595,7 @@
         "Statele Federate ale Microneziei"
     ],
     "name:ron_x_variant":[
-        "Micronezia"
-    ],
-    "name:rum_x_preferred":[
+        "Micronezia",
         "Statele Federate Ale Microneziei"
     ],
     "name:rum_x_variant":[
@@ -950,7 +944,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1537303799,
+    "wof:lastmodified":1561831219,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

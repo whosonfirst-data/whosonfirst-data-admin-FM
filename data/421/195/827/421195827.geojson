@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Weno Town"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u8afe"
-    ],
     "name:deu_x_preferred":[
-        "Weno"
-    ],
-    "name:dut_x_preferred":[
         "Weno"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "Weno"
     ],
     "name:fra_x_preferred":[
-        "Weno"
-    ],
-    "name:fre_x_preferred":[
-        "Weno"
-    ],
-    "name:ger_x_preferred":[
         "Weno"
     ],
     "name:heb_x_preferred":[
@@ -55,9 +43,6 @@
     "name:lit_x_preferred":[
         "Venas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u043d\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u043d\u043e"
     ],
@@ -71,9 +56,6 @@
         "Weno"
     ],
     "name:ron_x_preferred":[
-        "Weno"
-    ],
-    "name:rum_x_preferred":[
         "Weno"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +118,7 @@
         }
     ],
     "wof:id":421195827,
-    "wof:lastmodified":1527716118,
+    "wof:lastmodified":1561831221,
     "wof:name":"Weno",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

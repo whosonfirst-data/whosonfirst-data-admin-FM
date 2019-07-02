@@ -16,17 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
-    "name:dut_x_preferred":[
-        "Rumung"
-    ],
     "name:eng_x_preferred":[
         "Rumung"
     ],
     "name:ita_x_preferred":[
         "Rumung"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0443\u043c\u0443\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Rumung"
     ],
     "name:unk_x_variant":[
         "Rumung"
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":890454163,
-    "wof:lastmodified":1514423758,
+    "wof:lastmodified":1561831222,
     "wof:name":"Rumung Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
