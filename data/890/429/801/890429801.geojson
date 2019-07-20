@@ -15,8 +15,14 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ruo"
+    ],
     "name:eng_x_preferred":[
         "Ruo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0626\u0648"
     ],
     "name:fra_x_preferred":[
         "Ruo"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890429801,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1563586758,
     "wof:name":"Ruo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -21,8 +21,23 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rull"
+    ],
+    "name:ceb_x_preferred":[
+        "Rull Municipality"
+    ],
     "name:eng_x_preferred":[
         "Rull"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0644"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30eb"
+    ],
+    "name:swe_x_preferred":[
+        "Rull Municipality"
     ],
     "qs:name":"Rull Municipality",
     "qs:photos_9r":0,
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":890424357,
-    "wof:lastmodified":1553717597,
+    "wof:lastmodified":1563586737,
     "wof:name":"Rull Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

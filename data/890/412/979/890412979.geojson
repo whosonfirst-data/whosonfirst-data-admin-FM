@@ -16,14 +16,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0633\u0631\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041a\u0430\u0441\u0440\u0430\u0435"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b8\u09b0\u09c7"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0448\u0440\u0430\u0439"
+    ],
     "name:cat_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ceb_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ces_x_preferred":[
+        "Kosrae"
+    ],
+    "name:dan_x_preferred":[
         "Kosrae"
     ],
     "name:deu_x_preferred":[
         "Kosrae"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c3\u03c1\u03b1\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Kosrae Island"
+    ],
+    "name:eng_x_variant":[
+        "Kosrae"
+    ],
+    "name:epo_x_preferred":[
+        "Kosrae"
+    ],
+    "name:est_x_preferred":[
+        "Kosrae"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u0631\u0627\u0626\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kosrae"
@@ -31,23 +67,113 @@
     "name:fra_x_preferred":[
         "Kosrae"
     ],
+    "name:glg_x_preferred":[
+        "Kosrae"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab8\u0acd\u0ab0\u0abe\u0a8f"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0936\u0930\u093e\u092f \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Kosrae-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ita_x_preferred":[
+        "Kosrae"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30b9\u30e9\u30a8\u5dde"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0cb8\u0ccd\u0cb0\u0cc7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e0\u10d0\u10d4 "
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uc2a4\ub77c\uc5d0\uc8fc"
+    ],
     "name:kos_x_preferred":[
+        "Kosrae"
+    ],
+    "name:lav_x_preferred":[
+        "Kosraja"
+    ],
+    "name:lit_x_preferred":[
+        "Kosra\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u0938\u0930\u0947"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0448\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Kosrae"
     ],
     "name:nld_x_preferred":[
         "Kosrae"
     ],
+    "name:nob_x_preferred":[
+        "Kosrae"
+    ],
+    "name:oci_x_preferred":[
+        "Cossaie"
+    ],
     "name:pol_x_preferred":[
         "Kosrae"
+    ],
+    "name:por_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ron_x_preferred":[
+        "Kosrae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u0438\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc3\u0dca\u0dbb\u0dcf\u0dba\u0dd2"
     ],
     "name:spa_x_preferred":[
         "Kosrae"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0440\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Kosrae"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0bb8\u0bcd\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4b\u0c38\u0c4d\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e2d\u0e2a\u0e44\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Kosrae"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0440\u0430\u0435"
+    ],
     "name:unk_x_variant":[
         "Kosrae Island"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0633\u0631\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Kosrae"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u65af\u96f7"
     ],
     "qs:name":"Kosrae",
     "qs:photos_9r":0,
@@ -79,7 +205,7 @@
         }
     ],
     "wof:id":890412979,
-    "wof:lastmodified":1527727261,
+    "wof:lastmodified":1563586728,
     "wof:name":"Kosrae",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",

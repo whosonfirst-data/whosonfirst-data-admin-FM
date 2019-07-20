@@ -16,8 +16,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:ceb_x_preferred":[
+        "Nomwin"
+    ],
+    "name:deu_x_preferred":[
+        "Nomwin"
+    ],
+    "name:eng_x_preferred":[
+        "Nomwin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0645\u200c\u0648\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nomwin"
+    ],
+    "name:ita_x_preferred":[
+        "Nomwin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30e0\u30a6\u30a3\u30f3\u74b0\u7901"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u043c\u0432\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Nomwin"
+    ],
+    "name:pol_x_preferred":[
+        "Nomwin"
+    ],
+    "name:swe_x_preferred":[
+        "Nomwin"
+    ],
     "name:unk_x_variant":[
         "Namouyne"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u59c6\u6eab\u74b0\u7901"
     ],
     "qs:name":"Nomwin",
     "qs:photos_9r":0,
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":890452051,
-    "wof:lastmodified":1527734188,
+    "wof:lastmodified":1563586742,
     "wof:name":"Nomwin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

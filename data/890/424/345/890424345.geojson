@@ -24,6 +24,24 @@
     "name:eng_x_preferred":[
         "Kitti"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Kitti"
+    ],
+    "name:ita_x_preferred":[
+        "Kitti"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u0442\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Kitti"
+    ],
+    "name:pol_x_preferred":[
+        "Kitti"
+    ],
     "qs:name":"Kitti Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":890424345,
-    "wof:lastmodified":1553717597,
+    "wof:lastmodified":1563586738,
     "wof:name":"Kitti Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

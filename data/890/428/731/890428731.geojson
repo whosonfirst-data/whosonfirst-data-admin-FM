@@ -19,8 +19,20 @@
     "name:bul_x_preferred":[
         "\u041e\u043d\u043e\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Onou"
+    ],
     "name:eng_x_preferred":[
         "Ono"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Onou"
+    ],
+    "name:ita_x_preferred":[
+        "Onou"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043d\u043e"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":890428731,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1563586750,
     "wof:name":"Onou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
