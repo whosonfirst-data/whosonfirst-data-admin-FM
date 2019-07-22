@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Tomil"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u06cc\u0644"
+    ],
     "name:ita_x_preferred":[
         "Tomil"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890424363,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1563586731,
     "wof:name":"Tomil Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

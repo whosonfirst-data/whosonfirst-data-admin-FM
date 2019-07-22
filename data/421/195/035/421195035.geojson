@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"138.177537,9.594856,138.177537,9.594856",
     "geom:latitude":9.594856,
     "geom:longitude":138.177537,
@@ -15,7 +16,22 @@
     "name:deu_x_preferred":[
         "Maap"
     ],
+    "name:eng_x_preferred":[
+        "Maap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Maap"
+    ],
     "name:ita_x_preferred":[
+        "Maap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30d7"
+    ],
+    "name:nld_x_preferred":[
         "Maap"
     ],
     "name:pol_x_preferred":[
@@ -23,6 +39,9 @@
     ],
     "name:spa_x_preferred":[
         "Maap"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u666e\u5cf6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -63,7 +82,7 @@
         }
     ],
     "wof:id":421195035,
-    "wof:lastmodified":1527716125,
+    "wof:lastmodified":1563586718,
     "wof:name":"Maap",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

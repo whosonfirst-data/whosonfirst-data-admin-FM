@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Rumung"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0648\u0646\u06af"
+    ],
     "name:ita_x_preferred":[
         "Rumung"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890454163,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1563586748,
     "wof:name":"Rumung Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

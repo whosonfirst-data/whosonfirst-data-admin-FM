@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "State of Kosrae"
     ],
+    "name:eng_x_variant":[
+        "Kosrae State"
+    ],
     "name:fin_x_preferred":[
         "Kosraen osavaltio"
     ],
@@ -169,7 +172,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561831220,
+    "wof:lastmodified":1563586679,
     "wof:name":"Kosrae",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

@@ -42,6 +42,9 @@
         "Yap",
         "Yap State"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06cc\u0627\u067e"
+    ],
     "name:fin_x_preferred":[
         "Yapin osavaltio"
     ],
@@ -62,6 +65,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc57c\ud504 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc57c\ud504\uc8fc"
+    ],
+    "name:oci_x_preferred":[
+        "Iap"
     ],
     "name:pol_x_preferred":[
         "Yap"
@@ -202,7 +211,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561831219,
+    "wof:lastmodified":1563586676,
     "wof:name":"Yap",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

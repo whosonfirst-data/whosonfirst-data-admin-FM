@@ -24,6 +24,18 @@
     "name:eng_x_preferred":[
         "Rumung"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0648\u0646\u06af"
+    ],
+    "name:ita_x_preferred":[
+        "Rumung"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u043c\u0443\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Rumung"
+    ],
     "qs:name":"Rumung Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":890424359,
-    "wof:lastmodified":1553717597,
+    "wof:lastmodified":1563586736,
     "wof:name":"Rumung Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

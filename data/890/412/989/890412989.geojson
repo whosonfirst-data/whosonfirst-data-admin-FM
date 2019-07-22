@@ -19,8 +19,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0430\u0440\u0430\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Pisaras"
+    ],
     "name:eng_x_preferred":[
         "Pisaras"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u0627\u0631\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Piherarh"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890412989,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1563586729,
     "wof:name":"Pisaras",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
