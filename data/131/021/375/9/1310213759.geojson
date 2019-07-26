@@ -27,6 +27,15 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salong"
+    ],
+    "name:nor_x_preferred":[
+        "Salong"
+    ],
+    "name:swe_x_preferred":[
+        "Salong"
+    ],
     "name:und_x_variant":[
         "Schaulon"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310213759,
-    "wof:lastmodified":1537622467,
+    "wof:lastmodified":1564120223,
     "wof:name":"Salong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

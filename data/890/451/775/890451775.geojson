@@ -15,6 +15,48 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "State of Yap"
+    ],
+    "name:deu_x_preferred":[
+        "Yap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06cc\u0627\u067e"
+    ],
+    "name:fin_x_preferred":[
+        "Yapin osavaltio"
+    ],
+    "name:fra_x_preferred":[
+        "Yap"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u092a \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30c3\u30d7\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10de\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc57c\ud504\uc8fc"
+    ],
+    "name:pol_x_preferred":[
+        "Yap"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0627\u0633\u062a \u06cc\u0627\u067e"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u6d66\u5dde"
+    ],
     "qs:name":"Lamotrek Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -40,7 +82,7 @@
         }
     ],
     "wof:id":890451775,
-    "wof:lastmodified":1527792941,
+    "wof:lastmodified":1564120249,
     "wof:name":"Lamotrek Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngulu"
+    ],
+    "name:deu_x_preferred":[
+        "Ngulu"
+    ],
+    "name:fra_x_preferred":[
+        "Ngulu"
+    ],
+    "name:ita_x_preferred":[
+        "Ngulu"
+    ],
+    "name:swe_x_preferred":[
+        "Ngulu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1343262407,
-    "wof:lastmodified":1537030751,
+    "wof:lastmodified":1564120188,
     "wof:name":"Ngulu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

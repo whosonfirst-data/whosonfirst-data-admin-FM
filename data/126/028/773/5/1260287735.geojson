@@ -26,6 +26,66 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0643\u0648\u0648\u0631\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Nukuoro atollu"
+    ],
+    "name:ceb_x_preferred":[
+        "Nukuoro Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0626\u0648\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:fra_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:ita_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30af\u30aa\u30ed\u74b0\u7901"
+    ],
+    "name:lat_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:lit_x_preferred":[
+        "Nukuoras"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043e\u0440\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:pol_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:swe_x_preferred":[
+        "Nukuoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043e\u0440\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u5eab\u5967\u7f85\u74b0\u7901"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +103,7 @@
         }
     ],
     "wof:id":1260287735,
-    "wof:lastmodified":1536706486,
+    "wof:lastmodified":1564120215,
     "wof:name":"Nukuoro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

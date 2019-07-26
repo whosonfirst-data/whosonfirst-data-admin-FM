@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000645,
-    "geom:area_square_m":7918931.241701,
+    "geom:area_square_m":7918931.241722,
     "geom:bbox":"158.141968867,6.90115460814,158.175977005,6.9302637607",
     "geom:latitude":6.915185,
     "geom:longitude":158.159243,
@@ -15,8 +15,263 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Palikir"
+    ],
+    "name:amh_x_preferred":[
+        "\u1353\u120a\u12aa\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Palikir"
+    ],
+    "name:aze_x_preferred":[
+        "Palikir"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0456\u043a\u0456\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09bf\u0995\u09bf\u09b0"
+    ],
+    "name:bos_x_preferred":[
+        "Palikir"
+    ],
+    "name:bre_x_preferred":[
+        "Palikir"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Palikir"
+    ],
+    "name:cdo_x_preferred":[
+        "Palikir"
+    ],
+    "name:ceb_x_preferred":[
+        "Palikir"
+    ],
+    "name:ces_x_preferred":[
+        "Palikir"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:cym_x_preferred":[
+        "Palikir"
+    ],
+    "name:dan_x_preferred":[
+        "Palikir"
+    ],
+    "name:deu_x_preferred":[
+        "Palikir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ba\u03af\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Palikir"
+    ],
+    "name:epo_x_preferred":[
+        "Palikiro"
+    ],
+    "name:est_x_preferred":[
+        "Palikir"
+    ],
+    "name:eus_x_preferred":[
+        "Palikir"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Palikir"
+    ],
+    "name:fra_x_preferred":[
+        "Palikir"
+    ],
+    "name:fry_x_preferred":[
+        "Palikir"
+    ],
+    "name:gla_x_preferred":[
+        "Palikir"
+    ],
+    "name:glg_x_preferred":[
+        "Palikir"
+    ],
+    "name:hak_x_preferred":[
+        "Palikir"
+    ],
+    "name:hat_x_preferred":[
+        "Paliki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d9\u05e7\u05d9\u05e8"
+    ],
+    "name:hif_x_preferred":[
+        "Palikir"
+    ],
+    "name:hrv_x_preferred":[
+        "Palikir"
+    ],
+    "name:hun_x_preferred":[
+        "Palikir"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u056b\u056f\u056b\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0561\u056c\u056b\u0584\u056b\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Palikir"
+    ],
+    "name:ile_x_preferred":[
+        "Palikir"
+    ],
+    "name:ind_x_preferred":[
+        "Palikir"
+    ],
+    "name:isl_x_preferred":[
+        "Palik\u00edr"
+    ],
+    "name:ita_x_preferred":[
+        "Palikir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ea\u30ad\u30fc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10da\u10d8\u10d9\u10d8\u10e0\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "Palikir"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub9ac\ud0a4\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Palikir"
+    ],
+    "name:lav_x_preferred":[
+        "Palikira"
+    ],
+    "name:lit_x_preferred":[
+        "Palikyras"
+    ],
+    "name:ltz_x_preferred":[
+        "Palikir"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Palikir"
+    ],
+    "name:msa_x_preferred":[
+        "Palikir"
+    ],
+    "name:nds_x_preferred":[
+        "Palikir"
+    ],
+    "name:nld_x_preferred":[
+        "Palikir"
+    ],
+    "name:nno_x_preferred":[
+        "Palikir"
+    ],
+    "name:nor_x_preferred":[
+        "Palikir"
+    ],
+    "name:oci_x_preferred":[
+        "Palikir"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a3e\u0a32\u0a40\u0a15\u0a30"
+    ],
+    "name:pol_x_preferred":[
+        "Palikir"
+    ],
+    "name:por_x_preferred":[
+        "Palikir"
+    ],
+    "name:ron_x_preferred":[
+        "Palikir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Palikir"
+    ],
+    "name:slk_x_preferred":[
+        "Palikir"
+    ],
+    "name:slv_x_preferred":[
+        "Palikir"
+    ],
+    "name:sna_x_preferred":[
+        "Palikir"
+    ],
+    "name:spa_x_preferred":[
+        "Palikir"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Palikir"
+    ],
+    "name:swe_x_preferred":[
+        "Palikir"
+    ],
+    "name:tah_x_preferred":[
+        "Palikir"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb2\u0bbf\u0b95\u0bc0\u0bb0\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Palikir"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e32\u0e25\u0e35\u0e01\u0e35\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Palikir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u0456\u043a\u0456\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
+    ],
+    "name:vep_x_preferred":[
+        "Palikir"
+    ],
+    "name:vie_x_preferred":[
+        "Palikir"
+    ],
+    "name:war_x_preferred":[
+        "Palikir"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e15\u5229\u57fa\u723e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5229\u57fa\u5c14"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -32,7 +287,7 @@
     "wof:concordances":{},
     "wof:country":"FM",
     "wof:created":1459009389,
-    "wof:geomhash":"be542fdc1e4a6b037d0a0f84e5b8c75f",
+    "wof:geomhash":"6ae0e9924998f53d55f748f3345ffabf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -42,7 +297,7 @@
         }
     ],
     "wof:id":1108952565,
-    "wof:lastmodified":1552519486,
+    "wof:lastmodified":1564120217,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",
@@ -53,9 +308,9 @@
 },
   "bbox": [
     158.14196886686253,
-    6.901154608140005,
+    6.90115460814001,
     158.17597700455192,
-    6.930263760704151
+    6.93026376070415
 ],
   "geometry": {"coordinates":[[[158.14388273402824,6.91650592708028],[158.14427175548914,6.91771277063732],[158.14427175548914,6.91829205444924],[158.14412587244129,6.91891961111021],[158.14378547866303,6.9194506199411],[158.14309854377191,6.92019310079194],[158.14209567246172,6.92094984130118],[158.14196886686253,6.92156388530047],[158.14214384006354,6.92212893110814],[158.14261193172504,6.92264031899385],[158.14344555134764,6.92325927419702],[158.14466850049052,6.92370593581151],[158.14810920790828,6.9235420872081],[158.15122966333428,6.92325408530537],[158.15427383435889,6.92343306178988],[158.15753806915478,6.9240505660125],[158.15909939720737,6.92501200881544],[158.1595811825284,6.92547418598984],[158.15923536460826,6.9260019288797],[158.1592004540509,6.9267881353482],[158.15940575864136,6.92826570945963],[158.16031613697419,6.92856347498112],[158.16139982124145,6.92828584220943],[158.16319393651517,6.92858113518239],[158.167078138634,6.92949140172815],[158.16814794765148,6.92973276404409],[158.16897461825585,6.93021548830523],[158.16946089508195,6.93026376070415],[158.17023893800373,6.93021548830523],[158.17111423629078,6.92997412623644],[158.17130874702119,6.92963621913255],[158.17126011933863,6.92910522176563],[158.17106560860813,6.92862249636763],[158.17116286397336,6.92828458829497],[158.17155188543427,6.92799495261138],[158.17189227921253,6.92760877142318],[158.17208678994297,6.92736740801995],[158.17203816226038,6.92707777177301],[158.17164914079947,6.9267881353482],[158.17150325775165,6.92640195317174],[158.17160051311689,6.9254847692354],[158.17184365152991,6.92476067539434],[158.17557012211276,6.91552160482171],[158.17597700455192,6.91360948996319],[158.17546491132509,6.91315589452161],[158.17283346593842,6.91082504621208],[158.16942437283092,6.90835128251315],[158.16618758723197,6.9067303603889],[158.16514919049916,6.90625386578211],[158.16454154012507,6.90626336033267],[158.16554458281072,6.90440361003325],[158.16547828791326,6.90370610538085],[158.16561930815564,6.90260286706041],[158.16444218565374,6.90205833046327],[158.16225112641055,6.90173541403627],[158.1597353585596,6.9018304628543],[158.15744985747688,6.90226494037534],[158.15691495296818,6.90115460814001],[158.15657455918989,6.90115460814001],[158.15599102699855,6.90144426027857],[158.15496984566371,6.90231321563083],[158.15467807956801,6.90255459183446],[158.1534137598201,6.90265114228144],[158.1529761106766,6.90250631660358],[158.15239257848526,6.90212011457931],[158.15176041861136,6.90149253561777],[158.15083649264173,6.90134770958541],[158.15020433276774,6.902023564024],[158.14947491752861,6.90245804136778],[158.14879412997203,6.90269941749755],[158.14722555451422,6.90333907037716],[158.14573058596747,6.90453387206044],[158.14529293682398,6.90472697212704],[158.1458278413327,6.90554764653086],[158.1458278413327,6.90607867038648],[158.14587646901532,6.90689934244537],[158.14558470291965,6.91027856533014],[158.14500117072831,6.91303020040901],[158.14388273402824,6.91650592708028]]],"type":"Polygon"}
 }
