@@ -26,6 +26,36 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nomwin"
+    ],
+    "name:deu_x_preferred":[
+        "Nomwin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0645\u200c\u0648\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nomwin"
+    ],
+    "name:ita_x_preferred":[
+        "Nomwin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30e0\u30a6\u30a3\u30f3\u74b0\u7901"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u043c\u0432\u0438\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Nomwin"
+    ],
+    "name:swe_x_preferred":[
+        "Nomwin"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u59c6\u6eab\u74b0\u7901"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1242579473,
-    "wof:lastmodified":1537058394,
+    "wof:lastmodified":1564120253,
     "wof:name":"Nomwin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

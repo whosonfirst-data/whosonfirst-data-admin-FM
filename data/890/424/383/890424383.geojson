@@ -15,6 +15,42 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:deu_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c5\u03bb\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:fin_x_preferred":[
+        "Pavlop\u00e9tri"
+    ],
+    "name:fra_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:ita_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:lat_x_preferred":[
+        "Paulopetrium"
+    ],
+    "name:nld_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:pol_x_preferred":[
+        "Pawlopetri"
+    ],
+    "name:por_x_preferred":[
+        "Pavlopetri"
+    ],
+    "name:spa_x_preferred":[
+        "Pavlopetri"
+    ],
     "name:unk_x_variant":[
         "Ono Village"
     ],
@@ -43,7 +79,7 @@
         }
     ],
     "wof:id":890424383,
-    "wof:lastmodified":1527727265,
+    "wof:lastmodified":1564120236,
     "wof:name":"Onou Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

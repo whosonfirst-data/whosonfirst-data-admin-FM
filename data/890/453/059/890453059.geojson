@@ -21,7 +21,16 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ruo"
+    ],
     "name:eng_x_preferred":[
+        "Ruo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Ruo"
     ],
     "qs:name":"Ruo Municipality",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":890453059,
-    "wof:lastmodified":1553717606,
+    "wof:lastmodified":1564120242,
     "wof:name":"Ruo Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

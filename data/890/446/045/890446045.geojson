@@ -15,6 +15,9 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Fais"
+    ],
     "qs:name":"Fais",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890446045,
-    "wof:lastmodified":1527727216,
+    "wof:lastmodified":1564120235,
     "wof:name":"Fais",
     "wof:parent_id":85671227,
     "wof:placetype":"locality",

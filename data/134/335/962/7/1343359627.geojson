@@ -26,6 +26,27 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sorol"
+    ],
+    "name:deu_x_preferred":[
+        "Sorol"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Sorol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ed\u30fc\u30eb\u74b0\u7901"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Sorol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1343359627,
-    "wof:lastmodified":1537562824,
+    "wof:lastmodified":1564120186,
     "wof:name":"Sorol",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

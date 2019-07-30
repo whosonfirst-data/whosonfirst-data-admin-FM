@@ -26,6 +26,24 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oneop"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u06cc\u0648\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Oneop"
+    ],
+    "name:ita_x_preferred":[
+        "Oneop"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043d\u0435\u043e\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Oneop"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1276880457,
-    "wof:lastmodified":1537038634,
+    "wof:lastmodified":1564120197,
     "wof:name":"Oneop",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

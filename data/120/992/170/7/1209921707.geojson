@@ -26,6 +26,24 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pisaras"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u0627\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Piherarh"
+    ],
+    "name:ita_x_preferred":[
+        "Piherarh"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Pisaras"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209921707,
-    "wof:lastmodified":1536396726,
+    "wof:lastmodified":1564120207,
     "wof:name":"Pisaras",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

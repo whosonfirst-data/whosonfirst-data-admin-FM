@@ -15,6 +15,18 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "En mai"
+    ],
+    "name:deu_x_preferred":[
+        "En mai"
+    ],
+    "name:ita_x_preferred":[
+        "Accada quel che accada"
+    ],
+    "name:por_x_preferred":[
+        "En mai"
+    ],
     "qs:name":"Fais Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -40,7 +52,7 @@
         }
     ],
     "wof:id":890423005,
-    "wof:lastmodified":1527727274,
+    "wof:lastmodified":1564120240,
     "wof:name":"Fais Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

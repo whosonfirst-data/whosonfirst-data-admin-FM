@@ -27,6 +27,24 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Messa"
+    ],
+    "name:fra_x_preferred":[
+        "Messa"
+    ],
+    "name:ita_x_preferred":[
+        "Messa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Messa"
+    ],
+    "name:swe_x_preferred":[
+        "Messa"
+    ],
     "name:und_x_variant":[
         "Mesa",
         "Mesa Village",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276444105,
-    "wof:lastmodified":1537622469,
+    "wof:lastmodified":1564120197,
     "wof:name":"Messa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

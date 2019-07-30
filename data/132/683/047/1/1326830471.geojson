@@ -26,6 +26,12 @@
     "iso:country":"FM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0578\u0580"
+    ],
+    "name:spa_x_preferred":[
+        "Asor"
+    ],
     "name:und_x_variant":[
         "Yasor"
     ],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326830471,
-    "wof:lastmodified":1537622472,
+    "wof:lastmodified":1564120181,
     "wof:name":"Asor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
