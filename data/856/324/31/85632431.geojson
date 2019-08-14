@@ -15,6 +15,9 @@
     "itu:country_code":[
         "691"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FM"
+    ],
     "lbl:latitude":6.881557,
     "lbl:longitude":158.221135,
     "mps:latitude":6.881557,
@@ -974,16 +977,13 @@
         }
     ],
     "wof:id":85632431,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563586675,
+    "wof:lastmodified":1565710022,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

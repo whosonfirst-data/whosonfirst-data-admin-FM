@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PO"
+    ],
     "lbl:latitude":6.887552,
     "lbl:longitude":158.234019,
     "mps:latitude":6.887552,
@@ -261,16 +264,13 @@
         }
     ],
     "wof:id":85671217,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561831219,
+    "wof:lastmodified":1565710022,
     "wof:name":"Pohnpei",
     "wof:parent_id":85632431,
     "wof:placetype":"region",
