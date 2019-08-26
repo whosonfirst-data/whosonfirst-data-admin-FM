@@ -11,10 +11,13 @@
     "geom:longitude":149.6855,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":580,
+    "gn:population":580,
     "iso:country":"FM",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Namonuito Atoll"
     ],
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626975,
-        "qs:id":694201,
+        "qs_pg:id":694201,
         "wd:id":"Q1573799",
         "wk:page":"Namonuito Atoll"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890442571,
-    "wof:lastmodified":1563586760,
+    "wof:lastmodified":1566596179,
     "wof:name":"Onoun Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

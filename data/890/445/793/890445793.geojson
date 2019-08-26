@@ -11,10 +11,14 @@
     "geom:longitude":153.11889,
     "gn:country":"FM",
     "gn:fcode":"PPL",
-    "gn:pop":407,
+    "gn:population":407,
     "iso:country":"FM",
+    "lbl:bbox":"153.09889,5.90197,153.13889,5.94197",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u043e\u043b\u0443\u043a"
     ],
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7627585,
-        "qs:id":694256,
+        "qs_pg:id":694256,
         "wd:id":"Q1964365",
         "wk:page":"Namoluk"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890445793,
-    "wof:lastmodified":1563586764,
+    "wof:lastmodified":1566596181,
     "wof:name":"Namoluk Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

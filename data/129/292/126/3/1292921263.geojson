@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Kosrae",
     "iso:country":"FM",
+    "lbl:bbox":"162.98934,5.34869,163.02934,5.38869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sialaht"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292921263,
-    "wof:lastmodified":1537622468,
+    "wof:lastmodified":1566596144,
     "wof:name":"Sialat",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",

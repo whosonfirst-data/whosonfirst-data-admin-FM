@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pohnpei",
     "iso:country":"FM",
+    "lbl:bbox":"158.14246,6.85027,158.18246,6.89027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palang",
         "Pehleng"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209317741,
-    "wof:lastmodified":1537622460,
+    "wof:lastmodified":1566596151,
     "wof:name":"Pwel Weita",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",

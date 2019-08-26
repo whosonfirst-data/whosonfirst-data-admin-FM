@@ -11,11 +11,14 @@
     "geom:longitude":149.41011,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":365,
+    "gn:population":365,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0442\u0430\u043c"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Tamatam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molaluk"
     ],
     "qs:name":"Tamatam",
@@ -61,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081378,
-        "qs:id":571881,
+        "qs_pg:id":571881,
         "wd:id":"Q1604777",
         "wk:page":"Tamatam"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890445323,
-    "wof:lastmodified":1563586761,
+    "wof:lastmodified":1566596180,
     "wof:name":"Tamatam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

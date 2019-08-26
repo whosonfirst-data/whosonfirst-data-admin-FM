@@ -11,7 +11,7 @@
     "geom:longitude":152.244,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":469,
+    "gn:population":469,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Ruo Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ruo"
     ],
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":7626982,
         "hasc:id":"FM.CH.RU",
-        "qs:id":694208,
+        "qs_pg:id":694208,
         "wk:page":"Ruo"
     },
     "wof:country":"FM",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890453059,
-    "wof:lastmodified":1564120242,
+    "wof:lastmodified":1566596176,
     "wof:name":"Ruo Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

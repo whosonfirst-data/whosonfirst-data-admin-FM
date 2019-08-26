@@ -11,12 +11,15 @@
     "geom:longitude":152.5745,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":995,
+    "gn:population":995,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nema"
     ],
     "qs:name":"Nema Island",
@@ -32,7 +35,9 @@
     "wof:concordances":{
         "gn:id":7645215,
         "gp:id":29389684,
-        "qs:id":571899,
+        "qs_pg:id":571899
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":695278
     },
     "wof:country":"FM",
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890413003,
-    "wof:lastmodified":1509410037,
+    "wof:lastmodified":1566596168,
     "wof:name":"Nema Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

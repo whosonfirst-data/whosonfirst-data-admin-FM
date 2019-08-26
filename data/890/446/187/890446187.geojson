@@ -11,12 +11,15 @@
     "geom:longitude":151.665,
     "gn:country":"FM",
     "gn:fcode":"RGN",
-    "gn:pop":1011,
+    "gn:population":1011,
     "iso:country":"FM",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nomiisofo"
     ],
     "qs:name":"Nomwisofo Islands - Ramanum Island",
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667879,
-        "qs:id":696646
+        "qs_pg:id":696646
     },
     "wof:country":"FM",
     "wof:created":1469052542,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890446187,
-    "wof:lastmodified":1505343609,
+    "wof:lastmodified":1566596169,
     "wof:name":"Nomwisofo Islands - Ramanum Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

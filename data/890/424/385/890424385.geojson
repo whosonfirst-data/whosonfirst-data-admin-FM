@@ -11,10 +11,14 @@
     "geom:longitude":150.33664,
     "gn:country":"FM",
     "gn:fcode":"PPL",
-    "gn:pop":178,
+    "gn:population":178,
     "iso:country":"FM",
+    "lbl:bbox":"150.31664,8.73663,150.35664,8.77663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Amend\u00fcze-Unaso"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0434\u0435\u043a\u0441-\u041e\u043d\u0435\u043a\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onari Village"
     ],
     "name:uzb_x_preferred":[
@@ -123,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7628281,
-        "qs:id":694277,
+        "qs_pg:id":694277,
         "wk:page":"Amendeuix-Oneix"
     },
     "wof:country":"FM",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890424385,
-    "wof:lastmodified":1564120237,
+    "wof:lastmodified":1566596171,
     "wof:name":"Unanu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

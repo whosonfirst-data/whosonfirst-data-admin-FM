@@ -11,7 +11,7 @@
     "geom:longitude":138.0854,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":645,
+    "gn:population":645,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Dalipebinaw Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dalipebinau"
     ],
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":7626936,
         "hasc:id":"FM.YA.DA",
-        "qs:id":694162,
+        "qs_pg:id":694162,
         "wd:id":"Q3397624",
         "wk:page":"Dalipebinau"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890451677,
-    "wof:lastmodified":1563586768,
+    "wof:lastmodified":1566596182,
     "wof:name":"Dalipebinaw Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

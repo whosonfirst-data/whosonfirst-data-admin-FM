@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Kosrae",
     "iso:country":"FM",
+    "lbl:bbox":"162.96519,5.34711,163.00519,5.38711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tahonsaku",
         "Saventiac",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360198519,
-    "wof:lastmodified":1537622459,
+    "wof:lastmodified":1566596164,
     "wof:name":"Tafunsak Village",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",

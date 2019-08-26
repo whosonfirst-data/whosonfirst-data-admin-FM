@@ -11,7 +11,7 @@
     "geom:longitude":151.584,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":1851,
+    "gn:population":1851,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Pwene Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u064a\u062e \u0642\u062f\u064a\u0645"
     ],
@@ -331,7 +334,7 @@
     "wof:concordances":{
         "gn:id":7626997,
         "hasc:id":"FM.CH.PW",
-        "qs:id":694222,
+        "qs_pg:id":694222,
         "wd:id":"Q41493",
         "wk:page":"Ancient history"
     },
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":890417425,
-    "wof:lastmodified":1563586752,
+    "wof:lastmodified":1566596177,
     "wof:name":"Pwene Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

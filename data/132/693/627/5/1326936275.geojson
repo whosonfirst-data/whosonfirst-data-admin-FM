@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"138.04755,9.47082,138.08755,9.51082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tafunis",
         "Tafnith"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1326936275,
-    "wof:lastmodified":1537622466,
+    "wof:lastmodified":1566596133,
     "wof:name":"Taafniith",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

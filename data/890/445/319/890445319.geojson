@@ -11,12 +11,15 @@
     "geom:longitude":151.8905,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":3910,
+    "gn:population":3910,
     "iso:country":"FM",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Natsu-Shima - Summer Island"
     ],
     "qs:name":"Tonowas Island",
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2081321,
         "gp:id":29389682,
-        "qs:id":571880
+        "qs_pg:id":571880
     },
     "wof:country":"FM",
     "wof:created":1469052505,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890445319,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566596181,
     "wof:name":"Tonowas Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

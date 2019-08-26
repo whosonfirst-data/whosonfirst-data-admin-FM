@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pohnpei",
     "iso:country":"FM",
+    "lbl:bbox":"158.25711,6.93369,158.29711,6.97369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632431
@@ -36,7 +40,7 @@
         "gn:id":4042964
     },
     "wof:country":"FM",
-    "wof:geomhash":"7a6a098b9da0cdbb1e70fccc27bca36a",
+    "wof:geomhash":"7fc76e8825f8494544eab6a6b38c7a31",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209428033,
-    "wof:lastmodified":1536287320,
+    "wof:lastmodified":1566596154,
     "wof:name":"Lukopoas",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     158.27711000000005,
-    6.953689999999999,
+    6.95369,
     158.27711000000005,
-    6.953689999999999
+    6.95369
 ],
   "geometry": {"coordinates":[158.27711000000005,6.95369],"type":"Point"}
 }

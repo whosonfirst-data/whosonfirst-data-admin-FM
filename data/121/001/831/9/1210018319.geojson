@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"151.92188,7.57969,151.96188,7.61969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ruo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210018319,
-    "wof:lastmodified":1564120211,
+    "wof:lastmodified":1566596155,
     "wof:name":"Ruo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

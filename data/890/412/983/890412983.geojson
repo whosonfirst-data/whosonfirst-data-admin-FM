@@ -11,12 +11,15 @@
     "geom:longitude":150.34,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":178,
+    "gn:population":178,
     "iso:country":"FM",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Onari Islet"
     ],
     "qs:name":"Unanu",
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081289,
-        "qs:id":571876
+        "qs_pg:id":571876
     },
     "wof:country":"FM",
     "wof:created":1469050984,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890412983,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566596170,
     "wof:name":"Unanu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,18 +11,21 @@
     "geom:longitude":138.098,
     "gn:country":"FM",
     "gn:fcode":"ISLS",
-    "gn:pop":7391,
+    "gn:population":7391,
     "iso:country":"FM",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Jap-Inseln"
     ],
     "name:ger_x_historical":[
         "Jap-Inseln"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waqab"
     ],
     "qs:name":"Yap Islands",
@@ -36,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1558582,
-        "qs:id":557177
+        "qs_pg:id":557177
     },
     "wof:country":"FM",
     "wof:created":1469052986,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890455939,
-    "wof:lastmodified":1561831222,
+    "wof:lastmodified":1566596174,
     "wof:name":"Yap Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

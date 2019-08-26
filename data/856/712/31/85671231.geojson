@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":5.320433,
     "lbl:longitude":162.989981,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.320433,
     "mps:longitude":162.989981,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0441\u0430\u0438\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Kosrae State"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FSM",
@@ -125,9 +123,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-04",
+    "src:population_date":"2010-04-04",
     "statoids:area_km":"109",
     "statoids:area_mi":"42",
     "statoids:as_of_date":"2010-04-04",
@@ -152,7 +150,7 @@
         "gp:id":2345340,
         "hasc:id":"FM.KO",
         "iso:id":"FM-KSA",
-        "qs:id":894890,
+        "qs_pg:id":894890,
         "unlc:id":"FM-KSA",
         "wd:id":"Q1785093"
     },
@@ -172,11 +170,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565710022,
+    "wof:lastmodified":1566596142,
     "wof:name":"Kosrae",
     "wof:parent_id":85632431,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6616,
     "wof:population_rank":5,

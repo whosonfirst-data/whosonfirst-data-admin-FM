@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"151.86895,7.28073,151.90895,7.32073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neponolong",
         "Lebonolong"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309713869,
-    "wof:lastmodified":1537622460,
+    "wof:lastmodified":1566596164,
     "wof:name":"Nepononong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

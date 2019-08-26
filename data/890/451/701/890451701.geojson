@@ -11,7 +11,7 @@
     "geom:longitude":138.17119,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":592,
+    "gn:population":592,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Maap Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Maap"
     ],
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":7626948,
         "hasc:id":"FM.YA.MA",
-        "qs:id":694174,
+        "qs_pg:id":694174,
         "wd:id":"Q1133174",
         "wk:page":"Maap"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890451701,
-    "wof:lastmodified":1563586766,
+    "wof:lastmodified":1566596181,
     "wof:name":"Maap Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
