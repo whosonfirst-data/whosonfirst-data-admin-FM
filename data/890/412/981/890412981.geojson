@@ -11,12 +11,15 @@
     "geom:longitude":151.882,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":13802,
+    "gn:population":13802,
     "iso:country":"FM",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Haru-shima - Spring Island"
     ],
     "qs:name":"Weno Island",
@@ -33,7 +36,7 @@
     "wof:concordances":{
         "gn:id":2081240,
         "gp:id":29389680,
-        "qs:id":571875
+        "qs_pg:id":571875
     },
     "wof:country":"FM",
     "wof:created":1469050984,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890412981,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566596170,
     "wof:name":"Weno Island",
     "wof:parent_id":85671221,
     "wof:placetype":"locality",

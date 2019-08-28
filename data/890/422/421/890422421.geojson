@@ -11,12 +11,15 @@
     "geom:longitude":143.0365,
     "gn:country":"FM",
     "gn:fcode":"ATOL",
-    "gn:pop":113,
+    "gn:population":113,
     "iso:country":"FM",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yoropie"
     ],
     "qs:name":"Eauripik Atoll",
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082257,
-        "qs:id":571919
+        "qs_pg:id":571919
     },
     "wof:country":"FM",
     "wof:created":1469051443,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890422421,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566596167,
     "wof:name":"Eauripik Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

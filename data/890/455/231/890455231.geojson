@@ -11,11 +11,14 @@
     "geom:longitude":149.43222,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":905,
+    "gn:population":905,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pollap"
     ],
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Pollap"
     ],
-    "name:unk_x_variant":[
-        "Pulap"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u666e\u74b0\u7901"
     ],
@@ -67,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081547,
-        "qs:id":90764,
+        "qs_pg:id":90764,
         "wd:id":"Q1115044",
         "wk:page":"Pulap"
     },
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890455231,
-    "wof:lastmodified":1563586744,
+    "wof:lastmodified":1566596174,
     "wof:name":"Pollap",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

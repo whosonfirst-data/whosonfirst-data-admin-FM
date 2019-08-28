@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pohnpei",
     "iso:country":"FM",
+    "lbl:bbox":"158.27013,6.82429,158.31013,6.86429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mand"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209423945,
-    "wof:lastmodified":1537622469,
+    "wof:lastmodified":1566596154,
     "wof:name":"Mahnd",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",

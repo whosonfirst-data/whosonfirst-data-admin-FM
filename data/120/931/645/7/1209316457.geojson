@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"151.58468,7.30399,151.62468,7.34399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632431
@@ -36,7 +40,7 @@
         "gn:id":4043164
     },
     "wof:country":"FM",
-    "wof:geomhash":"f6416519f1336897f0307a282b641396",
+    "wof:geomhash":"dfbdd3e82f775813821e32f5dc7cc476",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209316457,
-    "wof:lastmodified":1536290847,
+    "wof:lastmodified":1566596151,
     "wof:name":"Farekich",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     151.60468,
-    7.3239899999999984,
+    7.32399,
     151.60468,
-    7.3239899999999984
+    7.32399
 ],
   "geometry": {"coordinates":[151.60468,7.32399],"type":"Point"}
 }

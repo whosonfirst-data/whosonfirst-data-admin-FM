@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":7.354315,
     "lbl:longitude":151.634003,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.354315,
     "mps:longitude":151.634003,
     "mz:hierarchy_label":1,
@@ -177,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Truk"
     ],
     "name:urd_x_preferred":[
@@ -264,9 +265,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-04",
+    "src:population_date":"2010-04-04",
     "statoids:area_km":"127",
     "statoids:area_mi":"49",
     "statoids:as_of_date":"2010-04-04",
@@ -291,7 +292,7 @@
         "gp:id":2345342,
         "hasc:id":"FM.CH",
         "iso:id":"FM-TRK",
-        "qs:id":219553,
+        "qs_pg:id":219553,
         "unlc:id":"FM-TRK",
         "wd:id":"Q221684",
         "wk:page":"Chuuk State"
@@ -312,11 +313,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565710022,
+    "wof:lastmodified":1566596142,
     "wof:name":"Chuuk",
     "wof:parent_id":85632431,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":48651,
     "wof:population_rank":7,

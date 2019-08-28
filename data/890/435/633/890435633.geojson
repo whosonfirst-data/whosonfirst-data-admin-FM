@@ -11,12 +11,15 @@
     "geom:longitude":151.891,
     "gn:country":"FM",
     "gn:fcode":"RGN",
-    "gn:pop":25893,
+    "gn:population":25893,
     "iso:country":"FM",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Namoneas Islands"
     ],
     "qs:name":"Nomoneas Islands",
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":7626806,
         "gp:id":29389682,
-        "qs:id":694139
+        "qs_pg:id":694139
     },
     "wof:country":"FM",
     "wof:created":1469052075,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890435633,
-    "wof:lastmodified":1505343548,
+    "wof:lastmodified":1566596182,
     "wof:name":"Nomoneas Islands",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

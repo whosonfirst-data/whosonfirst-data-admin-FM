@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Kosrae",
     "iso:country":"FM",
+    "lbl:bbox":"163.00244,5.32803,163.04244,5.36803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tutukte"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260094447,
-    "wof:lastmodified":1537622459,
+    "wof:lastmodified":1566596157,
     "wof:name":"Putukte",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":149.3,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":451,
+    "gn:population":451,
     "iso:country":"FM",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Houk Island"
     ],
@@ -48,9 +51,6 @@
     "name:swe_x_preferred":[
         "Houk Island"
     ],
-    "name:unk_x_variant":[
-        "Pulusuk"
-    ],
     "name:zho_x_preferred":[
         "\u8c6a\u514b\u5cf6"
     ],
@@ -66,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626963,
-        "qs:id":694189,
+        "qs_pg:id":694189,
         "wd:id":"Q1444721",
         "wk:page":"Pulusuk"
     },
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890454383,
-    "wof:lastmodified":1563586747,
+    "wof:lastmodified":1566596175,
     "wof:name":"Houk Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

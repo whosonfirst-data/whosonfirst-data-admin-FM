@@ -11,12 +11,15 @@
     "geom:longitude":151.5835,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":1950,
+    "gn:population":1950,
     "iso:country":"FM",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pata"
     ],
     "qs:name":"Paata Island",
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2081660,
         "gp:id":29389674,
-        "qs:id":571892
+        "qs_pg:id":571892
     },
     "wof:country":"FM",
     "wof:created":1469050984,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890412995,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566596170,
     "wof:name":"Paata Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

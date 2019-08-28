@@ -11,10 +11,13 @@
     "geom:longitude":151.8794,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":397,
+    "gn:population":397,
     "iso:country":"FM",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "qs:name":"Fonoton Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -26,7 +29,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626993,
-        "qs:id":694218
+        "qs_pg:id":694218
     },
     "wof:country":"FM",
     "wof:created":1469051477,
@@ -38,7 +41,7 @@
         }
     ],
     "wof:id":890423029,
-    "wof:lastmodified":1505343473,
+    "wof:lastmodified":1566596174,
     "wof:name":"Fonoton Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

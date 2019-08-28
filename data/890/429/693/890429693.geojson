@@ -11,11 +11,14 @@
     "geom:longitude":153.819,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":927,
+    "gn:population":927,
     "iso:country":"FM",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":6.0,
+    "name:und_x_variant":[
         "Lukunor"
     ],
     "qs:name":"Lekinioch Municipality",
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626966,
-        "qs:id":694192
+        "qs_pg:id":694192
     },
     "wof:country":"FM",
     "wof:created":1469051825,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":890429693,
-    "wof:lastmodified":1505343514,
+    "wof:lastmodified":1566596179,
     "wof:name":"Lekinioch Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

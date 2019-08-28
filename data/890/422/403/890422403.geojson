@@ -11,12 +11,15 @@
     "geom:longitude":144.4435,
     "gn:country":"FM",
     "gn:fcode":"ATOL",
-    "gn:pop":561,
+    "gn:population":561,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Faloc"
     ],
     "qs:name":"Ifalik Atoll",
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082082,
-        "qs:id":571910
+        "qs_pg:id":571910
     },
     "wof:country":"FM",
     "wof:created":1469051442,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890422403,
-    "wof:lastmodified":1505343469,
+    "wof:lastmodified":1566596168,
     "wof:name":"Ifalik Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

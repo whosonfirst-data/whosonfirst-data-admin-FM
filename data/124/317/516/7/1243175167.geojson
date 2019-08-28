@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pohnpei",
     "iso:country":"FM",
+    "lbl:bbox":"158.29002,6.90532,158.33002,6.94532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1243175167,
-    "wof:lastmodified":1536699936,
+    "wof:lastmodified":1566596188,
     "wof:name":"Nanehngk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

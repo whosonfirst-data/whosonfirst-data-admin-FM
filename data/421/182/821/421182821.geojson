@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"138.16179,9.52767,138.16179,9.52767",
     "geom:latitude":9.52767,
     "geom:longitude":138.16179,
     "iso:country":"FM",
+    "lbl:bbox":"138.14179,9.50767,138.18179,9.54767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Datjmur"
     ],
     "qs:gn_country":"FM",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1559006,
         "gp:id":29389694,
-        "qs:id":950355
+        "qs_pg:id":950355
     },
     "wof:country":"FM",
     "wof:created":1459009348,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421182821,
-    "wof:lastmodified":1501220779,
+    "wof:lastmodified":1566596166,
     "wof:name":"Maaq",
     "wof:parent_id":85671227,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"138.12852,9.56522,138.16852,9.60522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Orira",
         "Orile",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225845269,
-    "wof:lastmodified":1537622455,
+    "wof:lastmodified":1566596195,
     "wof:name":"Woriilaq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

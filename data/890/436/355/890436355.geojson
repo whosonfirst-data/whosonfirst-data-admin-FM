@@ -11,7 +11,7 @@
     "geom:longitude":138.05935,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":275,
+    "gn:population":275,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Kanifay Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kanifay"
     ],
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":7626946,
         "hasc:id":"FM.YA.KA",
-        "qs:id":694172,
+        "qs_pg:id":694172,
         "wd:id":"Q3812782",
         "wk:page":"Kanifay"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890436355,
-    "wof:lastmodified":1563586745,
+    "wof:lastmodified":1566596175,
     "wof:name":"Kanifay Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

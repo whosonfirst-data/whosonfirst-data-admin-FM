@@ -11,7 +11,7 @@
     "geom:longitude":143.036,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":113,
+    "gn:population":113,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Eauripik Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Eauripik"
     ],
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":7626937,
         "hasc:id":"FM.YA.ER",
-        "qs:id":694163,
+        "qs_pg:id":694163,
         "wd:id":"Q1278448",
         "wk:page":"Eauripik"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890451679,
-    "wof:lastmodified":1563586767,
+    "wof:lastmodified":1566596181,
     "wof:name":"Eauripik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

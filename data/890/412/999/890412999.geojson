@@ -11,12 +11,15 @@
     "geom:longitude":154.931,
     "gn:country":"FM",
     "gn:fcode":"ATOL",
-    "gn:pop":362,
+    "gn:population":362,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dunkin Islands"
     ],
     "qs:name":"Nukuoro Atoll",
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081720,
-        "qs:id":571896
+        "qs_pg:id":571896
     },
     "wof:country":"FM",
     "wof:created":1469050984,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890412999,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566596170,
     "wof:name":"Nukuoro Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":151.7392,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":382,
+    "gn:population":382,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Eot Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Mori Koben"
     ],
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":7626958,
         "hasc:id":"FM.CH.EO",
-        "qs:id":694184,
+        "qs_pg:id":694184,
         "wd:id":"Q6912104",
         "wk:page":"Mori Koben"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890424373,
-    "wof:lastmodified":1563586738,
+    "wof:lastmodified":1566596173,
     "wof:name":"Eot Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

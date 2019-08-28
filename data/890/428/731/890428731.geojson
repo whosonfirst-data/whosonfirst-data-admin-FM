@@ -11,11 +11,14 @@
     "geom:longitude":150.2905,
     "gn:country":"FM",
     "gn:fcode":"ISL",
-    "gn:pop":192,
+    "gn:population":192,
     "iso:country":"FM",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043d\u043e\u0443"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Onou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ono Island"
     ],
     "qs:name":"Onou",
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081678,
-        "qs:id":571895,
+        "qs_pg:id":571895,
         "wd:id":"Q7094412"
     },
     "wof:country":"FM",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890428731,
-    "wof:lastmodified":1563586750,
+    "wof:lastmodified":1566596177,
     "wof:name":"Onou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

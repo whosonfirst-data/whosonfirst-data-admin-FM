@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Kosrae",
     "iso:country":"FM",
+    "lbl:bbox":"162.96532,5.3471,163.00532,5.3871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062a\u0627\u0641\u0648\u0646\u0633\u0627\u06a9"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226252387,
-    "wof:lastmodified":1564120266,
+    "wof:lastmodified":1566596193,
     "wof:name":"Tafunsak",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",

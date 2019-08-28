@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"151.86813,7.27792,151.90813,7.31792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632431
@@ -36,7 +40,7 @@
         "gn:id":4042572
     },
     "wof:country":"FM",
-    "wof:geomhash":"cade288c8bc31fc9fe520da5f6e303dd",
+    "wof:geomhash":"70d1c7be05a701e27c1da4cf6dd6db01",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209527237,
-    "wof:lastmodified":1536284396,
+    "wof:lastmodified":1566596152,
     "wof:name":"Sapota",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     151.88813000000005,
-    7.297919999999999,
+    7.29792,
     151.88813000000005,
-    7.297919999999999
+    7.29792
 ],
   "geometry": {"coordinates":[151.88813000000005,7.29792],"type":"Point"}
 }

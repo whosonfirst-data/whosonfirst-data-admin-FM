@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pohnpei",
     "iso:country":"FM",
+    "lbl:bbox":"158.23579,6.99046,158.27579,7.03046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632431
@@ -36,7 +40,7 @@
         "gn:id":4042770
     },
     "wof:country":"FM",
-    "wof:geomhash":"97052d953de99a253b8689569006cfad",
+    "wof:geomhash":"3cc84b7dbeb44cc587fdd6b6cd7bd9ca",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209217699,
-    "wof:lastmodified":1536294074,
+    "wof:lastmodified":1566596154,
     "wof:name":"Nanpei",
     "wof:parent_id":85632431,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     158.25579,
-    7.010460000000001,
+    7.01046,
     158.25579,
-    7.010460000000001
+    7.01046
 ],
   "geometry": {"coordinates":[158.25578999999999,7.01046],"type":"Point"}
 }

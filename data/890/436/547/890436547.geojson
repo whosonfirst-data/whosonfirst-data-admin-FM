@@ -11,7 +11,7 @@
     "geom:longitude":152.574,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":995,
+    "gn:population":995,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Nema Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kl\u00ed\u017eska Nem\u00e1"
     ],
@@ -72,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0438\u0436\u0441\u044c\u043a\u0430 \u041d\u0435\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Nama"
-    ],
     "name:war_x_preferred":[
         "Kl\u00ed\u017eska Nem\u00e1"
     ],
@@ -100,7 +100,7 @@
     "wof:concordances":{
         "gn:id":7626970,
         "hasc:id":"FM.CH.NA",
-        "qs:id":694196,
+        "qs_pg:id":694196,
         "wk:page":"Kl\u00ed\u017eska Nem\u00e1"
     },
     "wof:country":"FM",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":890436547,
-    "wof:lastmodified":1564120241,
+    "wof:lastmodified":1566596175,
     "wof:name":"Nema Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -11,11 +11,14 @@
     "geom:longitude":151.79,
     "gn:country":"FM",
     "gn:fcode":"RGN",
-    "gn:pop":385,
+    "gn:population":385,
     "iso:country":"FM",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Southern Nomoneas Islands - Parem Island",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7667937,
         "gp:id":29389683,
-        "qs:id":696649
+        "qs_pg:id":696649
     },
     "wof:country":"FM",
     "wof:created":1469052542,
@@ -40,7 +43,7 @@
         }
     ],
     "wof:id":890446193,
-    "wof:lastmodified":1505343609,
+    "wof:lastmodified":1566596169,
     "wof:name":"Southern Nomoneas Islands - Parem Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

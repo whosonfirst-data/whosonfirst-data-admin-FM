@@ -11,7 +11,7 @@
     "geom:longitude":158.16081,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":6007,
+    "gn:population":6007,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Kitti Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kitti"
     ],
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":7626921,
         "hasc:id":"FM.PO.KT",
-        "qs:id":694147,
+        "qs_pg:id":694147,
         "wd:id":"Q2516138",
         "wk:page":"Kitti (municipality)"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890424345,
-    "wof:lastmodified":1563586738,
+    "wof:lastmodified":1566596173,
     "wof:name":"Kitti Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

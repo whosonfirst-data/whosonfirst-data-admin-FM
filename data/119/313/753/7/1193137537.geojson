@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Chuuk",
     "iso:country":"FM",
+    "lbl:bbox":"138.12406,9.52317,138.16406,9.56317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193137537,
-    "wof:lastmodified":1536368970,
+    "wof:lastmodified":1566596156,
     "wof:name":"Daabach",
     "wof:parent_id":85671227,
     "wof:placetype":"locality",

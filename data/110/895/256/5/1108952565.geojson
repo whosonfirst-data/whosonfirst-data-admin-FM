@@ -12,9 +12,12 @@
     "iso:country":"FM",
     "lbl:latitude":6.91621,
     "lbl:longitude":158.159725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palikir"
     ],
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":1108952565,
-    "wof:lastmodified":1564120217,
+    "wof:lastmodified":1566596158,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",

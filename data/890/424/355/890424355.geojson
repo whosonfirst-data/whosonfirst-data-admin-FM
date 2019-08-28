@@ -11,7 +11,7 @@
     "geom:longitude":158.22437,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":6158,
+    "gn:population":6158,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Nett Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Nett"
     ],
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":7626925,
         "hasc:id":"FM.PO.NE",
-        "qs:id":694151,
+        "qs_pg:id":694151,
         "wd:id":"Q2570130",
         "wk:page":"Nett"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890424355,
-    "wof:lastmodified":1563586730,
+    "wof:lastmodified":1566596171,
     "wof:name":"Nett Municipality",
     "wof:parent_id":85671217,
     "wof:placetype":"county",

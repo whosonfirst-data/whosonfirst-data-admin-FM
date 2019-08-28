@@ -11,7 +11,7 @@
     "geom:longitude":146.163,
     "gn:country":"FM",
     "gn:fcode":"ADM2",
-    "gn:pop":96,
+    "gn:population":96,
     "iso:country":"FM",
     "label:eng_x_preferred_longname":[
         "Elato Municipality"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Elato Atoll"
     ],
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":7626938,
         "hasc:id":"FM.YA.EL",
-        "qs:id":694164,
+        "qs_pg:id":694164,
         "wd:id":"Q1325019",
         "wk:page":"Elato"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890451681,
-    "wof:lastmodified":1563586766,
+    "wof:lastmodified":1566596181,
     "wof:name":"Elato Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

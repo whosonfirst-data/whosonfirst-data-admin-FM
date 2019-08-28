@@ -11,10 +11,14 @@
     "geom:longitude":144.45338,
     "gn:country":"FM",
     "gn:fcode":"PPL",
-    "gn:pop":561,
+    "gn:population":561,
     "iso:country":"FM",
+    "lbl:bbox":"144.43338,7.23439,144.47338,7.27439",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "State of Yap"
     ],
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4041810,
-        "qs:id":97123,
+        "qs_pg:id":97123,
         "wk:page":"Yap State"
     },
     "wof:country":"FM",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890429435,
-    "wof:lastmodified":1564120246,
+    "wof:lastmodified":1566596179,
     "wof:name":"Ifalik Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
