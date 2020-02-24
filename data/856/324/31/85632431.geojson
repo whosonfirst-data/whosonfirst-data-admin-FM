@@ -964,6 +964,10 @@
     },
     "wof:country":"FM",
     "wof:country_alpha3":"FSM",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"86097d6a34225faedd269b8159f95714",
     "wof:hierarchy":[
         {
@@ -978,7 +982,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566596141,
+    "wof:lastmodified":1582315527,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
