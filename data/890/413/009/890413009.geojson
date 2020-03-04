@@ -74,6 +74,9 @@
     },
     "wof:country":"FM",
     "wof:created":1469050985,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"293a61e127b6f8aa14f607fae29808e2",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890413009,
-    "wof:lastmodified":1566596168,
+    "wof:lastmodified":1582315528,
     "wof:name":"Murilo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -290,6 +290,9 @@
     "wof:concordances":{},
     "wof:country":"FM",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ae0e9924998f53d55f748f3345ffabf",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":1108952565,
-    "wof:lastmodified":1566596158,
+    "wof:lastmodified":1582315528,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",

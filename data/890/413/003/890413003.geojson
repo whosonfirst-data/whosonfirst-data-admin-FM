@@ -42,6 +42,9 @@
     },
     "wof:country":"FM",
     "wof:created":1469050984,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3077deadbd4550828e729d85177b462",
     "wof:hierarchy":[
         {
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890413003,
-    "wof:lastmodified":1566596168,
+    "wof:lastmodified":1582315528,
     "wof:name":"Nema Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
