@@ -943,9 +943,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Micronesia",
-        "digitalenvoy:country_code":[
-            583
-        ],
+        "digitalenvoy:country_code":583,
         "fb:id":"en.micronesia",
         "fifa:id":"FSM",
         "fips:code":"FM",
@@ -985,7 +983,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529131,
+    "wof:lastmodified":1583797337,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
