@@ -95,7 +95,7 @@
         "\u0c95\u0cca\u0cb8\u0ccd\u0cb0\u0cc7"
     ],
     "name:kat_x_preferred":[
-        "\u10d9\u10dd\u10e1\u10e0\u10d0\u10d4 "
+        "\u10d9\u10dd\u10e1\u10e0\u10d0\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ucf54\uc2a4\ub77c\uc5d0\uc8fc"
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890412979,
-    "wof:lastmodified":1566596170,
+    "wof:lastmodified":1587163142,
     "wof:name":"Kosrae",
     "wof:parent_id":85671231,
     "wof:placetype":"locality",
