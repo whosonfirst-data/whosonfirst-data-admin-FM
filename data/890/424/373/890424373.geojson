@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Mori Koben"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 de Eot"
+    ],
     "name:jpn_x_preferred":[
         "\u68ee\u5c0f\u5f01"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890424373,
-    "wof:lastmodified":1566596173,
+    "wof:lastmodified":1627522135,
     "wof:name":"Eot Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

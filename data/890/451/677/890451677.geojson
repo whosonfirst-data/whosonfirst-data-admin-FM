@@ -30,6 +30,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0627\u0644\u06cc\u067e\u0628\u06cc\u0646\u0627\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Dalipebinaw Municipality"
+    ],
     "name:ita_x_preferred":[
         "Dalipebinaw"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890451677,
-    "wof:lastmodified":1566596182,
+    "wof:lastmodified":1627522134,
     "wof:name":"Dalipebinaw Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

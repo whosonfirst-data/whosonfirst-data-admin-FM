@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Uman"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 d'Uman-Fonuweisom"
+    ],
     "qs:name":"Uman-Fonuweisom Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890445783,
-    "wof:lastmodified":1566596180,
+    "wof:lastmodified":1627522135,
     "wof:name":"Uman-Fonuweisom Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

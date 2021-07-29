@@ -36,6 +36,9 @@
     "name:fas_x_preferred":[
         "\u0631\u0648\u0644"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 de Rull"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30eb"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890424357,
-    "wof:lastmodified":1566596172,
+    "wof:lastmodified":1627522135,
     "wof:name":"Rull Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

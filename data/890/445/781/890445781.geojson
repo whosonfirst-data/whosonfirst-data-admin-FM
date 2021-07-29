@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Udot"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 d'Udot-Fonuweisom"
+    ],
     "qs:name":"Udot-Fonuweisom Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890445781,
-    "wof:lastmodified":1566596181,
+    "wof:lastmodified":1627522135,
     "wof:name":"Udot-Fonuweisom Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

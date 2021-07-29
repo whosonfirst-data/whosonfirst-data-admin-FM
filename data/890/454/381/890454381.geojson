@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Fefan"
     ],
+    "name:fra_x_preferred":[
+        "Fefen Municipality"
+    ],
     "qs:name":"Fefen Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890454381,
-    "wof:lastmodified":1566596176,
+    "wof:lastmodified":1627522135,
     "wof:name":"Fefen Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

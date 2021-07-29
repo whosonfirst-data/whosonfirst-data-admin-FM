@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Romanum"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 de Romonum"
+    ],
     "qs:name":"Ramanum Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890453057,
-    "wof:lastmodified":1566596176,
+    "wof:lastmodified":1627522135,
     "wof:name":"Ramanum Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

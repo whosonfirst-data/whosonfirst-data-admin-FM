@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Ta"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 de Ta"
+    ],
     "qs:name":"Ta Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890445769,
-    "wof:lastmodified":1566596181,
+    "wof:lastmodified":1627522135,
     "wof:name":"Ta Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

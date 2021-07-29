@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Ruo"
     ],
+    "name:fra_x_preferred":[
+        "Municipalit\u00e9 de Ruo"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u043e"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890453059,
-    "wof:lastmodified":1566596176,
+    "wof:lastmodified":1627522135,
     "wof:name":"Ruo Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
