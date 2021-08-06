@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:fra_x_preferred":[
+        "Siis"
+    ],
     "qs:name":"Siis Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890445779,
-    "wof:lastmodified":1566596180,
+    "wof:lastmodified":1628266716,
     "wof:name":"Siis Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
