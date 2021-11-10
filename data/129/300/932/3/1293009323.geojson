@@ -76,7 +76,28 @@
         "Pingelap"
     ],
     "name:swe_x_preferred":[
+        "Pingelap"
+    ],
+    "name:swe_x_variant":[
         "Pingelap Atoll"
+    ],
+    "name:tur_x_preferred":[
+        "Pingelap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043d\u0433\u043b\u0430\u043f"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u06cc\u0644\u0627\u067e"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Pingelap"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e73\u683c\u62c9\u666e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e73\u683c\u62c9\u666e\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5e73\u683c\u62c9\u666e\u74b0\u7901"
@@ -98,7 +119,7 @@
         }
     ],
     "wof:id":1293009323,
-    "wof:lastmodified":1566596143,
+    "wof:lastmodified":1636494975,
     "wof:name":"Pingelap",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

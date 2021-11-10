@@ -30,11 +30,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0648\u062a\u0631\u064a\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cd\u09af\u09be\u09ae\u09cb\u099f\u09cd\u09b0\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Lamotrek"
     ],
     "name:deu_x_preferred":[
         "Lamotrek"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03cc\u03c4\u03c1\u03b5\u03ba"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0645\u0648\u062a\u0631\u06a9"
@@ -42,11 +51,32 @@
     "name:fra_x_preferred":[
         "Lamotrek"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05dc\u05de\u05d5\u05d8\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0948\u092e\u094b\u091f\u094d\u0930\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Lamotrek"
+    ],
+    "name:ind_x_preferred":[
+        "Lamotrek"
+    ],
     "name:ita_x_preferred":[
         "Lamotrek"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30e2\u30c8\u30ec\u30c3\u30af\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubaa8\ud2b8\ub809"
+    ],
+    "name:pol_x_preferred":[
+        "Lamotrek"
+    ],
+    "name:por_x_preferred":[
+        "Lamotrek"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043c\u043e\u0442\u0440\u0435\u043a"
@@ -56,6 +86,18 @@
     ],
     "name:swe_x_preferred":[
         "Lamotrek"
+    ],
+    "name:tur_x_preferred":[
+        "Lamotrek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043c\u043e\u0442\u0440\u0435\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0645\u0648\u0679\u0631\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Lamotrek"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u83ab\u7279\u96f7\u514b\u74b0\u7901"
@@ -77,7 +119,7 @@
         }
     ],
     "wof:id":1243364083,
-    "wof:lastmodified":1566596184,
+    "wof:lastmodified":1636494976,
     "wof:name":"Lamotrek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
