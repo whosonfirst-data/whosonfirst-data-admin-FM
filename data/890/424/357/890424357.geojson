@@ -30,6 +30,12 @@
     "name:ceb_x_preferred":[
         "Rull Municipality"
     ],
+    "name:cym_x_preferred":[
+        "Rull"
+    ],
+    "name:deu_x_preferred":[
+        "Rull"
+    ],
     "name:eng_x_preferred":[
         "Rull"
     ],
@@ -39,8 +45,14 @@
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Rull"
     ],
+    "name:fra_x_variant":[
+        "Rull"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30eb"
+    ],
+    "name:spa_x_preferred":[
+        "Rull"
     ],
     "name:swe_x_preferred":[
         "Rull Municipality"
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890424357,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1690893335,
     "wof:name":"Rull Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

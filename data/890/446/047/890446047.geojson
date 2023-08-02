@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ary_x_preferred":[
+        "\u0648\u064a\u0644\u0627\u064a\u0629 \u064a\u0627\u067e"
+    ],
     "name:ceb_x_preferred":[
         "State of Yap"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Yap State"
+    ],
+    "name:eus_x_preferred":[
+        "Yap"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u06cc\u0627\u067e"
@@ -37,8 +43,20 @@
     "name:fra_x_preferred":[
         "Yap"
     ],
+    "name:frr_x_preferred":[
+        "Yap"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u093e\u092a \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hrv_x_preferred":[
+        "Yap"
+    ],
+    "name:ind_x_preferred":[
+        "Negara Bagian Yap"
+    ],
+    "name:ita_x_preferred":[
+        "Yap"
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30c3\u30d7\u5dde"
@@ -49,6 +67,12 @@
     "name:kor_x_preferred":[
         "\uc57c\ud504\uc8fc"
     ],
+    "name:lav_x_preferred":[
+        "Japa"
+    ],
+    "name:nan_x_preferred":[
+        "Yap Chiu"
+    ],
     "name:oci_x_preferred":[
         "Iap"
     ],
@@ -57,6 +81,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042f\u043f"
+    ],
+    "name:tur_x_preferred":[
+        "Yap"
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043f"
@@ -93,7 +120,7 @@
         }
     ],
     "wof:id":890446047,
-    "wof:lastmodified":1566596169,
+    "wof:lastmodified":1690893331,
     "wof:name":"Ngulu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

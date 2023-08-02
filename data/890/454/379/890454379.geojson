@@ -48,8 +48,17 @@
     "name:pol_x_preferred":[
         "Fanapanges"
     ],
+    "name:por_x_preferred":[
+        "Fala-Beguets"
+    ],
+    "name:spa_x_preferred":[
+        "Fanapanges"
+    ],
     "name:swe_x_preferred":[
         "Fanapanges Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9-\u8d1d\u76d6\u8328\u5c9b"
     ],
     "qs:name":"Fanapanges Municipality",
     "qs:photos_9r":0,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890454379,
-    "wof:lastmodified":1566596175,
+    "wof:lastmodified":1690893338,
     "wof:name":"Fanapanges Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Murilo"
+    ],
     "name:deu_x_preferred":[
         "Murilo"
     ],
@@ -34,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30ea\u30ed\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Murilo"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0440\u0438\u043b\u043e"
     ],
@@ -44,6 +50,9 @@
         "Murilo"
     ],
     "name:spa_x_preferred":[
+        "Murilo"
+    ],
+    "name:swe_x_preferred":[
         "Murilo"
     ],
     "name:und_x_variant":[
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890413009,
-    "wof:lastmodified":1582315528,
+    "wof:lastmodified":1690893331,
     "wof:name":"Murilo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

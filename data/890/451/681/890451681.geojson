@@ -45,6 +45,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30e9\u30fc\u30c8\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Elato"
+    ],
     "name:mkd_x_preferred":[
         "\u0415\u043b\u0430\u0442\u043e"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Elato Atoll"
+    ],
+    "name:tur_x_preferred":[
+        "Elato"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u62c9\u6258\u74b0\u7901"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890451681,
-    "wof:lastmodified":1566596181,
+    "wof:lastmodified":1690893343,
     "wof:name":"Elato Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

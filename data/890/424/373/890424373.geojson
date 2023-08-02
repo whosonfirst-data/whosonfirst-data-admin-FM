@@ -42,10 +42,16 @@
     "name:jpn_x_preferred":[
         "\u68ee\u5c0f\u5f01"
     ],
+    "name:pap_x_preferred":[
+        "Mori Koben"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0438"
     ],
     "name:spa_x_preferred":[
+        "Mori Koben"
+    ],
+    "name:sqi_x_preferred":[
         "Mori Koben"
     ],
     "qs:name":"Eot Municipality",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890424373,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1690893336,
     "wof:name":"Eot Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

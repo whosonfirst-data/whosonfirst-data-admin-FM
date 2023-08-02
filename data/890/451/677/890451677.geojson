@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Dalipebinaw Municipality"
     ],
+    "name:fra_x_variant":[
+        "Dalipebinau"
+    ],
     "name:ita_x_preferred":[
         "Dalipebinaw"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:pol_x_preferred":[
         "Dalipebinaw"
+    ],
+    "name:spa_x_preferred":[
+        "Dalipebinau"
     ],
     "qs:name":"Dalipebinaw Municipality",
     "qs:photos_9r":0,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890451677,
-    "wof:lastmodified":1627522134,
+    "wof:lastmodified":1690893344,
     "wof:name":"Dalipebinaw Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

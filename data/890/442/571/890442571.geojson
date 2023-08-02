@@ -39,6 +39,9 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30e2\u30cc\u30a4\u30c8\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Namonuito"
+    ],
     "name:lit_x_preferred":[
         "Namonuito atolas"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890442571,
-    "wof:lastmodified":1566596179,
+    "wof:lastmodified":1690893342,
     "wof:name":"Onoun Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

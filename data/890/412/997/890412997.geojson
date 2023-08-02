@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Eot Island"
+    ],
     "name:eng_x_preferred":[
         "Eot"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Eot"
+    ],
+    "name:swe_x_preferred":[
+        "Eot Island"
     ],
     "name:und_x_variant":[
         "Maye Jima"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890412997,
-    "wof:lastmodified":1566596170,
+    "wof:lastmodified":1690893332,
     "wof:name":"Eot Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

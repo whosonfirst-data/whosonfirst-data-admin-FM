@@ -46,6 +46,12 @@
     "name:nld_x_preferred":[
         "Pisaras"
     ],
+    "name:por_x_preferred":[
+        "Pisaras"
+    ],
+    "name:spa_x_preferred":[
+        "Pisaras"
+    ],
     "name:swe_x_preferred":[
         "Pisaras"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890412989,
-    "wof:lastmodified":1566596170,
+    "wof:lastmodified":1690893332,
     "wof:name":"Pisaras",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

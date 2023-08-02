@@ -43,6 +43,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30a4\u30b9\u5cf6"
     ],
+    "name:lav_x_preferred":[
+        "Faisa"
+    ],
     "name:mkd_x_preferred":[
         "\u0424\u0430\u0438\u0441"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:pol_x_preferred":[
         "Fais"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0438\u0441"
     ],
     "name:spa_x_preferred":[
         "Isla Fais"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890422417,
-    "wof:lastmodified":1566596167,
+    "wof:lastmodified":1690893331,
     "wof:name":"Fais Island",
     "wof:parent_id":85671227,
     "wof:placetype":"locality",

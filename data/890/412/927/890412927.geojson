@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Onoun"
     ],
+    "name:por_x_preferred":[
+        "Ulul"
+    ],
     "name:swe_x_preferred":[
         "Onoun"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890412927,
-    "wof:lastmodified":1566596170,
+    "wof:lastmodified":1690893332,
     "wof:name":"Onoun",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

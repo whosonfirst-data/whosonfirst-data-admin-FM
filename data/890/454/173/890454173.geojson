@@ -67,6 +67,9 @@
     "name:kor_x_preferred":[
         "\ub77c\ubaa8\ud2b8\ub809"
     ],
+    "name:lav_x_preferred":[
+        "Lamotreka"
+    ],
     "name:nld_x_preferred":[
         "Lamotrek"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890454173,
-    "wof:lastmodified":1636494976,
+    "wof:lastmodified":1690893338,
     "wof:name":"Lamotrek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

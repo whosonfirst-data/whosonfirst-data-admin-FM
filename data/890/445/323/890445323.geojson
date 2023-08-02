@@ -37,6 +37,9 @@
     "name:ita_x_preferred":[
         "Tamatam"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30bf\u30e0\u5cf6"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0442\u0430\u043c"
     ],
@@ -44,6 +47,9 @@
         "Tamatam"
     ],
     "name:pol_x_preferred":[
+        "Tamatam"
+    ],
+    "name:spa_x_preferred":[
         "Tamatam"
     ],
     "name:swe_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890445323,
-    "wof:lastmodified":1566596180,
+    "wof:lastmodified":1690893342,
     "wof:name":"Tamatam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

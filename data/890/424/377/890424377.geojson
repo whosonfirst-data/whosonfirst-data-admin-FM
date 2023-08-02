@@ -48,6 +48,12 @@
     "name:nld_x_preferred":[
         "Fananu"
     ],
+    "name:por_x_preferred":[
+        "Fananu"
+    ],
+    "name:spa_x_preferred":[
+        "Fananu"
+    ],
     "name:swe_x_preferred":[
         "Fananu"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890424377,
-    "wof:lastmodified":1566596171,
+    "wof:lastmodified":1690893334,
     "wof:name":"Fananu Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Ruo"
     ],
+    "name:spa_x_preferred":[
+        "Ruo"
+    ],
     "name:swe_x_preferred":[
         "Ruo"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890429801,
-    "wof:lastmodified":1566596179,
+    "wof:lastmodified":1690893341,
     "wof:name":"Ruo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

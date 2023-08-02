@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"158.149974324,6.91664369601,158.149974324,6.91664369601",
+    "geom:bbox":"158.149974,6.916644,158.149974,6.916644",
     "geom:latitude":6.916644,
     "geom:longitude":158.149974,
     "iso:country":"FM",
@@ -27,14 +27,29 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0627\u0644\u064a\u0643\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
+    ],
     "name:ast_x_preferred":[
+        "Palikir"
+    ],
+    "name:avk_x_preferred":[
         "Palikir"
     ],
     "name:aze_x_preferred":[
         "Palikir"
     ],
+    "name:ban_x_preferred":[
+        "Palikir"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u0456\u043a\u0456\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043b\u0456\u043a\u0456\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09bf\u0995\u09bf\u09b0"
@@ -99,6 +114,9 @@
     "name:gla_x_preferred":[
         "Palikir"
     ],
+    "name:gle_x_preferred":[
+        "Palikir"
+    ],
     "name:glg_x_preferred":[
         "Palikir"
     ],
@@ -116,6 +134,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u092a\u0947\u0932\u093f\u0915\u093f\u092f\u0930"
     ],
     "name:hrv_x_preferred":[
         "Palikir"
@@ -165,6 +186,9 @@
     "name:lav_x_preferred":[
         "Palikira"
     ],
+    "name:lij_x_preferred":[
+        "Palikir"
+    ],
     "name:lit_x_preferred":[
         "Palikyras"
     ],
@@ -173,6 +197,9 @@
     ],
     "name:ltz_x_preferred":[
         "Palikir"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d3f\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
@@ -213,6 +240,12 @@
     "name:por_x_preferred":[
         "Palikir"
     ],
+    "name:por_x_variant":[
+        "Paliquir"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
+    ],
     "name:ron_x_preferred":[
         "Palikir"
     ],
@@ -237,6 +270,9 @@
     "name:spa_x_preferred":[
         "Palikir"
     ],
+    "name:srd_x_preferred":[
+        "Palikir"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
@@ -254,6 +290,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c32\u0c40\u0c15\u0c40\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
     "name:tgl_x_preferred":[
         "Palikir"
@@ -281,6 +320,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5e15\u5229\u57fa\u723e"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d0\u10da\u10d8\u10d9\u10d8\u10e0\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5e15\u5229\u57fa\u723e"
@@ -395,7 +437,7 @@
     },
     "wof:country":"FM",
     "wof:created":1499131031,
-    "wof:geomhash":"4f423b60fb735c4a521931e225efa882",
+    "wof:geomhash":"ee29d6ec679fa9cb73358e84a3b91d05",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -405,7 +447,7 @@
         }
     ],
     "wof:id":1141909141,
-    "wof:lastmodified":1566596195,
+    "wof:lastmodified":1690893345,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",
@@ -415,10 +457,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    158.1499743237623,
-    6.91664369600772,
-    158.1499743237623,
-    6.91664369600772
+    158.149974,
+    6.916644,
+    158.149974,
+    6.916644
 ],
-  "geometry": {"coordinates":[158.14997432376231,6.91664369600772],"type":"Point"}
+  "geometry": {"coordinates":[158.14997399999999,6.916644],"type":"Point"}
 }

@@ -40,6 +40,12 @@
     "name:mkd_x_preferred":[
         "\u041e\u043d\u043e"
     ],
+    "name:por_x_preferred":[
+        "Onou"
+    ],
+    "name:spa_x_preferred":[
+        "Ono"
+    ],
     "name:swe_x_preferred":[
         "Onou"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890428731,
-    "wof:lastmodified":1566596177,
+    "wof:lastmodified":1690893339,
     "wof:name":"Onou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

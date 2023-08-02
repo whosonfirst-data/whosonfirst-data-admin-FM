@@ -54,6 +54,12 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a9\u30ec\u30a2\u30a4\u74b0\u7901"
     ],
+    "name:kor_x_preferred":[
+        "\uc6d4\ub808\uc544\uc774 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Vol\u0113i"
+    ],
     "name:lit_x_preferred":[
         "Voleai"
     ],
@@ -76,6 +82,12 @@
         "Woleai"
     ],
     "name:swe_x_preferred":[
+        "Woleai"
+    ],
+    "name:tur_x_preferred":[
+        "Woleai"
+    ],
+    "name:vie_x_preferred":[
         "Woleai"
     ],
     "name:wuu_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":890424371,
-    "wof:lastmodified":1566596172,
+    "wof:lastmodified":1690893334,
     "wof:name":"Woleai Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

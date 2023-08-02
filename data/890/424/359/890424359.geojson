@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Rumung"
     ],
+    "name:fra_x_variant":[
+        "Rumung"
+    ],
     "name:ita_x_preferred":[
         "Rumung"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:nld_x_preferred":[
         "Rumung"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u8499\u5cf6"
     ],
     "qs:name":"Rumung Municipality",
     "qs:photos_9r":0,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890424359,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1690893335,
     "wof:name":"Rumung Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
