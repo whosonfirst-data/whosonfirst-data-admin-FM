@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Sebastian Anefal"
     ],
+    "name:sqi_x_preferred":[
+        "Sebastian Anefal"
+    ],
     "qs:name":"Gilman Municipality",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890455485,
-    "wof:lastmodified":1566596174,
+    "wof:lastmodified":1690893336,
     "wof:name":"Gilman Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -51,6 +51,9 @@
     "name:pol_x_preferred":[
         "Maap"
     ],
+    "name:por_x_preferred":[
+        "Maap"
+    ],
     "name:spa_x_preferred":[
         "Maap"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890451701,
-    "wof:lastmodified":1566596181,
+    "wof:lastmodified":1690893343,
     "wof:name":"Maap Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -48,6 +48,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30d5\u30a1\u30ea\u30af\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Ifalika"
+    ],
     "name:nld_x_preferred":[
         "Ifalik"
     ],
@@ -61,6 +64,9 @@
         "Ifaluk"
     ],
     "name:swe_x_preferred":[
+        "Ifalik"
+    ],
+    "name:tur_x_preferred":[
         "Ifalik"
     ],
     "name:wuu_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890455487,
-    "wof:lastmodified":1566596174,
+    "wof:lastmodified":1690893337,
     "wof:name":"Ifalik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

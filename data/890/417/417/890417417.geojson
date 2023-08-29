@@ -51,6 +51,12 @@
     "name:nld_x_preferred":[
         "Oneop"
     ],
+    "name:por_x_preferred":[
+        "Oneop"
+    ],
+    "name:spa_x_preferred":[
+        "Oneop"
+    ],
     "name:swe_x_preferred":[
         "Oneop"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890417417,
-    "wof:lastmodified":1566596178,
+    "wof:lastmodified":1690893340,
     "wof:name":"Oneop Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -48,6 +48,9 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30eb\u30ef\u30c3\u30c8\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Puluvata"
+    ],
     "name:lit_x_preferred":[
         "Poluvatas"
     ],
@@ -60,8 +63,14 @@
     "name:pol_x_preferred":[
         "Polowat"
     ],
+    "name:por_x_preferred":[
+        "Poluwat"
+    ],
     "name:swe_x_preferred":[
         "Polowat"
+    ],
+    "name:tur_x_preferred":[
+        "Poluwat"
     ],
     "name:und_x_variant":[
         "Puluwat Municipality"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":890453055,
-    "wof:lastmodified":1566596176,
+    "wof:lastmodified":1690893339,
     "wof:name":"Polowat Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

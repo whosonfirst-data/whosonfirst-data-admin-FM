@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Uman"
+    ],
     "name:ceb_x_preferred":[
         "Uman Island"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890445313,
-    "wof:lastmodified":1566596180,
+    "wof:lastmodified":1690893342,
     "wof:name":"Uman Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30a2\u30ad\u30ed\u30a2\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Mvokillo"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043a\u0438\u043b\u0441\u043a\u0438 \u0410\u0442\u043e\u043b"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:pon_x_preferred":[
         "Mwoakilloa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u0438\u043b"
     ],
     "name:spa_x_preferred":[
         "Mokil"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890413013,
-    "wof:lastmodified":1566596168,
+    "wof:lastmodified":1690893331,
     "wof:name":"Mokil Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

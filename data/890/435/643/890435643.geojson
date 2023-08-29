@@ -33,6 +33,12 @@
     "name:aze_x_preferred":[
         "Nukuoro atollu"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043e\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nukuoro"
+    ],
     "name:ceb_x_preferred":[
         "Nukuoro Atoll"
     ],
@@ -60,6 +66,9 @@
     "name:lat_x_preferred":[
         "Nukuoro"
     ],
+    "name:lav_x_preferred":[
+        "Nukuoro"
+    ],
     "name:lit_x_preferred":[
         "Nukuoras"
     ],
@@ -81,8 +90,17 @@
     "name:swe_x_preferred":[
         "Nukuoro Atoll"
     ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e39\u0e01\u0e39\u0e42\u0e2d\u0e42\u0e23"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u043a\u0443\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06a9\u0624\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Nukuoro"
     ],
     "name:zho_x_preferred":[
         "\u52aa\u5eab\u5967\u7f85\u74b0\u7901"
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":890435643,
-    "wof:lastmodified":1566596182,
+    "wof:lastmodified":1690893344,
     "wof:name":"Nukuoro Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

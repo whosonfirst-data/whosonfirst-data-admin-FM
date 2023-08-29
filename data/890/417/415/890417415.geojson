@@ -48,6 +48,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30e6\u74b0\u7901"
     ],
+    "name:lav_x_preferred":[
+        "Faju"
+    ],
     "name:spa_x_preferred":[
         "Fayu"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890417415,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1690893340,
     "wof:name":"Nomwin Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

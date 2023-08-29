@@ -54,6 +54,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\ud0c0\uc644 \ud658\ucd08"
     ],
+    "name:lav_x_preferred":[
+        "Satavana"
+    ],
     "name:lit_x_preferred":[
         "Satavanas"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890442749,
-    "wof:lastmodified":1566596179,
+    "wof:lastmodified":1690893341,
     "wof:name":"Moch Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

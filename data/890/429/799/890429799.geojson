@@ -43,6 +43,12 @@
     "name:nld_x_preferred":[
         "Fananu"
     ],
+    "name:por_x_preferred":[
+        "Fananu"
+    ],
+    "name:spa_x_preferred":[
+        "Fananu"
+    ],
     "name:swe_x_preferred":[
         "Fananu"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890429799,
-    "wof:lastmodified":1566596178,
+    "wof:lastmodified":1690893340,
     "wof:name":"Fananu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

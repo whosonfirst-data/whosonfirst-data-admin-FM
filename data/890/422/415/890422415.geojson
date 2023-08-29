@@ -43,11 +43,20 @@
     "name:pol_x_preferred":[
         "Fanapanges"
     ],
+    "name:por_x_preferred":[
+        "Fala-Beguets"
+    ],
+    "name:spa_x_preferred":[
+        "Fanapanges"
+    ],
     "name:swe_x_preferred":[
         "Fanapanges Island"
     ],
     "name:und_x_variant":[
         "Kayo To"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9-\u8d1d\u76d6\u8328\u5c9b"
     ],
     "qs:name":"Fanapanges Island",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890422415,
-    "wof:lastmodified":1566596167,
+    "wof:lastmodified":1690893330,
     "wof:name":"Fanapanges Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

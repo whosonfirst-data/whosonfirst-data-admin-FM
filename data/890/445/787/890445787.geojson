@@ -40,6 +40,12 @@
     "name:nld_x_preferred":[
         "Sokehs"
     ],
+    "name:por_x_preferred":[
+        "Sokehs"
+    ],
+    "name:spa_x_preferred":[
+        "Sokehs"
+    ],
     "name:swe_x_preferred":[
         "Sokehs Municipality"
     ],
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890445787,
-    "wof:lastmodified":1566596181,
+    "wof:lastmodified":1690893343,
     "wof:name":"Mokil Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

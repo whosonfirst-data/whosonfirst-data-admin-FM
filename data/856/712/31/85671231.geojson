@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ary_x_preferred":[
+        "\u0648\u064a\u0644\u0627\u064a\u0629 \u0643\u0648\u0635\u0631\u064a"
+    ],
     "name:deu_x_preferred":[
         "Bundesstaat Kosrae"
     ],
@@ -39,10 +42,16 @@
     "name:eng_x_variant":[
         "Kosrae State"
     ],
+    "name:eus_x_preferred":[
+        "Kosrae"
+    ],
     "name:fin_x_preferred":[
         "Kosraen osavaltio"
     ],
     "name:fra_x_preferred":[
+        "Kosrae"
+    ],
+    "name:frr_x_preferred":[
         "Kosrae"
     ],
     "name:heb_x_preferred":[
@@ -56,6 +65,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0441\u0430\u0438\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0441\u0440\u0430\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0440\u0430\u0454"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"FSM",
@@ -173,7 +188,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494975,
+    "wof:lastmodified":1690893329,
     "wof:name":"Kosrae",
     "wof:parent_id":85632431,
     "wof:placetype":"region",
