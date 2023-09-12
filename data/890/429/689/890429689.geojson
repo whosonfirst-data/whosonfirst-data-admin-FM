@@ -103,7 +103,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051825,
-    "wof:geomhash":"c5bfee8e810c98eccf92c5b600838bef",
+    "wof:geomhash":"ef5e6e59de0f06b8d48cdb77bbc64df0",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":890429689,
-    "wof:lastmodified":1690893340,
+    "wof:lastmodified":1694492373,
     "wof:name":"Ngulu Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

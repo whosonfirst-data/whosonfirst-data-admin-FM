@@ -82,7 +82,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052954,
-    "wof:geomhash":"f2d89af3250fa23a8e43f714d7217317",
+    "wof:geomhash":"93a65c3ec793ebbc6463a8107b6525e8",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890455485,
-    "wof:lastmodified":1690893336,
+    "wof:lastmodified":1694492373,
     "wof:name":"Gilman Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

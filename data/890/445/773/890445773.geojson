@@ -88,7 +88,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052522,
-    "wof:geomhash":"f646c0542947beebf52bceda6a2e7605",
+    "wof:geomhash":"915fcc47ea2af3dd543b5f04e0c3fbcd",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":890445773,
-    "wof:lastmodified":1690893343,
+    "wof:lastmodified":1694492373,
     "wof:name":"Tamatam Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

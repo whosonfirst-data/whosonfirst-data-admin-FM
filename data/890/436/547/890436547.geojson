@@ -105,7 +105,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052115,
-    "wof:geomhash":"deddcc8abdc4e772536ffefc56fca139",
+    "wof:geomhash":"bdaa28d4121da81cbb500c1961157568",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":890436547,
-    "wof:lastmodified":1566596175,
+    "wof:lastmodified":1694492373,
     "wof:name":"Nema Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

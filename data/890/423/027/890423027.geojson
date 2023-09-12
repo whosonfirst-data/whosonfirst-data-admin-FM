@@ -13,11 +13,20 @@
     "gn:fcode":"ADM2",
     "gn:population":13802,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Weno-Choniro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Weno-Choniro"
+    ],
     "name:fra_x_preferred":[
         "Weno"
     ],
@@ -38,7 +47,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051477,
-    "wof:geomhash":"bc77dabf80bb45f2676fb097ae271557",
+    "wof:geomhash":"66c5fcb427288865ac6b71fc51575f20",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -48,8 +57,8 @@
         }
     ],
     "wof:id":890423027,
-    "wof:lastmodified":1628266744,
-    "wof:name":"Weno-Choniro Municipality",
+    "wof:lastmodified":1694497770,
+    "wof:name":"Weno-Choniro",
     "wof:parent_id":85671221,
     "wof:placetype":"county",
     "wof:population":13802,

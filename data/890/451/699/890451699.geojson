@@ -97,7 +97,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052790,
-    "wof:geomhash":"90e5661f9a5ebf5af131c0d75e100685",
+    "wof:geomhash":"fa4720e256f41fc3945f3f77ec2e56d9",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":890451699,
-    "wof:lastmodified":1690893344,
+    "wof:lastmodified":1694492373,
     "wof:name":"Lamotrek Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

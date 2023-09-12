@@ -121,7 +121,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051541,
-    "wof:geomhash":"659c88c639c41caad317fe1e2b3f5189",
+    "wof:geomhash":"840a276411481567dcc948886205f3a8",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":890424365,
-    "wof:lastmodified":1690893333,
+    "wof:lastmodified":1694492373,
     "wof:name":"Ulithi Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

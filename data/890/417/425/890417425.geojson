@@ -454,7 +454,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051202,
-    "wof:geomhash":"df5d61d722928519ddd7dbca72e80faf",
+    "wof:geomhash":"421d975cf4f72a7e1fa2a571f04f6221",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -462,7 +462,7 @@
         }
     ],
     "wof:id":890417425,
-    "wof:lastmodified":1690893339,
+    "wof:lastmodified":1694492373,
     "wof:name":"Pwene Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

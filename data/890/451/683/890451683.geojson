@@ -108,7 +108,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052790,
-    "wof:geomhash":"f1c5f058da9c74f40fbb1a89d8f19510",
+    "wof:geomhash":"829a0fbfde83174cdad6ebbfd5247bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":890451683,
-    "wof:lastmodified":1690893344,
+    "wof:lastmodified":1694492373,
     "wof:name":"Fais Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

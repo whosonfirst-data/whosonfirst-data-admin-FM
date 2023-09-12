@@ -97,7 +97,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052790,
-    "wof:geomhash":"4e1b6505d8c44c0e89edebd40be797c2",
+    "wof:geomhash":"a17e3ff83e27b4d62dc8bb5b287caf9f",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":890451681,
-    "wof:lastmodified":1690893343,
+    "wof:lastmodified":1694492373,
     "wof:name":"Elato Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

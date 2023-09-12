@@ -57,7 +57,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052522,
-    "wof:geomhash":"11edf0fdd6a15f1e668c9acdfb306943",
+    "wof:geomhash":"b2e9def54da2a21f6a7d56e6be2040d4",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":890445769,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1694492673,
     "wof:name":"Ta Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

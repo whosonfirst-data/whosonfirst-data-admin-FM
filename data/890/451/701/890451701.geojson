@@ -88,7 +88,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052790,
-    "wof:geomhash":"56bca7ef6663769fc8576027e25477cb",
+    "wof:geomhash":"4408ec90e907ecd0fae4953e31d61f61",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":890451701,
-    "wof:lastmodified":1690893343,
+    "wof:lastmodified":1694492373,
     "wof:name":"Maap Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

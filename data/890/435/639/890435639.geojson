@@ -103,7 +103,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052075,
-    "wof:geomhash":"ab1eda057cbfb82eb42b1c51d4a1adc3",
+    "wof:geomhash":"37c8bdcbbed001376a969af2c72f2652",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":890435639,
-    "wof:lastmodified":1690893345,
+    "wof:lastmodified":1694492373,
     "wof:name":"Ngatik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

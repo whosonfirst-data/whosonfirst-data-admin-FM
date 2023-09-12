@@ -106,7 +106,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052839,
-    "wof:geomhash":"b7e93d98d4f4f39f6fc7724c0810d321",
+    "wof:geomhash":"80603c7bbdc6ce4f0399a533fe538cdf",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":890453055,
-    "wof:lastmodified":1690893339,
+    "wof:lastmodified":1694492373,
     "wof:name":"Polowat Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

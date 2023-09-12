@@ -13,11 +13,20 @@
     "gn:fcode":"ADM2",
     "gn:population":523,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Piis-Panewu Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Piis-Panewu"
+    ],
     "name:fra_x_preferred":[
         "Piis-Panewu"
     ],
@@ -36,7 +45,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052839,
-    "wof:geomhash":"30ebff393fd8793e1a57c96d3b38c6da",
+    "wof:geomhash":"222f52b78f0281e297ba2740a8a56a02",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,8 +53,8 @@
         }
     ],
     "wof:id":890453063,
-    "wof:lastmodified":1628266700,
-    "wof:name":"Piis-Panewu Municipality",
+    "wof:lastmodified":1694497770,
+    "wof:name":"Piis-Panewu",
     "wof:parent_id":-1,
     "wof:placetype":"county",
     "wof:population":523,
