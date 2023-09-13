@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Oneisom"
     ],
+    "name:eng_x_variant":[
+        "Oneisom Municipality"
+    ],
     "name:fra_x_preferred":[
         "Wonei"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890453065,
-    "wof:lastmodified":1694497770,
+    "wof:lastmodified":1694639681,
     "wof:name":"Oneisom",
     "wof:parent_id":-1,
     "wof:placetype":"county",

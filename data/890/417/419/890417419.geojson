@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Onou"
     ],
+    "name:eng_x_variant":[
+        "Onou Municipality"
+    ],
     "name:est_x_preferred":[
         "Elaf\u00f3nisos"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890417419,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1694639681,
     "wof:name":"Onou",
     "wof:parent_id":-1,
     "wof:placetype":"county",

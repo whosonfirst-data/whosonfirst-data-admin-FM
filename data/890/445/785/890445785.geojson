@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Unanu"
     ],
+    "name:eng_x_variant":[
+        "Unanu Municipality"
+    ],
     "name:epo_x_preferred":[
         "\u0108uuk"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890445785,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1694639681,
     "wof:name":"Unanu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

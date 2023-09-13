@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Piis-Panewu"
     ],
+    "name:eng_x_variant":[
+        "Piis-Panewu Municipality"
+    ],
     "name:fra_x_preferred":[
         "Piis-Panewu"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890453063,
-    "wof:lastmodified":1694497770,
+    "wof:lastmodified":1694639681,
     "wof:name":"Piis-Panewu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

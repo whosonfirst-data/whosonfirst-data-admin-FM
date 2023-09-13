@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Tolensom"
     ],
+    "name:eng_x_variant":[
+        "Tolensom Municipality"
+    ],
     "name:fra_x_preferred":[
         "Tolensom"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890445775,
-    "wof:lastmodified":1694497770,
+    "wof:lastmodified":1694639681,
     "wof:name":"Tolensom",
     "wof:parent_id":-1,
     "wof:placetype":"county",

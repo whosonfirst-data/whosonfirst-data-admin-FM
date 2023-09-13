@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Weno-Choniro"
     ],
+    "name:eng_x_variant":[
+        "Weno-Choniro Municipality"
+    ],
     "name:fra_x_preferred":[
         "Weno"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890423027,
-    "wof:lastmodified":1694497770,
+    "wof:lastmodified":1694639681,
     "wof:name":"Weno-Choniro",
     "wof:parent_id":85671221,
     "wof:placetype":"county",
