@@ -133,7 +133,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052075,
-    "wof:geomhash":"5b6953f990463b96a4af3cef147aa192",
+    "wof:geomhash":"81e6b6dc8e8f9562866d22c4f7629b65",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":890435643,
-    "wof:lastmodified":1690893344,
+    "wof:lastmodified":1694492373,
     "wof:name":"Nukuoro Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

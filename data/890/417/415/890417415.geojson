@@ -88,7 +88,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051201,
-    "wof:geomhash":"249c7599eee9d742b83637106c615bc8",
+    "wof:geomhash":"91b8b0de0f4c9f5410dbff1999abf79d",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":890417415,
-    "wof:lastmodified":1690893340,
+    "wof:lastmodified":1694492673,
     "wof:name":"Nomwin Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

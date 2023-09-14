@@ -13,11 +13,20 @@
     "gn:fcode":"ADM2",
     "gn:population":490,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Siis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Siis"
+    ],
     "name:fra_x_preferred":[
         "Siis"
     ],
@@ -38,7 +47,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052522,
-    "wof:geomhash":"316126fe989f60a59475341ada24bd57",
+    "wof:geomhash":"bf4fe508c59b79fcdfe05844a47d8ff1",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":890445779,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694497770,
     "wof:name":"Siis Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

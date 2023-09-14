@@ -13,11 +13,23 @@
     "gn:fcode":"ADM2",
     "gn:population":245,
     "iso:country":"FM",
+    "label:eng_x_preferred_longname":[
+        "Piherarh Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Piherarh"
+    ],
+    "name:eng_x_variant":[
+        "Piherarh Municipality"
+    ],
     "name:fra_x_preferred":[
         "Piherarh"
     ],
@@ -36,7 +48,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051201,
-    "wof:geomhash":"ea1fecc430155832557c3cbced5da2e0",
+    "wof:geomhash":"5fded0d01c9859f17e111b29e3709421",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -44,8 +56,8 @@
         }
     ],
     "wof:id":890417423,
-    "wof:lastmodified":1628266700,
-    "wof:name":"Piherarh Municipality",
+    "wof:lastmodified":1694639681,
+    "wof:name":"Piherarh",
     "wof:parent_id":-1,
     "wof:placetype":"county",
     "wof:population":245,

@@ -100,7 +100,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052954,
-    "wof:geomhash":"dead8641844d1e71d51e435b65a9fd08",
+    "wof:geomhash":"bcb1e5f9442a3f04deddc6d1bc67fd08",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":890455483,
-    "wof:lastmodified":1690893337,
+    "wof:lastmodified":1694492373,
     "wof:name":"Faraulep Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

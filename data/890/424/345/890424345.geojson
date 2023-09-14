@@ -82,7 +82,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051540,
-    "wof:geomhash":"a6ce16044b96f3c973dd3858084a297b",
+    "wof:geomhash":"063c4e9715195d955c468c6a65712b69",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890424345,
-    "wof:lastmodified":1690893335,
+    "wof:lastmodified":1694492373,
     "wof:name":"Kitti Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

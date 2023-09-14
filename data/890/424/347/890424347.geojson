@@ -258,7 +258,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051540,
-    "wof:geomhash":"c180121a0e69e93c6765c5578de75d90",
+    "wof:geomhash":"980824fa3556f60a8a7de2578205bfd1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":890424347,
-    "wof:lastmodified":1690893334,
+    "wof:lastmodified":1694492373,
     "wof:name":"Kolonia Municipality",
     "wof:parent_id":85671217,
     "wof:placetype":"county",

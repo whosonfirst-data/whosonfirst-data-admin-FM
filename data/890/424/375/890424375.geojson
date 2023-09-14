@@ -144,7 +144,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051541,
-    "wof:geomhash":"1741dac1062ee63e53e7606cefdce31d",
+    "wof:geomhash":"cec57f3f0500d72d1818905da089229b",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":890424375,
-    "wof:lastmodified":1566596173,
+    "wof:lastmodified":1694492373,
     "wof:name":"Ettal Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

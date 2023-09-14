@@ -108,7 +108,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051825,
-    "wof:geomhash":"006a5b4661121d67e00bc9bdc59fec99",
+    "wof:geomhash":"89dbbb2a4b5556e0036a3e14df886b16",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":890429695,
-    "wof:lastmodified":1690893340,
+    "wof:lastmodified":1694492373,
     "wof:name":"Makur Municipality",
     "wof:parent_id":85671221,
     "wof:placetype":"county",

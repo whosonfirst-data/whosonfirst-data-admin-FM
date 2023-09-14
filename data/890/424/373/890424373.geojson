@@ -82,7 +82,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051541,
-    "wof:geomhash":"b2bc9bd7051f186a7be101c5c89ab7d7",
+    "wof:geomhash":"9a221586b992d2f727aac552d8bacebc",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890424373,
-    "wof:lastmodified":1690893336,
+    "wof:lastmodified":1694492673,
     "wof:name":"Eot Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

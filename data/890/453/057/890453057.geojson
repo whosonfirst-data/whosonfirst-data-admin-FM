@@ -55,7 +55,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469052839,
-    "wof:geomhash":"2bae98bf032112625ada739b56884c59",
+    "wof:geomhash":"a0d1d8b9d2bab3ae6a6183713aaa9c0e",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890453057,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1694492673,
     "wof:name":"Ramanum Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -127,7 +127,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469051541,
-    "wof:geomhash":"4980f679e045f261bf8a9f68773f29df",
+    "wof:geomhash":"0f137e33bd7c0ada05833713c18b7410",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":890424371,
-    "wof:lastmodified":1690893334,
+    "wof:lastmodified":1694492373,
     "wof:name":"Woleai Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
