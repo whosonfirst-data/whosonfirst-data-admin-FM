@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007942,
-    "geom:area_square_m":96858535.263234,
+    "geom:area_square_m":96857826.133448,
     "geom:bbox":"138.063813,7.344143,143.920339,9.77558",
     "geom:latitude":9.479668,
     "geom:longitude":138.29021,
@@ -244,14 +244,16 @@
         "gn:id":2081175,
         "gp:id":2345343,
         "hasc:id":"FM.YA",
+        "iso:code":"FM-YAP",
         "iso:id":"FM-YAP",
         "qs_pg:id":1285213,
         "unlc:id":"FM-YAP",
         "wd:id":"Q11342951",
         "wk:page":"Yap State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FM",
-    "wof:geomhash":"b9df456f67c4096f35859a747340eb09",
+    "wof:geomhash":"55b9887460d04bec05894f95599ab220",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -266,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690893329,
+    "wof:lastmodified":1695884783,
     "wof:name":"Yap",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

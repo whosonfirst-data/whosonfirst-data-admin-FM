@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006113,
-    "geom:area_square_m":74972940.243345,
+    "geom:area_square_m":74973061.697925,
     "geom:bbox":"149.169037,5.286038,153.710704,8.987494",
     "geom:latitude":7.31241,
     "geom:longitude":151.536383,
@@ -321,14 +321,16 @@
         "gn:id":2082282,
         "gp:id":2345342,
         "hasc:id":"FM.CH",
+        "iso:code":"FM-TRK",
         "iso:id":"FM-TRK",
         "qs_pg:id":219553,
         "unlc:id":"FM-TRK",
         "wd:id":"Q221684",
         "wk:page":"Chuuk State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FM",
-    "wof:geomhash":"bcd3f90b399519d1574e573a4fdd5704",
+    "wof:geomhash":"3fd6cd6b955f27819f0f7ca5be335866",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690893329,
+    "wof:lastmodified":1695884783,
     "wof:name":"Chuuk",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

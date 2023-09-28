@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009275,
-    "geom:area_square_m":114192433.692967,
+    "geom:area_square_m":114192516.36422,
     "geom:bbox":"162.91212,5.269761,163.04656,5.379706",
     "geom:latitude":5.318861,
     "geom:longitude":162.984539,
@@ -167,13 +167,15 @@
         "gn:id":2082036,
         "gp:id":2345340,
         "hasc:id":"FM.KO",
+        "iso:code":"FM-KSA",
         "iso:id":"FM-KSA",
         "qs_pg:id":894890,
         "unlc:id":"FM-KSA",
         "wd:id":"Q1785093"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FM",
-    "wof:geomhash":"4a4ed7b197742ced0215474f3f2eb05f",
+    "wof:geomhash":"30bc532af38437f2f1ded6df03106d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -188,7 +190,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690893329,
+    "wof:lastmodified":1695884784,
     "wof:name":"Kosrae",
     "wof:parent_id":85632431,
     "wof:placetype":"region",

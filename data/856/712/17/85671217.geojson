@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032589,
-    "geom:area_square_m":400007919.99667,
+    "geom:area_square_m":400007522.378566,
     "geom:bbox":"154.238455,0.918158,158.338634,8.185085",
     "geom:latitude":6.896505,
     "geom:longitude":157.689161,
@@ -270,14 +270,16 @@
         "gn:id":2081550,
         "gp:id":2345341,
         "hasc:id":"FM.PO",
+        "iso:code":"FM-PNI",
         "iso:id":"FM-PNI",
         "qs_pg:id":235595,
         "unlc:id":"FM-PNI",
         "wd:id":"Q7771127",
         "wk:page":"Pohnpei State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FM",
-    "wof:geomhash":"f448725e12cd5857328d8d6f4caeacbc",
+    "wof:geomhash":"2f26ff18035fd2a169fd53fe02a3fa53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -292,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690893329,
+    "wof:lastmodified":1695884783,
     "wof:name":"Pohnpei",
     "wof:parent_id":85632431,
     "wof:placetype":"region",
