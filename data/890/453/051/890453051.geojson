@@ -22,7 +22,7 @@
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Piis-Emwar"
@@ -44,8 +44,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626978,
+        "hasc:id_pseudo":"FM.XX.09",
         "qs_pg:id":694204
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"FM",
     "wof:created":1469052839,
     "wof:geomhash":"6c263783ecb1db6119318a2197f5fb4b",
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":890453051,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695887128,
     "wof:name":"Piis-Emwar",
     "wof:parent_id":-1,
     "wof:placetype":"county",

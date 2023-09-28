@@ -92,6 +92,7 @@
         "wd:id":"Q1115044",
         "wk:page":"Pulap"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052839,
     "wof:geomhash":"c651c7bdcbab4a6499f318e626cccf13",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890453053,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Pollap Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

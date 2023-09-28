@@ -76,6 +76,7 @@
         "wd:id":"Q3812782",
         "wk:page":"Kanifay"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052108,
     "wof:geomhash":"8259953229102b7e10d5fd7fafeb87e8",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890436355,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Kanifay Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

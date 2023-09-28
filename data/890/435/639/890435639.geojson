@@ -101,6 +101,7 @@
         "wd:id":"Q1313806",
         "wk:page":"Sapwuahfik"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052075,
     "wof:geomhash":"37c8bdcbbed001376a969af2c72f2652",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890435639,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Ngatik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

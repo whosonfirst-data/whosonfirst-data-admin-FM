@@ -80,6 +80,7 @@
         "wd:id":"Q3476865",
         "wk:page":"Sebastian Anefal"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052954,
     "wof:geomhash":"93a65c3ec793ebbc6463a8107b6525e8",
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":890455485,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Gilman Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

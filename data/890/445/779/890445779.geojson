@@ -22,7 +22,7 @@
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Siis"
@@ -42,9 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626988,
+        "hasc:id_pseudo":"FM.XX.11",
         "qs_pg:id":694213,
         "wk:page":"List of FIPS region codes (S\u2013U)"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"FM",
     "wof:created":1469052522,
     "wof:geomhash":"bf4fe508c59b79fcdfe05844a47d8ff1",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":890445779,
-    "wof:lastmodified":1694497770,
+    "wof:lastmodified":1695887129,
     "wof:name":"Siis Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

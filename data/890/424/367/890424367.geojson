@@ -58,6 +58,7 @@
         "wd:id":"Q7037740",
         "wk:page":"Nimpal Channel Marine Conservation Area"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051541,
     "wof:geomhash":"3f161fddebf2ccdace993adaadce63a8",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890424367,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Weloy Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

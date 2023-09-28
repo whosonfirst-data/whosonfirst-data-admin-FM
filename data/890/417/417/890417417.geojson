@@ -86,6 +86,7 @@
         "wd:id":"Q3352704",
         "wk:page":"Oneop"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051201,
     "wof:geomhash":"c154a2005531eafc51080934ad94ecb1",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890417417,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Oneop Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

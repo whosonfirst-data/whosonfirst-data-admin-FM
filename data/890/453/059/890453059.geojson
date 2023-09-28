@@ -64,6 +64,7 @@
         "qs_pg:id":694208,
         "wk:page":"Ruo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052839,
     "wof:geomhash":"38304e32e003b5c00fee6c0bf7ded999",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":890453059,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Ruo Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

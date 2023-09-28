@@ -85,6 +85,7 @@
         "wd:id":"Q7379073",
         "wk:page":"Rull"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
     "wof:geomhash":"b5746c687f70925877a5963f717c7155",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890424357,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886617,
     "wof:name":"Rull Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

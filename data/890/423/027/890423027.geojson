@@ -22,7 +22,7 @@
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Weno-Choniro"
@@ -46,8 +46,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626992,
+        "hasc:id_pseudo":"FM.XX.15",
         "qs_pg:id":694217
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"FM",
     "wof:created":1469051477,
     "wof:geomhash":"66c5fcb427288865ac6b71fc51575f20",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":890423027,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695887129,
     "wof:name":"Weno-Choniro",
     "wof:parent_id":85671221,
     "wof:placetype":"county",

@@ -95,6 +95,7 @@
         "wd:id":"Q1325019",
         "wk:page":"Elato"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"a17e3ff83e27b4d62dc8bb5b287caf9f",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890451681,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Elato Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

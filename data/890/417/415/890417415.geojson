@@ -86,6 +86,7 @@
         "wd:id":"Q1107413",
         "wk:page":"Fayu Atoll"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051201,
     "wof:geomhash":"91b8b0de0f4c9f5410dbff1999abf79d",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890417415,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886617,
     "wof:name":"Nomwin Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

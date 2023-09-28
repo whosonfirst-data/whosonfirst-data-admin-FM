@@ -103,6 +103,7 @@
         "qs_pg:id":694196,
         "wk:page":"Kl\u00ed\u017eska Nem\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052115,
     "wof:geomhash":"bdaa28d4121da81cbb500c1961157568",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":890436547,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Nema Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -80,6 +80,7 @@
         "wd:id":"Q6912104",
         "wk:page":"Mori Koben"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051541,
     "wof:geomhash":"9a221586b992d2f727aac552d8bacebc",
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":890424373,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Eot Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

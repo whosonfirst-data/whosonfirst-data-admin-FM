@@ -107,6 +107,7 @@
         "wd:id":"Q1191287",
         "wk:page":"Satawan"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052376,
     "wof:geomhash":"d6295c0bb9aad112500137d72db5e5e8",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890442749,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Moch Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

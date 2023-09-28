@@ -53,6 +53,7 @@
         "hasc:id":"FM.CH.UM",
         "qs_pg:id":694215
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052522,
     "wof:geomhash":"2a05fa920781e45d6e9e8ebb84ca6b24",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890445783,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Uman-Fonuweisom Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -86,6 +86,7 @@
         "wd:id":"Q3066319",
         "wk:page":"Fala-Beguets"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052897,
     "wof:geomhash":"3dd491503dcc3a2ce3cc7b6dbd3b9219",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890454379,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Fanapanges Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
