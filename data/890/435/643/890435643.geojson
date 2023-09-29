@@ -131,6 +131,7 @@
         "wd:id":"Q187864",
         "wk:page":"Nukuoro"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052075,
     "wof:geomhash":"81e6b6dc8e8f9562866d22c4f7629b65",
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890435643,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Nukuoro Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -104,6 +104,7 @@
         "wd:id":"Q1278448",
         "wk:page":"Eauripik"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"5b48da65a40991e9f6247b2e2f8786ee",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890451679,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Eauripik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

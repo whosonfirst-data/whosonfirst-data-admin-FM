@@ -119,6 +119,7 @@
         "wd:id":"Q1350219",
         "wk:page":"Ulithi"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051541,
     "wof:geomhash":"840a276411481567dcc948886205f3a8",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":890424365,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Ulithi Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

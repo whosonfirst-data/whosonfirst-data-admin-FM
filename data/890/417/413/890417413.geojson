@@ -89,6 +89,7 @@
         "wd:id":"Q1964365",
         "wk:page":"Namoluk"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051201,
     "wof:geomhash":"aa6472bd704c8451bc2d123e3838ff99",
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890417413,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Namoluk Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

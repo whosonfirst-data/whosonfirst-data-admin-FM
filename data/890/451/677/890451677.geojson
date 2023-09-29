@@ -79,6 +79,7 @@
         "wd:id":"Q3397624",
         "wk:page":"Dalipebinau"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"aaf3bfb34c05544d221d750a83e249f0",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":890451677,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886616,
     "wof:name":"Dalipebinaw Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

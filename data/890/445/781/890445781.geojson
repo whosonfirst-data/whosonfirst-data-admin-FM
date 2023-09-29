@@ -53,6 +53,7 @@
         "hasc:id":"FM.CH.UD",
         "qs_pg:id":694214
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052522,
     "wof:geomhash":"fbcc6ee039874772fced086048d25091",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890445781,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Udot-Fonuweisom Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

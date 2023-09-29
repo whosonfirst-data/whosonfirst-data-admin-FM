@@ -86,6 +86,7 @@
         "wd:id":"Q1133174",
         "wk:page":"Maap"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"4408ec90e907ecd0fae4953e31d61f61",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890451701,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Maap Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

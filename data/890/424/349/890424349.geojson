@@ -53,6 +53,7 @@
         "hasc:id":"FM.PO.MA",
         "qs_pg:id":694149
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
     "wof:geomhash":"2ac534b87ca579a845493445b4d012cd",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890424349,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886617,
     "wof:name":"Madolenihm Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

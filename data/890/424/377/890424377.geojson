@@ -86,6 +86,7 @@
         "wd:id":"Q1604754",
         "wk:page":"Fananu"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051541,
     "wof:geomhash":"221a62f602fe1a8349bf51b3d7e0cbac",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890424377,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Fananu Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -104,6 +104,7 @@
         "wd:id":"Q1191287",
         "wk:page":"Satawan"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052953,
     "wof:geomhash":"d2cd4ecf0354f687d3476203a3234165",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890455451,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Satowan Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

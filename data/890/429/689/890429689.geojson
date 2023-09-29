@@ -101,6 +101,7 @@
         "wd:id":"Q1115131",
         "wk:page":"Ngulu Atoll"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051825,
     "wof:geomhash":"ef5e6e59de0f06b8d48cdb77bbc64df0",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890429689,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Ngulu Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

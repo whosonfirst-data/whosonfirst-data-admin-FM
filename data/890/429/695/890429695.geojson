@@ -106,6 +106,7 @@
         "wd:id":"Q1573799",
         "wk:page":"Namonuito Atoll"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051825,
     "wof:geomhash":"89dbbb2a4b5556e0036a3e14df886b16",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890429695,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Makur Municipality",
     "wof:parent_id":85671221,
     "wof:placetype":"county",

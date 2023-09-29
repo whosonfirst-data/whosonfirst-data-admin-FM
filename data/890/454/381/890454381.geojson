@@ -53,6 +53,7 @@
         "hasc:id":"FM.CH.FF",
         "qs_pg:id":694188
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052897,
     "wof:geomhash":"b9b778c834b532d36b98b00d4d288a84",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890454381,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Fefen Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

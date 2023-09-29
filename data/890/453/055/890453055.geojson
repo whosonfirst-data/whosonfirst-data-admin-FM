@@ -104,6 +104,7 @@
         "wd:id":"Q2064464",
         "wk:page":"Poluwat"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052839,
     "wof:geomhash":"80603c7bbdc6ce4f0399a533fe538cdf",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890453055,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Polowat Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

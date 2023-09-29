@@ -91,6 +91,7 @@
         "wd:id":"Q2570130",
         "wk:page":"Nett"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
     "wof:geomhash":"aba37707b78da735e4d3e7251bde0a72",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":890424355,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Nett Municipality",
     "wof:parent_id":85671217,
     "wof:placetype":"county",

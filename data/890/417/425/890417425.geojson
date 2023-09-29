@@ -452,6 +452,7 @@
         "wd:id":"Q41493",
         "wk:page":"Ancient history"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051202,
     "wof:geomhash":"421d975cf4f72a7e1fa2a571f04f6221",
@@ -462,7 +463,7 @@
         }
     ],
     "wof:id":890417425,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Pwene Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

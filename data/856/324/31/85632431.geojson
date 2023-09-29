@@ -1050,6 +1050,7 @@
         "gp:id":23424815,
         "hasc:id":"FM",
         "ioc:id":"FSM",
+        "iso:code":"FM",
         "itu:id":"FSM",
         "loc:id":"n83074223",
         "m49:code":"583",
@@ -1062,6 +1063,7 @@
         "wd:id":"Q702",
         "wk:page":"Federated States of Micronesia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FM",
     "wof:country_alpha3":"FSM",
     "wof:geom_alt":[
@@ -1082,7 +1084,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639504,
+    "wof:lastmodified":1695881158,
     "wof:name":"Federated States of Micronesia",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -256,6 +256,7 @@
         "wd:id":"Q514165",
         "wk:page":"Kolonia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
     "wof:geomhash":"980824fa3556f60a8a7de2578205bfd1",
@@ -268,7 +269,7 @@
         }
     ],
     "wof:id":890424347,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Kolonia Municipality",
     "wof:parent_id":85671217,
     "wof:placetype":"county",

@@ -107,6 +107,7 @@
         "wd:id":"Q1191287",
         "wk:page":"Satawan"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051825,
     "wof:geomhash":"e3a25bd1da30d1b1815c7e5e9df3371e",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890429691,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Kuttu Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

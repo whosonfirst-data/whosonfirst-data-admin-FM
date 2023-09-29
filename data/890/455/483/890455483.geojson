@@ -98,6 +98,7 @@
         "wd:id":"Q1396235",
         "wk:page":"Faraulep"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052954,
     "wof:geomhash":"bcb1e5f9442a3f04deddc6d1bc67fd08",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":890455483,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886737,
     "wof:name":"Faraulep Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

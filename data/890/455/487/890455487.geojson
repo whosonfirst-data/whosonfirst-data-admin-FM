@@ -104,6 +104,7 @@
         "wd:id":"Q1430734",
         "wk:page":"Ifalik"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052954,
     "wof:geomhash":"ef6adea82e2530fe08fb3129b5e579fb",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":890455487,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Ifalik Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

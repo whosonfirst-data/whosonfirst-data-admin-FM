@@ -83,6 +83,7 @@
         "wd:id":"Q3757207",
         "wk:page":"Gagil"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052108,
     "wof:geomhash":"f6c22aef036b86fbcdebf10609ba9e75",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":890436353,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Gagil Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

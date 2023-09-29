@@ -76,6 +76,7 @@
         "wd:id":"Q3942661",
         "wk:page":"Rumung"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
     "wof:geomhash":"82bb9774b295f89b248992b57caecb70",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890424359,
-    "wof:lastmodified":1694492673,
+    "wof:lastmodified":1695886618,
     "wof:name":"Rumung Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

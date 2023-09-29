@@ -95,6 +95,7 @@
         "wd:id":"Q1779228",
         "wk:page":"Lamotrek"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"fa4720e256f41fc3945f3f77ec2e56d9",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890451699,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Lamotrek Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

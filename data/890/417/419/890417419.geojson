@@ -108,9 +108,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626974,
+        "hasc:id_pseudo":"FM.XX.05",
         "qs_pg:id":694200,
         "wk:page":"Elafonisos"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"FM",
     "wof:created":1469051201,
     "wof:geomhash":"9a4cb134530ca6a2b4224a5641ed0a38",
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":890417419,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695886738,
     "wof:name":"Onou",
     "wof:parent_id":-1,
     "wof:placetype":"county",

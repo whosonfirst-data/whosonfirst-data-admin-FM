@@ -234,6 +234,7 @@
         "wd:id":"Q221684",
         "wk:page":"Chuuk State"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052368,
     "wof:geomhash":"19df71b152df2387bbad2df05cd27a15",
@@ -244,7 +245,7 @@
         }
     ],
     "wof:id":890442573,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Parem Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

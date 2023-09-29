@@ -106,6 +106,7 @@
         "wd:id":"Q1393489",
         "wk:page":"Fais Island"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052790,
     "wof:geomhash":"829a0fbfde83174cdad6ebbfd5247bd2",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890451683,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886739,
     "wof:name":"Fais Municipality",
     "wof:parent_id":85671227,
     "wof:placetype":"county",

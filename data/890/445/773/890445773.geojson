@@ -86,6 +86,7 @@
         "wd:id":"Q1604777",
         "wk:page":"Tamatam"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469052522,
     "wof:geomhash":"915fcc47ea2af3dd543b5f04e0c3fbcd",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890445773,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886738,
     "wof:name":"Tamatam Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",
