@@ -10,6 +10,7 @@
     "geom:latitude":6.915185,
     "geom:longitude":158.159243,
     "iso:country":"FM",
+    "lbl:bbox":"158.129974324,6.89664369601,158.169974324,6.93664369601",
     "lbl:latitude":6.91621,
     "lbl:longitude":158.159725,
     "lbl:max_zoom":18.0,
@@ -27,13 +28,28 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0627\u0644\u064a\u0643\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0644\u064a\u0643\u064a\u0631"
+    ],
     "name:ast_x_preferred":[
+        "Palikir"
+    ],
+    "name:avk_x_preferred":[
         "Palikir"
     ],
     "name:aze_x_preferred":[
         "Palikir"
     ],
+    "name:ban_x_preferred":[
+        "Palikir"
+    ],
     "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0456\u043a\u0456\u0440"
+    ],
+    "name:bel_x_variant":[
         "\u041f\u0430\u043b\u0456\u043a\u0456\u0440"
     ],
     "name:ben_x_preferred":[
@@ -102,6 +118,9 @@
     "name:gla_x_preferred":[
         "Palikir"
     ],
+    "name:gle_x_preferred":[
+        "Palikir"
+    ],
     "name:glg_x_preferred":[
         "Palikir"
     ],
@@ -116,6 +135,12 @@
     ],
     "name:hif_x_preferred":[
         "Palikir"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u092a\u0947\u0932\u093f\u0915\u093f\u092f\u0930"
     ],
     "name:hrv_x_preferred":[
         "Palikir"
@@ -165,11 +190,20 @@
     "name:lav_x_preferred":[
         "Palikira"
     ],
+    "name:lij_x_preferred":[
+        "Palikir"
+    ],
     "name:lit_x_preferred":[
         "Palikyras"
     ],
+    "name:lmo_x_preferred":[
+        "Palikir"
+    ],
     "name:ltz_x_preferred":[
         "Palikir"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d3f\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0932\u093f\u0915\u093f\u0930"
@@ -183,6 +217,9 @@
     "name:msa_x_preferred":[
         "Palikir"
     ],
+    "name:nan_x_preferred":[
+        "Palikir"
+    ],
     "name:nds_x_preferred":[
         "Palikir"
     ],
@@ -190,6 +227,9 @@
         "Palikir"
     ],
     "name:nno_x_preferred":[
+        "Palikir"
+    ],
+    "name:nob_x_preferred":[
         "Palikir"
     ],
     "name:nor_x_preferred":[
@@ -206,6 +246,12 @@
     ],
     "name:por_x_preferred":[
         "Palikir"
+    ],
+    "name:por_x_variant":[
+        "Paliquir"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u06a9\u06cc\u0631"
     ],
     "name:ron_x_preferred":[
         "Palikir"
@@ -231,6 +277,9 @@
     "name:spa_x_preferred":[
         "Palikir"
     ],
+    "name:srd_x_preferred":[
+        "Palikir"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
@@ -245,6 +294,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bbf\u0b95\u0bc0\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c32\u0c40\u0c15\u0c40\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a\u0438\u0440"
     ],
     "name:tgl_x_preferred":[
         "Palikir"
@@ -273,9 +328,102 @@
     "name:wuu_x_preferred":[
         "\u5e15\u5229\u57fa\u723e"
     ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d0\u10da\u10d8\u10d9\u10d8\u10e0\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e15\u5229\u57fa\u723e"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u5229\u57fa\u5c14"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Federated States of Micronesia",
+    "ne:ADM0_A3":"FSM",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CHANGED":4,
+    "ne:CHECKME":5,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":2081986,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Palikir",
+    "ne:GN_POP":4645,
+    "ne:GTOPO30":159.0,
+    "ne:ISO_A2":"FM",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":6.916644,
+    "ne:LONGITUDE":158.149974,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Palikir",
+    "ne:MAX_AREAKM":1.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":158.166667,
+    "ne:MAX_BBXMIN":158.158333,
+    "ne:MAX_BBYMAX":6.916667,
+    "ne:MAX_BBYMIN":6.908333,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":4.0,
+    "ne:MAX_PERMI":2.0,
+    "ne:MAX_POP10":412,
+    "ne:MAX_POP20":412,
+    "ne:MAX_POP300":412,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":412,
+    "ne:MEAN_BBXC":158.1625,
+    "ne:MEAN_BBYC":6.9125,
+    "ne:MEGACITY":0,
+    "ne:MIN_AREAKM":1.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":158.166667,
+    "ne:MIN_BBXMIN":158.158333,
+    "ne:MIN_BBYMAX":6.916667,
+    "ne:MIN_BBYMIN":6.908333,
+    "ne:MIN_PERKM":4.0,
+    "ne:MIN_PERMI":2.0,
+    "ne:NAME":"Palikir",
+    "ne:NAMEASCII":"Palikir",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":30,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4645,
+    "ne:POP_MIN":4645,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Federated States of Micronesia",
+    "ne:SOV_A3":"FSM",
+    "ne:TIMEZONE":"Pacific/Ponape",
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
+    "reversegeo:latitude":6.916644,
+    "reversegeo:longitude":158.149974,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -289,7 +437,9 @@
     "wof:capital_of":[
         85632431
     ],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "wd:id":"Q42751"
+    },
     "wof:country":"FM",
     "wof:created":1459009389,
     "wof:geom_alt":[
@@ -305,13 +455,15 @@
         }
     ],
     "wof:id":1108952565,
-    "wof:lastmodified":1607390898,
+    "wof:lastmodified":1706239532,
     "wof:name":"Palikir",
     "wof:parent_id":85671217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909141
+    ],
     "wof:tags":[]
 },
   "bbox": [
